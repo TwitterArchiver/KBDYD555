@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1939703862371516661",
+    "created_at": "2025-07-01T16:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T17:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940081849235390806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "937675426717159424",
+          "start": 0,
+          "username": "MaoZedong1893__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940081849235390806",
+    "in_reply_to_user_id": "937675426717159424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939925186129559955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaoZedong1893__ 好吧，我有点好奇为啥，她怎么了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1939703862371516661",
+        "created_at": "2025-07-01T16:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T17:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940081849235390806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "937675426717159424",
+              "start": 0,
+              "username": "MaoZedong1893__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940081849235390806",
+        "in_reply_to_user_id": "937675426717159424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939925186129559955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaoZedong1893__ 好吧，我有点好奇为啥，她怎么了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "937675426717159424",
+        "conversation_id": "1939703862371516661",
+        "created_at": "2025-07-01T05:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T06:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939925186129559955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939925186129559955",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939703862371516661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 我纯粹是为了恶心那个444，没有别的意思，冒犯了我来道个歉🙏🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世是碎碎念推/老鼠推/小狗推\n互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆｜小狗:小乖/小眉\n想让我生活好一点的话就给我一点钱吧谢谢你",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1937879363636400639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 217,
+          "like_count": 976,
+          "listed_count": 3,
+          "media_count": 412,
+          "tweet_count": 1236
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-04T13:30:17.000Z",
+        "description": "字润之，笔名子任，湖南湘潭人，伟大的马克思主义者，伟大的无产阶级革命家、战略家、理论家，中国共产党、中国人民解放军和中华人民共和国的主要缔造者和领导人。",
+        "id": "937675426717159424",
+        "name": "毛泽东",
+        "pinned_tweet_id": "1937110296197570796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923359512293203968/AFltvkOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 815,
+          "like_count": 4181,
+          "listed_count": 9,
+          "media_count": 150,
+          "tweet_count": 2138
+        },
+        "username": "MaoZedong1893__",
+        "verified": false
+      }
+    ]
+  }
+}

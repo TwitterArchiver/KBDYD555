@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933112129311428609",
+        "7_1933112134378119168"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1933112178443493644",
+    "created_at": "2025-06-12T10:40:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T11:40:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933112178443493644"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1FFybuvPDt",
+          "end": 37,
+          "expanded_url": "https://x.com/KBDYD555/status/1933112178443493644/video/1",
+          "media_key": "3_1933112129311428609",
+          "start": 14,
+          "url": "https://t.co/1FFybuvPDt"
+        },
+        {
+          "display_url": "pic.x.com/1FFybuvPDt",
+          "end": 37,
+          "expanded_url": "https://x.com/KBDYD555/status/1933112178443493644/video/1",
+          "media_key": "7_1933112134378119168",
+          "start": 14,
+          "url": "https://t.co/1FFybuvPDt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933112178443493644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是从我膝盖里取出的碎骨头 https://t.co/1FFybuvPDt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1933112129311428609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtPLPVKbUAES-RL.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 11019,
+        "height": 1280,
+        "media_key": "7_1933112134378119168",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1933112134378119168/pu/img/3XcssCzu3P5zXvNh.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1933112134378119168/pu/vid/avc1/320x568/UImIIS0-yDuXXu7W.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1933112134378119168/pu/vid/avc1/480x852/EqlrCyMkwIE2GK10.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1933112134378119168/pu/vid/avc1/720x1280/zvvxP20flc-PzRF4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1933112134378119168/pu/pl/6THjUJBEoi4xiC1X.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933112129311428609",
+            "7_1933112134378119168"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1933112178443493644",
+        "created_at": "2025-06-12T10:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T11:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933112178443493644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1FFybuvPDt",
+              "end": 37,
+              "expanded_url": "https://x.com/KBDYD555/status/1933112178443493644/video/1",
+              "media_key": "3_1933112129311428609",
+              "start": 14,
+              "url": "https://t.co/1FFybuvPDt"
+            },
+            {
+              "display_url": "pic.x.com/1FFybuvPDt",
+              "end": 37,
+              "expanded_url": "https://x.com/KBDYD555/status/1933112178443493644/video/1",
+              "media_key": "7_1933112134378119168",
+              "start": 14,
+              "url": "https://t.co/1FFybuvPDt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933112178443493644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是从我膝盖里取出的碎骨头 https://t.co/1FFybuvPDt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世是碎碎念推/老鼠推/小狗推\n互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆｜小狗:小乖/小眉\n想让我生活好一点的话就给我一点钱吧谢谢你",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1930939924402045146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1220,
+          "following_count": 188,
+          "like_count": 776,
+          "listed_count": 3,
+          "media_count": 362,
+          "tweet_count": 1085
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

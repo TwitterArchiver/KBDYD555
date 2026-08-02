@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2048635463410610302",
+    "created_at": "2026-04-27T09:12:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T10:12:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048691703981477916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1813599149407031297",
+          "start": 0,
+          "username": "xcool006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048691703981477916",
+    "in_reply_to_user_id": "1813599149407031297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048677941400449506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xcool006 药店一瓶就这么多啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2048635463410610302",
+        "created_at": "2026-04-27T09:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048691703981477916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1813599149407031297",
+              "start": 0,
+              "username": "xcool006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048691703981477916",
+        "in_reply_to_user_id": "1813599149407031297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048677941400449506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xcool006 药店一瓶就这么多啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813599149407031297",
+        "conversation_id": "2048635463410610302",
+        "created_at": "2026-04-27T08:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048677941400449506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048677941400449506",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048635463410610302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 首先你能搞到这么多甘草片足以证明你很有路子了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫：@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/花枝鼠....互关回来吧...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 86,
+                "start": 78,
+                "username": "kyuukoQ"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2031302686671515896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3850,
+          "following_count": 519,
+          "like_count": 4364,
+          "listed_count": 8,
+          "media_count": 937,
+          "tweet_count": 3427
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T15:38:39.000Z",
+        "description": "",
+        "id": "1813599149407031297",
+        "name": "沉默の鹿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975473707654303744/UKMjUkjb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 29,
+          "like_count": 802,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1167
+        },
+        "username": "xcool006",
+        "verified": false
+      }
+    ]
+  }
+}

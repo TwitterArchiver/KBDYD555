@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1950577121656492123",
+    "created_at": "2025-08-06T05:39:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T06:39:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952967797254025483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2725637629",
+          "start": 0,
+          "username": "1553741523"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952967797254025483",
+    "in_reply_to_user_id": "2725637629",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950578845536670108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1553741523 她不在了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1950577121656492123",
+        "created_at": "2025-08-06T05:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T06:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952967797254025483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2725637629",
+              "start": 0,
+              "username": "1553741523"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952967797254025483",
+        "in_reply_to_user_id": "2725637629",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950578845536670108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1553741523 她不在了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2725637629",
+        "conversation_id": "1950577121656492123",
+        "created_at": "2025-07-30T15:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T16:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950578845536670108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950578845536670108",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950577121656492123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 现在还在吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世是碎碎念推/老鼠推/小狗推\n互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆｜小狗:小乖/小眉\n想让我生活好一点的话就给我一点钱吧谢谢你",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1945367514307059835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1505,
+          "following_count": 229,
+          "like_count": 1275,
+          "listed_count": 4,
+          "media_count": 482,
+          "tweet_count": 1467
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-12T07:06:24.000Z",
+        "description": "",
+        "id": "2725637629",
+        "location": "Московский, Россия",
+        "name": "🎉🎉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1473872103048761345/VRv3BTUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 540,
+          "like_count": 2485,
+          "listed_count": 10,
+          "media_count": 18,
+          "tweet_count": 922
+        },
+        "username": "1553741523",
+        "verified": false
+      }
+    ]
+  }
+}

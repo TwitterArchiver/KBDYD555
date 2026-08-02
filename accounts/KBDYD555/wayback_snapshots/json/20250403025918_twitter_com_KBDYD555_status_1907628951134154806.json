@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1906998147211317737",
+    "created_at": "2025-04-03T02:59:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T03:59:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907628951134154806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1093818979754303488",
+          "start": 0,
+          "username": "skynt2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907628951134154806",
+    "in_reply_to_user_id": "1093818979754303488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907204575578439715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skynt2333 对，哈士奇颜值尴尬期特别长"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1906998147211317737",
+        "created_at": "2025-04-03T02:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T03:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907628951134154806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1093818979754303488",
+              "start": 0,
+              "username": "skynt2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907628951134154806",
+        "in_reply_to_user_id": "1093818979754303488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907204575578439715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skynt2333 对，哈士奇颜值尴尬期特别长"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1093818979754303488",
+        "conversation_id": "1906998147211317737",
+        "created_at": "2025-04-01T22:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T23:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907204575578439715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907204575578439715",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906998147211317737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 这种颜色养大了也可爱，哈士奇养大了像少年白"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "Rats！！！shtwt｜edtwt｜rat twt\n我是99转世啊啊寻找前世互关\nhere is my life with my rats hope u like my pet rats🐭🥰\n看我不顺眼就屏蔽别骂我也别举报谢谢\n想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭",
+        "name": "🐭老鼠国王（卖老鼠版）",
+        "pinned_tweet_id": "1902382804052406487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 140,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 255
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-08T10:29:01.000Z",
+        "description": "右转",
+        "id": "1093818979754303488",
+        "name": "Nt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765430364477227008/WOFeLxCg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 86,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 127
+        },
+        "username": "skynt2333",
+        "verified": false
+      }
+    ]
+  }
+}

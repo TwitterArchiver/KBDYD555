@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2035272446694367592",
+    "created_at": "2026-03-21T08:28:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T09:28:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035272446694367592"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2035272446694367592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一直在被摧残。火化的事被家长知道了。他们说我有钱那就自己付医药费。又说为什么老鼠要火化。不值得。那钱够买一窝了。还说照这个频率死下去很快就死光了。为什么要这么说。如果不是我妈喷消毒水鼠怎么会短期内连续肺部感染去世。我继父也对我种种不满。我真的好想死啊根本没人在乎我有多痛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2035272446694367592",
+        "created_at": "2026-03-21T08:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T09:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035272446694367592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035272446694367592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在被摧残。火化的事被家长知道了。他们说我有钱那就自己付医药费。又说为什么老鼠要火化。不值得。那钱够买一窝了。还说照这个频率死下去很快就死光了。为什么要这么说。如果不是我妈喷消毒水鼠怎么会短期内连续肺部感染去世。我继父也对我种种不满。我真的好想死啊根本没人在乎我有多痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/花枝鼠....互关回来吧...（Eng🆗）存图账号：@kyuukoQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 79,
+                "start": 71,
+                "username": "kyuukoQ"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2031302686671515896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3580,
+          "following_count": 431,
+          "like_count": 3780,
+          "listed_count": 9,
+          "media_count": 912,
+          "tweet_count": 3274
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

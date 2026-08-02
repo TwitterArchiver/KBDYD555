@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2075280312154923333",
+    "created_at": "2026-07-09T18:30:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T19:30:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075286464490090834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1852895432269234176",
+          "start": 0,
+          "username": "432Ifantrygroup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075286464490090834",
+    "in_reply_to_user_id": "1852895432269234176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075283404594332017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@432Ifantrygroup 吃完了已经特别好吃😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2075280312154923333",
+        "created_at": "2026-07-09T18:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T19:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075286464490090834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075286464490090834",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075283404594332017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 吃完了已经特别好吃😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2075280312154923333",
+        "created_at": "2026-07-09T18:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T19:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075283404594332017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075283404594332017",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075280312154923333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫遭举报冻结...🚬/🩸/ed/🐭/🐶/🐱...互关欢迎会查成分...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 🩵亲友@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2072889837548712297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4528,
+          "following_count": 644,
+          "like_count": 5155,
+          "listed_count": 8,
+          "media_count": 1041,
+          "tweet_count": 3910
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。会回关所有人，互关扩列友好😇\n具体信息请看置顶自介。\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 95,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 72,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment（8964）",
+        "pinned_tweet_id": "2071983805750276470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1761,
+          "following_count": 4241,
+          "like_count": 45682,
+          "listed_count": 4,
+          "media_count": 546,
+          "tweet_count": 13239
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

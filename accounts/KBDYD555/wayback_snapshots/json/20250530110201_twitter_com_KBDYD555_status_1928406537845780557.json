@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928406535626960897"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "conversation_id": "1928406537845780557",
+    "created_at": "2025-05-30T11:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T12:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928406537845780557"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DAlCT8s5q1",
+          "end": 41,
+          "expanded_url": "https://x.com/KBDYD555/status/1928406537845780557/photo/1",
+          "media_key": "3_1928406535626960897",
+          "start": 18,
+          "url": "https://t.co/DAlCT8s5q1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928406537845780557",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "买完狗粮就剩这么多。。。。谁救救我 https://t.co/DAlCT8s5q1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 390,
+        "media_key": "3_1928406535626960897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsMThuqWMAEAbms.jpg",
+        "width": 389
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928406535626960897"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "1928406537845780557",
+        "created_at": "2025-05-30T11:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T12:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928406537845780557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DAlCT8s5q1",
+              "end": 41,
+              "expanded_url": "https://x.com/KBDYD555/status/1928406537845780557/photo/1",
+              "media_key": "3_1928406535626960897",
+              "start": 18,
+              "url": "https://t.co/DAlCT8s5q1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928406537845780557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买完狗粮就剩这么多。。。。谁救救我 https://t.co/DAlCT8s5q1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99转世 现世是碎碎念推/老鼠推/小狗推\n喜欢老鼠请关注我....\nhere is my life with my rats🐭🥰\n我的老鼠有：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆｜小狗🐶叫小乖\n想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭🚪52r",
+        "name": "🐭老鼠国王(Rats!",
+        "pinned_tweet_id": "1926982325310574786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 184,
+          "like_count": 666,
+          "listed_count": 3,
+          "media_count": 329,
+          "tweet_count": 964
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

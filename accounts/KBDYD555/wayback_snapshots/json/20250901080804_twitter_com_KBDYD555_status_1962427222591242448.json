@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962427218908557312",
+        "3_1962427218233372673"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "conversation_id": "1962427222591242448",
+    "created_at": "2025-09-01T08:08:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T09:08:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962427222591242448"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/trclycUEn7",
+          "end": 84,
+          "expanded_url": "https://x.com/KBDYD555/status/1962427222591242448/photo/1",
+          "media_key": "3_1962427218908557312",
+          "start": 61,
+          "url": "https://t.co/trclycUEn7"
+        },
+        {
+          "display_url": "pic.x.com/trclycUEn7",
+          "end": 84,
+          "expanded_url": "https://x.com/KBDYD555/status/1962427222591242448/photo/1",
+          "media_key": "3_1962427218233372673",
+          "start": 61,
+          "url": "https://t.co/trclycUEn7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962427222591242448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小囧被关了单间监狱。原因是它在别的鼠都在睡的时候不停的爬上爬下甚至在我和妹妹午休的时候爬到了我俩脸上😡去小监狱里反省吧！ https://t.co/trclycUEn7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1962427218908557312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzvxKICaMAAyAau.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962427218233372673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzvxKFhbsAEe1Gi.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962427218908557312",
+            "3_1962427218233372673"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "1962427222591242448",
+        "created_at": "2025-09-01T08:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T09:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962427222591242448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/trclycUEn7",
+              "end": 84,
+              "expanded_url": "https://x.com/KBDYD555/status/1962427222591242448/photo/1",
+              "media_key": "3_1962427218908557312",
+              "start": 61,
+              "url": "https://t.co/trclycUEn7"
+            },
+            {
+              "display_url": "pic.x.com/trclycUEn7",
+              "end": 84,
+              "expanded_url": "https://x.com/KBDYD555/status/1962427222591242448/photo/1",
+              "media_key": "3_1962427218233372673",
+              "start": 61,
+              "url": "https://t.co/trclycUEn7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962427222591242448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小囧被关了单间监狱。原因是它在别的鼠都在睡的时候不停的爬上爬下甚至在我和妹妹午休的时候爬到了我俩脸上😡去小监狱里反省吧！ https://t.co/trclycUEn7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n喜欢我想的话就给我一点钱吧不管多少都很感谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1945367514307059835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1652,
+          "following_count": 266,
+          "like_count": 1641,
+          "listed_count": 5,
+          "media_count": 594,
+          "tweet_count": 1927
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

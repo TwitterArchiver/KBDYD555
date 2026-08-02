@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1902384011475087364"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "conversation_id": "1902384059185291430",
+    "created_at": "2025-03-19T15:37:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T16:37:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1902384059185291430"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wnv60e6dYW",
+          "end": 23,
+          "expanded_url": "https://x.com/KBDYD555/status/1902384059185291430/video/1",
+          "media_key": "7_1902384011475087364",
+          "start": 0,
+          "url": "https://t.co/Wnv60e6dYW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902384059185291430",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/Wnv60e6dYW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9537,
+        "height": 960,
+        "media_key": "7_1902384011475087364",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1902384011475087364/pu/img/CL5eG-akiBO0_dpq.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1902384011475087364/pu/vid/avc1/320x426/6wEiNth6Y1v8Oytk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1902384011475087364/pu/vid/avc1/480x640/JzZTE8jJkfn4WGPT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1902384011475087364/pu/vid/avc1/720x960/z93Yb1XBXC91dHs2.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1902384011475087364/pu/pl/wfbWCcK1ik2zx2qR.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1902384011475087364"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "1902384059185291430",
+        "created_at": "2025-03-19T15:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T16:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902384059185291430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wnv60e6dYW",
+              "end": 23,
+              "expanded_url": "https://x.com/KBDYD555/status/1902384059185291430/video/1",
+              "media_key": "7_1902384011475087364",
+              "start": 0,
+              "url": "https://t.co/Wnv60e6dYW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902384059185291430",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Wnv60e6dYW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "大号已冻结@kokocat_9这个号是转世\n看我不顺眼就屏蔽别骂我也别举报谢谢\n想让我生活好一点的话就给我钱吧谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "kokocat_9"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "地獄",
+        "name": "不安定猫猫（寻找前世互关版）",
+        "pinned_tweet_id": "1902382804052406487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662012310284820483/8dPzjtSE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 104,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 82
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

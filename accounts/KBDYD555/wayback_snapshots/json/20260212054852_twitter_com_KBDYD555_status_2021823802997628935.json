@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2021806687427211264"
+      ],
+      "media_source_tweet_id": [
+        "2021806763809681670"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "conversation_id": "2021823802997628935",
+    "created_at": "2026-02-12T05:48:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T06:48:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021823802997628935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1169463957016330241",
+          "start": 3,
+          "username": "KyuukoQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cKOHKNzr1s",
+          "end": 36,
+          "expanded_url": "https://x.com/KyuukoQ/status/2021806763809681670/video/1",
+          "media_key": "13_2021806687427211264",
+          "start": 13,
+          "url": "https://t.co/cKOHKNzr1s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021823802997628935",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021806763809681670",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KyuukoQ: https://t.co/cKOHKNzr1s"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2021823802997628935].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2021823802997628935",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2021823802997628935"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8266,
+        "height": 720,
+        "media_key": "13_2021806687427211264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2021806687427211264/img/xsJQoiCicSIfaQRp.jpg",
+        "public_metrics": {
+          "view_count": 20
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021806687427211264/vid/avc1/320x320/v8zy1X1290-CP7Mg.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021806687427211264/vid/avc1/540x540/osoRu5Sh2pBlr1Qf.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021806687427211264/vid/avc1/720x720/T9bnnkuNvtv3JwQT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2021806687427211264/pl/HoDCRVSttze_5xqe.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021806687427211264"
+          ]
+        },
+        "author_id": "1169463957016330241",
+        "conversation_id": "2021806763809681670",
+        "created_at": "2026-02-12T04:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T05:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021806763809681670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cKOHKNzr1s",
+              "end": 23,
+              "expanded_url": "https://x.com/KyuukoQ/status/2021806763809681670/video/1",
+              "media_key": "13_2021806687427211264",
+              "start": 0,
+              "url": "https://t.co/cKOHKNzr1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021806763809681670",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 31,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cKOHKNzr1s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/花枝鼠....互关回来吧...（Eng🆗）存图账号：@kyuukoQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 79,
+                "start": 71,
+                "username": "kyuukoQ"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2014999363500822659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3457,
+          "following_count": 409,
+          "like_count": 3384,
+          "listed_count": 9,
+          "media_count": 851,
+          "tweet_count": 3039
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-05T04:15:20.000Z",
+        "description": "我是99 🩸血腥注意⚠️ shtwt 主要账号@KBDYD555",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "KBDYD555"
+              }
+            ]
+          }
+        },
+        "id": "1169463957016330241",
+        "name": "不安定貓貓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1563644325614874624/PRsSsuPq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 346,
+          "like_count": 291,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 14
+        },
+        "username": "KyuukoQ",
+        "verified": false
+      }
+    ]
+  }
+}

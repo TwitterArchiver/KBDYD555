@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1933112334043754549",
+    "created_at": "2025-06-13T10:18:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T11:18:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933469087889567842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1893671443566903296",
+          "start": 0,
+          "username": "Lin_su1102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933469087889567842",
+    "in_reply_to_user_id": "1893671443566903296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933198837096595479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lin_su1102 右膝韧带重建手术😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1933112334043754549",
+        "created_at": "2025-06-13T10:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T11:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933469087889567842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1893671443566903296",
+              "start": 0,
+              "username": "Lin_su1102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933469087889567842",
+        "in_reply_to_user_id": "1893671443566903296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933198837096595479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lin_su1102 右膝韧带重建手术😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893671443566903296",
+        "conversation_id": "1933112334043754549",
+        "created_at": "2025-06-12T16:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T17:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933198837096595479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933198837096595479",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933112334043754549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 天…怎么搞的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世是碎碎念推/老鼠推/小狗推\n互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆｜小狗:小乖/小眉\n想让我生活好一点的话就给我一点钱吧谢谢你",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1930939924402045146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1226,
+          "following_count": 189,
+          "like_count": 777,
+          "listed_count": 3,
+          "media_count": 363,
+          "tweet_count": 1088
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T14:37:21.000Z",
+        "description": "我是鳞溯  我秽土转生了这是鳞溯2.0！你们可以接着叫我小溯！女孩子快来找我互呀！🚪52，我接伤口定制",
+        "id": "1893671443566903296",
+        "name": "溯（接伤口定制）",
+        "pinned_tweet_id": "1912107790241550449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910981379568918528/eXWWa22__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 33,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 79
+        },
+        "username": "Lin_su1102",
+        "verified": false
+      }
+    ]
+  }
+}

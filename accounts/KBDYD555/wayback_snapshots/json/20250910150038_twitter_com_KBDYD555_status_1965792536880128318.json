@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1965765561297895570",
+    "created_at": "2025-09-10T15:00:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T16:00:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965792536880128318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1791630335438147585",
+          "start": 0,
+          "username": "Loveeeeeeeee_77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965792536880128318",
+    "in_reply_to_user_id": "1791630335438147585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965766306004898131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Loveeeeeeeee_77 不能吗？我看好多精神小妹o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1965765561297895570",
+        "created_at": "2025-09-10T15:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T16:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965792536880128318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1791630335438147585",
+              "start": 0,
+              "username": "Loveeeeeeeee_77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965792536880128318",
+        "in_reply_to_user_id": "1791630335438147585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965766306004898131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Loveeeeeeeee_77 不能吗？我看好多精神小妹o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791630335438147585",
+        "conversation_id": "1965765561297895570",
+        "created_at": "2025-09-10T13:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T14:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965766306004898131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965766306004898131",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965765561297895570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 感康？感康不能o的吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n喜欢我想的话就给我一点钱吧不管多少都很感谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1945367514307059835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1722,
+          "following_count": 270,
+          "like_count": 1737,
+          "listed_count": 5,
+          "media_count": 608,
+          "tweet_count": 2051
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-18T00:42:24.000Z",
+        "description": "",
+        "id": "1791630335438147585",
+        "name": "24幀重影",
+        "pinned_tweet_id": "1929023512884449682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955584567274078208/z-_nwgK0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 243,
+          "like_count": 2870,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 150
+        },
+        "username": "Loveeeeeeeee_77",
+        "verified": false
+      }
+    ]
+  }
+}

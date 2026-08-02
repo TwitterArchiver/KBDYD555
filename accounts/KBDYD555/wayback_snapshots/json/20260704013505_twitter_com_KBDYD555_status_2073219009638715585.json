@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2073214409271615777",
+    "created_at": "2026-07-04T01:35:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T02:35:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073219009638715585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1917293861384364032",
+          "start": 0,
+          "username": "user866458"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073219009638715585",
+    "in_reply_to_user_id": "1917293861384364032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073218066624962834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@user866458 我随便在一个便利店买到的；这个应该很好买吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2073214409271615777",
+        "created_at": "2026-07-04T01:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T02:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073219009638715585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1917293861384364032",
+              "start": 0,
+              "username": "user866458"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073219009638715585",
+        "in_reply_to_user_id": "1917293861384364032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073218066624962834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@user866458 我随便在一个便利店买到的；这个应该很好买吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917293861384364032",
+        "conversation_id": "2073214409271615777",
+        "created_at": "2026-07-04T01:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T02:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073218066624962834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073218066624962834",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073214409271615777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 我就想知道哪里有卖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫：@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/鼠/狗/猫twt....互关回来吧...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 🩵亲友@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2072889837548712297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3988,
+          "following_count": 637,
+          "like_count": 4969,
+          "listed_count": 7,
+          "media_count": 1020,
+          "tweet_count": 3758
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T19:04:21.000Z",
+        "description": "长居长沙/千禧年摄影师/偏好拍摄女体和情绪/想做cult电影/你好我只会对待你更好，很真诚但不服务上帝/不以打炮为目的，纯玩人体艺术/合作约拍请直接私信或者电报发讯息⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/user866458wass…",
+                "end": 23,
+                "expanded_url": "https://t.me/user866458wassad",
+                "start": 0,
+                "url": "https://t.co/V1PvFHgaTS"
+              }
+            ]
+          }
+        },
+        "id": "1917293861384364032",
+        "location": "长沙",
+        "name": "用户866458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917294575259115523/vGZfnsB4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 15,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 91
+        },
+        "url": "https://t.co/V1PvFHgaTS",
+        "username": "user866458",
+        "verified": false
+      }
+    ]
+  }
+}

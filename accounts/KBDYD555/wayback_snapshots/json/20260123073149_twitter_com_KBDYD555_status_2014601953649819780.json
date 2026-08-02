@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2014594031431639397",
+    "created_at": "2026-01-23T07:31:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T08:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014601953649819780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1399292094888374273",
+          "start": 0,
+          "username": "ZGfNW53x76NuSAi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014601953649819780",
+    "in_reply_to_user_id": "1399292094888374273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014601415860322467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZGfNW53x76NuSAi 我会吐掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2014594031431639397",
+        "created_at": "2026-01-23T07:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T08:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014601953649819780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1399292094888374273",
+              "start": 0,
+              "username": "ZGfNW53x76NuSAi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014601953649819780",
+        "in_reply_to_user_id": "1399292094888374273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014601415860322467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZGfNW53x76NuSAi 我会吐掉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1399292094888374273",
+        "conversation_id": "2014594031431639397",
+        "created_at": "2026-01-23T07:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T08:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014601415860322467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014601415860322467",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014594031431639397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 蔬菜+鸡胸肉+少量主食，吃素吃的多会瘦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...现世成分:碎碎念/花枝鼠/sh/ed/od/高p/负能量/杂乱日常/偶尔画画....互关回来吧...",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2013944489816080799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3345,
+          "following_count": 335,
+          "like_count": 2878,
+          "listed_count": 9,
+          "media_count": 766,
+          "tweet_count": 2738
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-31T09:10:15.000Z",
+        "description": "Don't walk gently into that fine night.",
+        "id": "1399292094888374273",
+        "location": "香港",
+        "name": "忘忧天人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848368390412623872/73uGm_xA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 264,
+          "like_count": 1426,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 210
+        },
+        "username": "ZGfNW53x76NuSAi",
+        "verified": false
+      }
+    ]
+  }
+}

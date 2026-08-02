@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1916881611532210464",
+    "created_at": "2025-04-29T00:17:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T01:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917010231303016498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1758428820045189120",
+          "start": 0,
+          "username": "YuSuQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917010231303016498",
+    "in_reply_to_user_id": "1758428820045189120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916903678596026773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuSuQAQ 救命🆘牛逼的话那很牛逼了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1916881611532210464",
+        "created_at": "2025-04-29T00:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T01:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917010231303016498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1758428820045189120",
+              "start": 0,
+              "username": "YuSuQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917010231303016498",
+        "in_reply_to_user_id": "1758428820045189120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916903678596026773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuSuQAQ 救命🆘牛逼的话那很牛逼了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758428820045189120",
+        "conversation_id": "1916881611532210464",
+        "created_at": "2025-04-28T17:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T18:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916903678596026773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916903678596026773",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916881611532210464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 不是牛片都看啊（bushi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99转世 喜欢老鼠请关注我\nhere is my life with my rats hope u like my pet rats🐭🥰\n我的老鼠有：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino\n看我不顺眼就屏蔽别骂我也别举报谢谢\n想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭",
+        "name": "🐭老鼠国王(Rats!",
+        "pinned_tweet_id": "1915758775098826913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 165,
+          "like_count": 348,
+          "listed_count": 3,
+          "media_count": 180,
+          "tweet_count": 546
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T09:51:25.000Z",
+        "description": "喜欢碎碎念，可以互fo，主页是我最可爱的好妹妹。主玩明日方舟，是音游痴，有好听的日电推荐给我听🥰",
+        "id": "1758428820045189120",
+        "name": "魚蘇（prts版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912608912848891904/kWg8aRN-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 221,
+          "like_count": 731,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 2290
+        },
+        "username": "YuSuQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

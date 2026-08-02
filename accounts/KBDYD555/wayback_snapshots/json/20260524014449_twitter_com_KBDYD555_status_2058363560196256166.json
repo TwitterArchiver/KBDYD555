@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2058344797560357040",
+    "created_at": "2026-05-24T01:44:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T02:44:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058363560196256166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1572485004055449606",
+          "start": 0,
+          "username": "lengqizi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058363560196256166",
+    "in_reply_to_user_id": "1572485004055449606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058344797560357040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lengqizi 我杀了他"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2058344797560357040",
+        "created_at": "2026-05-24T01:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T02:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058363560196256166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1572485004055449606",
+              "start": 0,
+              "username": "lengqizi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058363560196256166",
+        "in_reply_to_user_id": "1572485004055449606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058344797560357040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lengqizi 我杀了他"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572485004055449606",
+        "conversation_id": "2058344797560357040",
+        "created_at": "2026-05-24T00:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T01:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058344797560357040"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058344797560357040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么一个在我人生里只出现过一次的父亲 要这么对我指指点点？我没招他惹他 我搬家一点东西不帮我拿就算了 我自己独立惯了 我回家自己待着玩会游戏要说我 我作息不规律要说我 奶奶可以凶我 亲戚可以无视我 我为什么要回来 好痛苦好痛苦好痛苦……我还期待他能施舍我一点父爱……真是痴人说梦呵呵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫：@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/花枝鼠....互关回来吧...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 🩵@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 86,
+                "start": 78,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 130,
+                "start": 121,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2031302686671515896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3829,
+          "following_count": 547,
+          "like_count": 4477,
+          "listed_count": 7,
+          "media_count": 956,
+          "tweet_count": 3501
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-21T07:17:02.000Z",
+        "description": "🌈entp\n🩵亲友 @KBDYD555",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "KBDYD555"
+              }
+            ]
+          }
+        },
+        "id": "1572485004055449606",
+        "name": "冷柒子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037128152741453824/zVVL9U7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 171,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 28
+        },
+        "username": "lengqizi",
+        "verified": false
+      }
+    ]
+  }
+}

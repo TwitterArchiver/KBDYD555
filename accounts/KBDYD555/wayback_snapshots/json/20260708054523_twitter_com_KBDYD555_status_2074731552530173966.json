@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2074485214064353668",
+    "created_at": "2026-07-08T05:45:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T06:45:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074731552530173966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1561806114274287616",
+          "start": 0,
+          "username": "crossyangshe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074731552530173966",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074485214064353668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crossyangshe 是有可能的吃油一点的加巴药效会明显点"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_2074484755790475265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoM5PDasAEw_ap.jpg",
+        "width": 1704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2074485214064353668",
+        "created_at": "2026-07-08T05:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T06:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074731552530173966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1561806114274287616",
+              "start": 0,
+              "username": "crossyangshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074731552530173966",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074485214064353668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crossyangshe 是有可能的吃油一点的加巴药效会明显点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074484755790475265"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074485214064353668",
+        "created_at": "2026-07-07T13:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T14:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074485214064353668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JTH87ILYLt",
+              "end": 67,
+              "expanded_url": "https://x.com/crossyangshe/status/2074485214064353668/photo/1",
+              "media_key": "3_2074484755790475265",
+              "start": 44,
+              "url": "https://t.co/JTH87ILYLt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074485214064353668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 843,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "az没办法了，吃加巴不如随便下楼买份炸鸡吃，加巴似乎有点欣快感，也许是az幻想的？…… https://t.co/JTH87ILYLt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫：@kokocat_9 遭举报冻结...现世成分:🚬/ed/🩸/🐭/🐶/🐱...互关回来吧...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 🩵亲友@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 128,
+                "start": 119,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2072889837548712297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4503,
+          "following_count": 642,
+          "like_count": 5137,
+          "listed_count": 8,
+          "media_count": 1034,
+          "tweet_count": 3870
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/日式像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推，因为是成分太复杂，喜欢的东西太多啦！\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2074534939966713943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 364,
+          "like_count": 2199,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 674
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      }
+    ]
+  }
+}

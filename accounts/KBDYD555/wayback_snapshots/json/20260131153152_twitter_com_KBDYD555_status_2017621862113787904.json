@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2017610985977360416",
+    "created_at": "2026-01-31T15:31:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T16:31:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017621862113787904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1893671443566903296",
+          "start": 0,
+          "username": "Lin_su1102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017621862113787904",
+    "in_reply_to_user_id": "1893671443566903296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017618333869478194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lin_su1102 我也不能确定，我觉得像呼吸道感染"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2017610985977360416",
+        "created_at": "2026-01-31T15:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T16:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017621862113787904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1893671443566903296",
+              "start": 0,
+              "username": "Lin_su1102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017621862113787904",
+        "in_reply_to_user_id": "1893671443566903296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017618333869478194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lin_su1102 我也不能确定，我觉得像呼吸道感染"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893671443566903296",
+        "conversation_id": "2017610985977360416",
+        "created_at": "2026-01-31T15:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T16:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017618333869478194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017618333869478194",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017610985977360416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 他怎么了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念/ED/sh/花枝鼠....互关回来吧...（Eng🆗）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2014999363500822659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3406,
+          "following_count": 382,
+          "like_count": 3148,
+          "listed_count": 9,
+          "media_count": 815,
+          "tweet_count": 2899
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T14:37:21.000Z",
+        "description": "我是鳞溯  \n我秽土转生了这是鳞溯2.0！你们可以接着叫我小溯！女孩子快来找我互呀！🚪52，我接伤口定制",
+        "id": "1893671443566903296",
+        "location": "Tokyo-to, Japan",
+        "name": "溯（接伤口定制）",
+        "pinned_tweet_id": "2009627077297991971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910981379568918528/eXWWa22__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 97,
+          "like_count": 2079,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 391
+        },
+        "username": "Lin_su1102",
+        "verified": false
+      }
+    ]
+  }
+}

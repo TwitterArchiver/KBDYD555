@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2016519893118767529",
+    "created_at": "2026-01-28T14:52:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T15:52:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016524752807223588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1887555503263522821",
+          "start": 0,
+          "username": "LiuShi49045"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016524752807223588",
+    "in_reply_to_user_id": "1887555503263522821",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016520753722839428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiuShi49045 是！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2016519893118767529",
+        "created_at": "2026-01-28T14:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T15:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016524752807223588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1887555503263522821",
+              "start": 0,
+              "username": "LiuShi49045"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016524752807223588",
+        "in_reply_to_user_id": "1887555503263522821",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016520753722839428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuShi49045 是！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887555503263522821",
+        "conversation_id": "2016519893118767529",
+        "created_at": "2026-01-28T14:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T15:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016520753722839428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016520753722839428",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016519893118767529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 萌死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念/ED/sh/花枝鼠....互关回来吧...（Eng🆗）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2014999363500822659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3381,
+          "following_count": 356,
+          "like_count": 3056,
+          "listed_count": 9,
+          "media_count": 803,
+          "tweet_count": 2857
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T17:34:45.000Z",
+        "description": "les 05 sub m 可以叫我小鼠，欢迎私信我找我互关❤️时不时发点碎碎念负面能量...欢迎女生找我聊天，愿意倾听",
+        "id": "1887555503263522821",
+        "name": "漂流浴室",
+        "pinned_tweet_id": "2015811418403356939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013190966367133696/PnNmg9H5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 22,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 86
+        },
+        "username": "LiuShi49045",
+        "verified": false
+      }
+    ]
+  }
+}

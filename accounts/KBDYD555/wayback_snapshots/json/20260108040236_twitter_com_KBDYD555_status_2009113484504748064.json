@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2009113413277122560"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "conversation_id": "2009113484504748064",
+    "created_at": "2026-01-08T04:02:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T05:02:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009113484504748064"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eiEYV7xbN7",
+          "end": 33,
+          "expanded_url": "https://x.com/KBDYD555/status/2009113484504748064/video/1",
+          "media_key": "7_2009113413277122560",
+          "start": 10,
+          "url": "https://t.co/eiEYV7xbN7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009113484504748064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这么多妙龄男鼠陪我 https://t.co/eiEYV7xbN7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14804,
+        "height": 1280,
+        "media_key": "7_2009113413277122560",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2009113413277122560/pu/img/jTxiR3_Y4UILESAA.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009113413277122560/pu/vid/avc1/320x568/qfXYJnX446BCcZoO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009113413277122560/pu/vid/avc1/480x852/H1C4LGL7otF2Xgc3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009113413277122560/pu/vid/avc1/720x1280/HdQnhEraM3P0KQty.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2009113413277122560/pu/pl/rtPvG1E2Y44a2Cmy.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2009113413277122560"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "2009113484504748064",
+        "created_at": "2026-01-08T04:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T05:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009113484504748064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eiEYV7xbN7",
+              "end": 33,
+              "expanded_url": "https://x.com/KBDYD555/status/2009113484504748064/video/1",
+              "media_key": "7_2009113413277122560",
+              "start": 10,
+              "url": "https://t.co/eiEYV7xbN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009113484504748064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这么多妙龄男鼠陪我 https://t.co/eiEYV7xbN7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2006653674378924480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3311,
+          "following_count": 302,
+          "like_count": 2584,
+          "listed_count": 9,
+          "media_count": 732,
+          "tweet_count": 2582
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

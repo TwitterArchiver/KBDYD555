@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2010713012915892352",
+    "created_at": "2026-01-12T13:58:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T14:58:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010713012915892352"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2010713012915892352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我忍了很久没有把晚饭吐掉。但好焦虑啊。好想去吐。唉。好怕不吐掉明天会胖。唉。再忍一下试试。。。没有椰子水和香蕉了吐的话明天一定会脸肿。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2010713012915892352",
+        "created_at": "2026-01-12T13:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T14:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010713012915892352"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010713012915892352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我忍了很久没有把晚饭吐掉。但好焦虑啊。好想去吐。唉。好怕不吐掉明天会胖。唉。再忍一下试试。。。没有椰子水和香蕉了吐的话明天一定会脸肿。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2006653674378924480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3302,
+          "following_count": 313,
+          "like_count": 2713,
+          "listed_count": 9,
+          "media_count": 756,
+          "tweet_count": 2658
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

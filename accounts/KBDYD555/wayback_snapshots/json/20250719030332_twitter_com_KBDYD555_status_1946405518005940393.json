@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1945917346000080934",
+    "created_at": "2025-07-19T03:03:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T04:03:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946405518005940393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1898398739833704448",
+          "start": 0,
+          "username": "Jieking28"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946405518005940393",
+    "in_reply_to_user_id": "1898398739833704448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946279037908766847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jieking28 过门槛给你看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1945917346000080934",
+        "created_at": "2025-07-19T03:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T04:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946405518005940393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1898398739833704448",
+              "start": 0,
+              "username": "Jieking28"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946405518005940393",
+        "in_reply_to_user_id": "1898398739833704448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946279037908766847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jieking28 过门槛给你看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898398739833704448",
+        "conversation_id": "1945917346000080934",
+        "created_at": "2025-07-18T18:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T19:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946279037908766847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946279037908766847",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945917346000080934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 我想看！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世是碎碎念推/老鼠推/小狗推\n互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆｜小狗:小乖/小眉\n想让我生活好一点的话就给我一点钱吧谢谢你",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1945367514307059835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 221,
+          "like_count": 1142,
+          "listed_count": 3,
+          "media_count": 444,
+          "tweet_count": 1322
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T15:41:52.000Z",
+        "description": "",
+        "id": "1898398739833704448",
+        "name": "型月主宰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907098996063051776/H6HMRM0s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 92,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 110
+        },
+        "username": "Jieking28",
+        "verified": false
+      }
+    ]
+  }
+}

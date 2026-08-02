@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1944806006279823727",
+    "created_at": "2025-07-14T17:07:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T18:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944806006279823727"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1944806006279823727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "妹妹被他们骂的抱着头浑身颤抖一直重复这说对不起都是我的错对不起对不起，已经精神失常了，我继父，我妹妹的亲生父亲，根本意识不到自己的孩子已经崩溃的疯掉了。我在旁边已经完全绝望，嘴里一个字也说不出。只会不停的哭。气喘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1944806006279823727",
+        "created_at": "2025-07-14T17:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T18:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944806006279823727"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944806006279823727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妹妹被他们骂的抱着头浑身颤抖一直重复这说对不起都是我的错对不起对不起，已经精神失常了，我继父，我妹妹的亲生父亲，根本意识不到自己的孩子已经崩溃的疯掉了。我在旁边已经完全绝望，嘴里一个字也说不出。只会不停的哭。气喘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世是碎碎念推/老鼠推/小狗推\n互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆｜小狗:小乖/小眉\n想让我生活好一点的话就给我一点钱吧谢谢你",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1937879363636400639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 220,
+          "like_count": 1131,
+          "listed_count": 3,
+          "media_count": 435,
+          "tweet_count": 1282
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

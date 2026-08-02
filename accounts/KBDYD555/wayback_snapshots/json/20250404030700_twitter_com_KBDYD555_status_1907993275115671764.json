@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1907978351706587567",
+    "created_at": "2025-04-04T03:07:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T04:07:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907993275115671764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "551105526",
+          "start": 0,
+          "username": "JohnWIsh61"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907993275115671764",
+    "in_reply_to_user_id": "551105526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907981104990269641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JohnWIsh61 凌晨两点醒了就没睡了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1907978351706587567",
+        "created_at": "2025-04-04T03:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T04:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907993275115671764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "551105526",
+              "start": 0,
+              "username": "JohnWIsh61"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907993275115671764",
+        "in_reply_to_user_id": "551105526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907981104990269641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JohnWIsh61 凌晨两点醒了就没睡了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "551105526",
+        "conversation_id": "1907978351706587567",
+        "created_at": "2025-04-04T02:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T03:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907981104990269641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907981104990269641",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907978351706587567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 不用睡觉吗？还是o完睡了又醒了？😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "Rats！！！shtwt｜edtwt｜rat twt\n我是99转世啊啊寻找前世互关\nhere is my life with my rats hope u like my pet rats🐭🥰\n看我不顺眼就屏蔽别骂我也别举报谢谢\n想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭",
+        "name": "🐭老鼠国王（卖老鼠版）",
+        "pinned_tweet_id": "1902382804052406487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 143,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 270
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-11T14:11:32.000Z",
+        "description": "",
+        "id": "551105526",
+        "name": "JoHnWish布丁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1266062602599231488/RlGWXEHJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 87,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 24
+        },
+        "username": "JohnWIsh61",
+        "verified": false
+      }
+    ]
+  }
+}

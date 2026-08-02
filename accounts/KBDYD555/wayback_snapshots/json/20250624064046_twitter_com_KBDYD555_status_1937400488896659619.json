@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1905124068409717113",
+    "created_at": "2025-06-24T06:40:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T07:40:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937400488896659619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1375510184949243907",
+          "start": 0,
+          "username": "Mtf_Xing"
+        },
+        {
+          "end": 23,
+          "id": "1780128644826062848",
+          "start": 10,
+          "username": "needyouseice"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937400488896659619",
+    "in_reply_to_user_id": "1375510184949243907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937191980297257155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mtf_Xing @needyouseice 如果外卖买的话，只是买愈美的话还好，普瑞因为是处方药，如果短期多次买处方药就可能被晶哥盯上。非处方药没啥事。但最好还是pdd买"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1905124068409717113",
+        "created_at": "2025-06-24T06:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T07:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937400488896659619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1375510184949243907",
+              "start": 0,
+              "username": "Mtf_Xing"
+            },
+            {
+              "end": 23,
+              "id": "1780128644826062848",
+              "start": 10,
+              "username": "needyouseice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937400488896659619",
+        "in_reply_to_user_id": "1375510184949243907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937191980297257155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mtf_Xing @needyouseice 如果外卖买的话，只是买愈美的话还好，普瑞因为是处方药，如果短期多次买处方药就可能被晶哥盯上。非处方药没啥事。但最好还是pdd买"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1375510184949243907",
+        "conversation_id": "1905124068409717113",
+        "created_at": "2025-06-23T16:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T17:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937191980297257155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1780128644826062848",
+              "start": 0,
+              "username": "needyouseice"
+            },
+            {
+              "end": 23,
+              "id": "1557450235621695488",
+              "start": 14,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937191980297257155",
+        "in_reply_to_user_id": "1780128644826062848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905583301248909377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@needyouseice @KBDYD555 买了多少盒啊 我也想买有点怕 和父母住怕警察上门"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世是碎碎念推/老鼠推/小狗推\n互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆｜小狗:小乖/小眉\n想让我生活好一点的话就给我一点钱吧谢谢你",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1930939924402045146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1262,
+          "following_count": 209,
+          "like_count": 869,
+          "listed_count": 3,
+          "media_count": 387,
+          "tweet_count": 1164
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-26T18:09:27.000Z",
+        "description": "可0可1～",
+        "id": "1375510184949243907",
+        "location": "Shanghai",
+        "name": "兔兔酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663200686195212289/f4EHOQZN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 1302,
+          "like_count": 4206,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 94
+        },
+        "username": "Mtf_Xing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T06:58:47.000Z",
+        "description": "07/绝望的家里蹲/oder/精神病。",
+        "id": "1780128644826062848",
+        "location": "白云山制药厂",
+        "name": "小親",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866445993098739712/6aeMzRHU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 102,
+          "like_count": 674,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 620
+        },
+        "username": "needyouseice",
+        "verified": false
+      }
+    ]
+  }
+}

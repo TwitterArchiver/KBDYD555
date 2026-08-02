@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2073971796907536599",
+    "created_at": "2026-07-06T04:54:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T05:54:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073993925942194448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1900779126245769216",
+          "start": 0,
+          "username": "fawpv25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073993925942194448",
+    "in_reply_to_user_id": "1900779126245769216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073979810523845033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fawpv25 原来如此！谢谢"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2073979810523845033].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2073979810523845033",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2073979810523845033"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2073971796907536599",
+        "created_at": "2026-07-06T04:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073993925942194448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1900779126245769216",
+              "start": 0,
+              "username": "fawpv25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073993925942194448",
+        "in_reply_to_user_id": "1900779126245769216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073979810523845033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fawpv25 原来如此！谢谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫：@kokocat_9 遭举报冻结...现世成分:🚬/ed/🩸/🐭/🐶/🐱...互关回来吧...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 🩵亲友@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 128,
+                "start": 119,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2072889837548712297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4481,
+          "following_count": 635,
+          "like_count": 5083,
+          "listed_count": 8,
+          "media_count": 1025,
+          "tweet_count": 3820
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T05:20:44.000Z",
+        "description": "如果你知道怎么变成一只乌鸦，请告诉我/致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。",
+        "id": "1900779126245769216",
+        "name": "天使墜地窒息死亡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 287,
+          "like_count": 18395,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 5279
+        },
+        "url": "",
+        "username": "fawpv25",
+        "verified": false
+      }
+    ]
+  }
+}

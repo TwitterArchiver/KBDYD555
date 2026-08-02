@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1976160912093610336",
+    "created_at": "2025-10-09T06:33:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T07:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976174180203921474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1657032762203807744",
+          "start": 0,
+          "username": "RuYiya520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976174180203921474",
+    "in_reply_to_user_id": "1657032762203807744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976166122744611082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RuYiya520 好便宜教教我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1976166104516132864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2zAmhTaAAAKoEW.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1976160912093610336",
+        "created_at": "2025-10-09T06:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T07:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976174180203921474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1657032762203807744",
+              "start": 0,
+              "username": "RuYiya520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976174180203921474",
+        "in_reply_to_user_id": "1657032762203807744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976166122744611082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RuYiya520 好便宜教教我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976166104516132864"
+          ]
+        },
+        "author_id": "1657032762203807744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1976160912093610336",
+        "created_at": "2025-10-09T06:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T07:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976166122744611082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZuntmXy4Xn",
+              "end": 41,
+              "expanded_url": "https://x.com/RuYiya520/status/1976166122744611082/photo/1",
+              "media_key": "3_1976166104516132864",
+              "start": 18,
+              "url": "https://t.co/ZuntmXy4Xn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976166122744611082",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976160912093610336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 一块钱点的喵喵 https://t.co/ZuntmXy4Xn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n喜欢我的话就给我一点钱吧不管多少都很感谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1974847135830163600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2475,
+          "following_count": 295,
+          "like_count": 2061,
+          "listed_count": 7,
+          "media_count": 687,
+          "tweet_count": 2414
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T14:40:41.000Z",
+        "description": "Σ（・□・；）17岁男生今年还在上高中，平时接触cos圈比较多主页偶尔会有血图🩸老师们注意‼️。平时我也挺开放的啦，可以来找我聊天（直接私信就好看到会回的，有时候没看到真的抱歉！(◎_◎;)）我这个人很好相处的，心情难过的时候也可以把我当作发泄情绪的地方(●°u°●) 」欢迎各位老师来互fo🧀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ruyi520.com",
+                "end": 23,
+                "expanded_url": "http://www.ruyi520.com",
+                "start": 0,
+                "url": "https://t.co/snARxgxO6I"
+              }
+            ]
+          }
+        },
+        "id": "1657032762203807744",
+        "location": "China",
+        "name": "如 懿",
+        "pinned_tweet_id": "1967544054574637270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746586319558750208/PBrzoHKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 853,
+          "like_count": 8201,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 533
+        },
+        "url": "https://t.co/snARxgxO6I",
+        "username": "RuYiya520",
+        "verified": false
+      }
+    ]
+  }
+}

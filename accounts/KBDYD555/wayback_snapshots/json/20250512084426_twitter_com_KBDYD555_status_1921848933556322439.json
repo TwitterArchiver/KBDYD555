@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1921801046361346270",
+    "created_at": "2025-05-12T08:44:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T09:44:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921848933556322439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1859613114875973632",
+          "start": 0,
+          "username": "OxOlasiss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921848933556322439",
+    "in_reply_to_user_id": "1859613114875973632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921838690902384666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OxOlasiss 怪癖老鼠！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1921801046361346270",
+        "created_at": "2025-05-12T08:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T09:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921848933556322439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1859613114875973632",
+              "start": 0,
+              "username": "OxOlasiss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921848933556322439",
+        "in_reply_to_user_id": "1859613114875973632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921838690902384666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OxOlasiss 怪癖老鼠！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859613114875973632",
+        "conversation_id": "1921801046361346270",
+        "created_at": "2025-05-12T08:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T09:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921838690902384666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921838690902384666",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921801046361346270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 孩子怎么这样哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99转世 现世是碎碎念推/老鼠推\n喜欢老鼠请关注我....\nhere is my life with my rats🐭🥰\n我的老鼠有：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n看我不顺眼就屏蔽别骂我也别举报，想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭🚪52r",
+        "name": "🐭老鼠国王(Rats!",
+        "pinned_tweet_id": "1915758775098826913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 175,
+          "like_count": 485,
+          "listed_count": 3,
+          "media_count": 233,
+          "tweet_count": 717
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T15:01:39.000Z",
+        "description": "🌈 \n都来跟我玩好吗https://t.co/icF1nodwdc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oxolasiss1",
+                "end": 33,
+                "expanded_url": "https://ngl.link/oxolasiss1",
+                "start": 10,
+                "url": "https://t.co/icF1nodwdc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=1h0ko8Gy",
+                "start": 0,
+                "url": "https://t.co/TQatFMWqQO"
+              }
+            ]
+          }
+        },
+        "id": "1859613114875973632",
+        "location": "男的招惹我默认全家暴毙吃屎喝尿我骂的没妈没妈的骂我     ",
+        "name": "孙笑川乳汁狂飙",
+        "pinned_tweet_id": "1867814490483671505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921400357210468352/fmMsuMNk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1266,
+          "following_count": 459,
+          "like_count": 8738,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 3945
+        },
+        "url": "https://t.co/TQatFMWqQO",
+        "username": "OxOlasiss",
+        "verified": false
+      }
+    ]
+  }
+}

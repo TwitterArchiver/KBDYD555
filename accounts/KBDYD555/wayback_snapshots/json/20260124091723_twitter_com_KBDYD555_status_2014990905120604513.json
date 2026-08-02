@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2014973779760578608",
+    "created_at": "2026-01-24T09:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T10:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014990905120604513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878356855975723008",
+          "start": 0,
+          "username": "ugglasquest"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014990905120604513",
+    "in_reply_to_user_id": "1878356855975723008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014985242504040852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ugglasquest 那牙刷会不会有味道洗不干净啊，我怕有味道被发现😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2014973779760578608",
+        "created_at": "2026-01-24T09:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T10:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014990905120604513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878356855975723008",
+              "start": 0,
+              "username": "ugglasquest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014990905120604513",
+        "in_reply_to_user_id": "1878356855975723008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014985242504040852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ugglasquest 那牙刷会不会有味道洗不干净啊，我怕有味道被发现😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878356855975723008",
+        "conversation_id": "2014973779760578608",
+        "created_at": "2026-01-24T08:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T09:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014985242504040852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014985242504040852",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014973779760578608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 我一般会用牙刷催吐，感觉挺有效的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念/ED/老鼠rat/负能/杂乱日常/偶尔画画....互关回来吧...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2012205234056032655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3357,
+          "following_count": 338,
+          "like_count": 2942,
+          "listed_count": 9,
+          "media_count": 771,
+          "tweet_count": 2763
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T08:22:54.000Z",
+        "description": "shtwt/edtwt  lesbian  08 自虐狂 自毁倾向  流血推预警  精神病预警‼️ 偶尔会发一些自己的绘画作品   ̑̑zzz和末日厨房玩家 我是女同性恋https://t.co/BS4jLUBFXD匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ugras2",
+                "end": 108,
+                "expanded_url": "https://ngl.link/ugras2",
+                "start": 85,
+                "url": "https://t.co/BS4jLUBFXD"
+              }
+            ]
+          }
+        },
+        "id": "1878356855975723008",
+        "location": "里世界 南望町",
+        "name": "Ugras ^q^",
+        "pinned_tweet_id": "1895427696458629354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975953302086127616/ZriLTRGW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 55,
+          "like_count": 15729,
+          "listed_count": 3,
+          "media_count": 480,
+          "tweet_count": 2159
+        },
+        "username": "ugglasquest",
+        "verified": false
+      }
+    ]
+  }
+}

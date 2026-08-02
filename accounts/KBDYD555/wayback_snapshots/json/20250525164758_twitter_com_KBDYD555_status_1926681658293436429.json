@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1926677573108437360",
+    "created_at": "2025-05-25T16:47:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T17:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926681658293436429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1408741694267301889",
+          "start": 0,
+          "username": "YUSU_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926681658293436429",
+    "in_reply_to_user_id": "1408741694267301889",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926677573108437360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YUSU_01 我靠好美"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1926677573108437360].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1926677573108437360",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1926677573108437360"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1926677573108437360",
+        "created_at": "2025-05-25T16:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T17:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926681658293436429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1408741694267301889",
+              "start": 0,
+              "username": "YUSU_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926681658293436429",
+        "in_reply_to_user_id": "1408741694267301889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926677573108437360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YUSU_01 我靠好美"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99转世 现世是碎碎念推/老鼠推/小狗推\n喜欢老鼠请关注我....\nhere is my life with my rats🐭🥰\n我的老鼠有：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆｜小狗🐶叫小乖\n想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭🚪52r",
+        "name": "🐭老鼠国王(Rats!",
+        "pinned_tweet_id": "1915758775098826913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 180,
+          "like_count": 613,
+          "listed_count": 3,
+          "media_count": 304,
+          "tweet_count": 908
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T10:59:36.000Z",
+        "description": "不賣任何藥物和違禁品｜守护@OmaRisa504504｜ @AKIAKI_019",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "OmaRisa504504"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "AKIAKI_019"
+              }
+            ]
+          }
+        },
+        "id": "1408741694267301889",
+        "name": "YUSU",
+        "pinned_tweet_id": "1924566411499995364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916446496532373504/f5Wggw6I_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 7100,
+          "following_count": 39,
+          "like_count": 10658,
+          "listed_count": 3,
+          "media_count": 1199,
+          "tweet_count": 15162
+        },
+        "username": "YUSU_01",
+        "verified": true
+      }
+    ]
+  }
+}

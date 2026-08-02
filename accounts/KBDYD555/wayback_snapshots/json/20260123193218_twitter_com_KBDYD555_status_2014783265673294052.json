@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014783262841774080"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "conversation_id": "2014783265673294052",
+    "created_at": "2026-01-23T19:32:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T20:32:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014783265673294052"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xCOPs00Fsw",
+          "end": 45,
+          "expanded_url": "https://x.com/KBDYD555/status/2014783265673294052/photo/1",
+          "media_key": "3_2014783262841774080",
+          "start": 22,
+          "url": "https://t.co/xCOPs00Fsw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014783265673294052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "他妈的，我说的ED是进食障碍不是阳痿... https://t.co/xCOPs00Fsw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 458,
+        "media_key": "3_2014783262841774080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Xys-kWIAArSzK.jpg",
+        "width": 1019
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014783262841774080"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "2014783265673294052",
+        "created_at": "2026-01-23T19:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T20:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014783265673294052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xCOPs00Fsw",
+              "end": 45,
+              "expanded_url": "https://x.com/KBDYD555/status/2014783265673294052/photo/1",
+              "media_key": "3_2014783262841774080",
+              "start": 22,
+              "url": "https://t.co/xCOPs00Fsw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014783265673294052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他妈的，我说的ED是进食障碍不是阳痿... https://t.co/xCOPs00Fsw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...现世成分:碎碎念/花枝鼠/sh/ed/od/高p/负能量/杂乱日常/偶尔画画....互关回来吧...",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2012205234056032655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3350,
+          "following_count": 338,
+          "like_count": 2905,
+          "listed_count": 9,
+          "media_count": 770,
+          "tweet_count": 2749
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

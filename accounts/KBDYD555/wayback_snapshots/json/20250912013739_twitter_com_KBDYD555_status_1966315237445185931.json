@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1966245937275351219",
+    "created_at": "2025-09-12T01:37:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T02:37:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966315237445185931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1560044491121209344",
+          "start": 0,
+          "username": "akiko_yami2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966315237445185931",
+    "in_reply_to_user_id": "1560044491121209344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966245937275351219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akiko_yami2 神迹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1966245933882175488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0mCQl4acAAD6TG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1966245937275351219",
+        "created_at": "2025-09-12T01:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T02:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966315237445185931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560044491121209344",
+              "start": 0,
+              "username": "akiko_yami2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966315237445185931",
+        "in_reply_to_user_id": "1560044491121209344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966245937275351219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akiko_yami2 神迹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966245933882175488"
+          ]
+        },
+        "author_id": "1560044491121209344",
+        "conversation_id": "1966245937275351219",
+        "created_at": "2025-09-11T21:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T22:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966245937275351219"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "萌萌",
+              "probability": 0.8415,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SrWGMacSHR",
+              "end": 26,
+              "expanded_url": "https://x.com/akiko_yami2/status/1966245937275351219/photo/1",
+              "media_key": "3_1966245933882175488",
+              "start": 3,
+              "url": "https://t.co/SrWGMacSHR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966245937275351219",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "萌萌 https://t.co/SrWGMacSHR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n喜欢我想的话就给我一点钱吧不管多少都很感谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1945367514307059835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1722,
+          "following_count": 270,
+          "like_count": 1754,
+          "listed_count": 5,
+          "media_count": 616,
+          "tweet_count": 2081
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-17T23:22:56.000Z",
+        "description": "不通过私密账号的关注请求。ただ個人的雑垢のでイライラ憂鬱と無意味の発言が多いKIMAJOY/KIKI・｀ω´・)🦋現役蝶々の魔女、16歳16歳16歳だ(永遠に) …‼️リスカ自傷‼️‼️怖いならご注意\n日常写真▶ @KiMajoy_kiki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 107,
+                "username": "KiMajoy_kiki"
+              }
+            ]
+          }
+        },
+        "id": "1560044491121209344",
+        "location": "魔女之村第118号人偶当铺🧙キキのことを忘れないでね",
+        "name": "KIKI🦋蝶の魔女",
+        "pinned_tweet_id": "1956055453320012240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951602572550160384/TDolf1-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10594,
+          "following_count": 271,
+          "like_count": 11966,
+          "listed_count": 19,
+          "media_count": 593,
+          "tweet_count": 4401
+        },
+        "username": "akiko_yami2",
+        "verified": false
+      }
+    ]
+  }
+}

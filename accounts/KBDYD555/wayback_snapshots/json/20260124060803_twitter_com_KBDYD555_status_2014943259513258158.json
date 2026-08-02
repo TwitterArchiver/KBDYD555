@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2014943259513258158",
+    "created_at": "2026-01-24T06:08:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T07:08:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014943259513258158"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2014943259513258158",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "走出房间去接水喝。他们和妹妹正常说笑。还是把我当空气。我就一下子想从20楼跳下去。我真的好讨厌这个家好讨厌我自己好讨厌我的人生。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2014943259513258158",
+        "created_at": "2026-01-24T06:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T07:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014943259513258158"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014943259513258158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "走出房间去接水喝。他们和妹妹正常说笑。还是把我当空气。我就一下子想从20楼跳下去。我真的好讨厌这个家好讨厌我自己好讨厌我的人生。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念/ED/老鼠rat/负能/杂乱日常/偶尔画画....互关回来吧...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2012205234056032655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3357,
+          "following_count": 338,
+          "like_count": 2937,
+          "listed_count": 9,
+          "media_count": 770,
+          "tweet_count": 2754
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

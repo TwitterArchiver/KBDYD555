@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1904431740539502604",
+    "created_at": "2025-03-25T09:01:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T10:01:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904458509619757225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1543208500108505088",
+          "start": 0,
+          "username": "Suzuki_Utak0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904458509619757225",
+    "in_reply_to_user_id": "1543208500108505088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904431740539502604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suzuki_Utak0 可能觉得我带动他人自杀🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1904431740539502604",
+        "created_at": "2025-03-25T09:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T10:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904458509619757225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1543208500108505088",
+              "start": 0,
+              "username": "Suzuki_Utak0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904458509619757225",
+        "in_reply_to_user_id": "1543208500108505088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904431740539502604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suzuki_Utak0 可能觉得我带动他人自杀🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543208500108505088",
+        "conversation_id": "1904431740539502604",
+        "created_at": "2025-03-25T07:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T08:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904431740539502604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KBDYD555/statu…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/KBDYD555/status/1902382804052406487",
+              "start": 15,
+              "url": "https://t.co/kZ1l0vk5bc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904431740539502604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902382804052406487",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个小宝宝怎么被恶意举报了😱 https://t.co/kZ1l0vk5bc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "shtwt｜edtwt｜rat twt\n我是99转世啊啊寻找前世互关\nhere is my life with my rats hope u like my pet rats🐭🥰\n看我不顺眼就屏蔽别骂我也别举报谢谢\n想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭",
+        "name": "老鼠🐭rats bot（寻找前世互关版）",
+        "pinned_tweet_id": "1902382804052406487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 123,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 135
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-02T12:22:50.000Z",
+        "description": "阴暗面记事本//DbD/自设/特摄",
+        "id": "1543208500108505088",
+        "location": "扭曲的欲望之中💙",
+        "name": "Squirrel🐿️",
+        "pinned_tweet_id": "1886028043740664006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861974382379438080/jGo82nEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 325,
+          "like_count": 2974,
+          "listed_count": 3,
+          "media_count": 69,
+          "tweet_count": 2063
+        },
+        "username": "Suzuki_Utak0",
+        "verified": false
+      }
+    ]
+  }
+}

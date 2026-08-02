@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1961411095685652886",
+    "created_at": "2025-08-29T12:50:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T13:50:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961411095685652886"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KBDYD555/statu…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/KBDYD555/status/1945367514307059835",
+          "start": 15,
+          "url": "https://t.co/AlLENnp3OZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961411095685652886",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945367514307059835",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对不起我真的很需要钱唉... https://t.co/AlLENnp3OZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1037,
+        "media_key": "3_1945367505377042432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv9VcGuWIAAR8sU.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1961411095685652886",
+        "created_at": "2025-08-29T12:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T13:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961411095685652886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KBDYD555/statu…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/KBDYD555/status/1945367514307059835",
+              "start": 15,
+              "url": "https://t.co/AlLENnp3OZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961411095685652886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945367514307059835",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对不起我真的很需要钱唉... https://t.co/AlLENnp3OZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945367505377042432"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "1945367514307059835",
+        "created_at": "2025-07-16T06:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T07:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945367514307059835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RIWLTLn4Zr",
+              "end": 44,
+              "expanded_url": "https://x.com/KBDYD555/status/1945367514307059835/photo/1",
+              "media_key": "3_1945367505377042432",
+              "start": 21,
+              "url": "https://t.co/RIWLTLn4Zr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945367514307059835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9725,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "请帮帮我。我实在没办法了。我什么都没有了 https://t.co/RIWLTLn4Zr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n喜欢我想的话就给我一点钱吧不管多少都很感谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1945367514307059835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 264,
+          "like_count": 1559,
+          "listed_count": 5,
+          "media_count": 583,
+          "tweet_count": 1851
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

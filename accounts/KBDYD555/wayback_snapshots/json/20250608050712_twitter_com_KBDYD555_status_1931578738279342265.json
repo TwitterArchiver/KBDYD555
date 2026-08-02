@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1931313394898055634",
+    "created_at": "2025-06-08T05:07:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T06:07:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931578738279342265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1434492593388367872",
+          "start": 0,
+          "username": "dyroom2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931578738279342265",
+    "in_reply_to_user_id": "1434492593388367872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931558300333789577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dyroom2 谢谢你啊啊啊啊😢❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1931313394898055634",
+        "created_at": "2025-06-08T05:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T06:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931578738279342265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1434492593388367872",
+              "start": 0,
+              "username": "dyroom2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931578738279342265",
+        "in_reply_to_user_id": "1434492593388367872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931558300333789577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dyroom2 谢谢你啊啊啊啊😢❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1434492593388367872",
+        "conversation_id": "1931313394898055634",
+        "created_at": "2025-06-08T03:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T04:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931558300333789577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931558300333789577",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931313394898055634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 好好生活，改天向你请教养鼠鼠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世是碎碎念推/老鼠推/小狗推\n互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆｜小狗:小乖/小眉\n想让我生活好一点的话就给我一点钱吧谢谢你",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1930939924402045146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1203,
+          "following_count": 187,
+          "like_count": 742,
+          "listed_count": 3,
+          "media_count": 347,
+          "tweet_count": 1041
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-05T12:24:37.000Z",
+        "description": "一切还行",
+        "id": "1434492593388367872",
+        "name": "dyroom",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660268485296148486/KMd9ESmR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 78,
+          "like_count": 314,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "username": "dyroom2",
+        "verified": false
+      }
+    ]
+  }
+}

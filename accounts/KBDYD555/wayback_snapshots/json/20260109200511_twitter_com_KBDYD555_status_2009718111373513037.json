@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2009699155170705814",
+    "created_at": "2026-01-09T20:05:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T21:05:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009718111373513037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1886459650289410049",
+          "start": 0,
+          "username": "bingling9895"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009718111373513037",
+    "in_reply_to_user_id": "1886459650289410049",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009699155170705814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bingling9895 🫂🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2009699155170705814",
+        "created_at": "2026-01-09T20:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T21:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009718111373513037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1886459650289410049",
+              "start": 0,
+              "username": "bingling9895"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009718111373513037",
+        "in_reply_to_user_id": "1886459650289410049",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009699155170705814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bingling9895 🫂🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886459650289410049",
+        "conversation_id": "2009699155170705814",
+        "created_at": "2026-01-09T18:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T19:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009699155170705814"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009699155170705814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "對不起…我離開推特就是為了自殺，最近發生了很多事，也不想再講一遍了⋯⋯\n我現在在ICU，狀態不好很虛弱不舒服。\n我先休息了，晚安。\n\n喵。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2006653674378924480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3306,
+          "following_count": 311,
+          "like_count": 2664,
+          "listed_count": 9,
+          "media_count": 747,
+          "tweet_count": 2621
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T17:00:29.000Z",
+        "description": "泥嚎這裡是貓貓 ~ 台灣｜15｜INFP-T｜女孩紙｜自傷自殘｜OD｜🚪250 *此帳號不慫恿或助長自我傷害相關行為，相關內容皆為紀錄用。",
+        "id": "1886459650289410049",
+        "location": "美好的幻想中",
+        "name": "窗邊的貓貓🐾",
+        "pinned_tweet_id": "1975054686500839731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886459759135744004/CN5DbgQ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 292,
+          "like_count": 843,
+          "listed_count": 0,
+          "media_count": 340,
+          "tweet_count": 2552
+        },
+        "username": "bingling9895",
+        "verified": false
+      }
+    ]
+  }
+}

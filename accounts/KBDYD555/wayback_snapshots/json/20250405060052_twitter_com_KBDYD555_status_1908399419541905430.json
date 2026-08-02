@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1908083014984462605",
+    "created_at": "2025-04-05T06:00:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T07:00:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908399419541905430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1827748623196856320",
+          "start": 0,
+          "username": "gezigezigegezi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908399419541905430",
+    "in_reply_to_user_id": "1827748623196856320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908252153371836446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gezigezigegezi 可惜😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1908083014984462605",
+        "created_at": "2025-04-05T06:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T07:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908399419541905430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1827748623196856320",
+              "start": 0,
+              "username": "gezigezigegezi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908399419541905430",
+        "in_reply_to_user_id": "1827748623196856320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908252153371836446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gezigezigegezi 可惜😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827748623196856320",
+        "conversation_id": "1908083014984462605",
+        "created_at": "2025-04-04T20:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T21:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908252153371836446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908252153371836446",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908083014984462605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 鼠鼠好，但是家里有猫没法养😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "Rats！！！shtwt｜edtwt｜rat twt\n我是99转世啊啊寻找前世互关\nhere is my life with my rats hope u like my pet rats🐭🥰\n看我不顺眼就屏蔽别骂我也别举报谢谢\n想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭",
+        "name": "🐭老鼠国王（卖老鼠版）",
+        "pinned_tweet_id": "1908155806362808813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 144,
+          "like_count": 229,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 287
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-25T16:43:34.000Z",
+        "description": "叫鸽子就好／男／江浙沪／06／无糖／185/67-70kg／凑玩cosplay的／是路边\n找我互推先看看自己有没有给我推了😰／非常缺钱所以哦内该，只要是我能做到的我什么都会做的😭🚪88／188/500，全国可飞捏置顶推广自辨 过门私聊直接发口令or赞赏截图，补药上来就你好在吗，不过门不闲聊\n攒够一百万上岸🫠",
+        "id": "1827748623196856320",
+        "location": "卡迪亚",
+        "name": "鸽子鸽子鸽",
+        "pinned_tweet_id": "1886463464820105358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853464625511337984/x82Ql98c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40565,
+          "following_count": 865,
+          "like_count": 17693,
+          "listed_count": 159,
+          "media_count": 358,
+          "tweet_count": 5557
+        },
+        "username": "gezigezigegezi",
+        "verified": true
+      }
+    ]
+  }
+}

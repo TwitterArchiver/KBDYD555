@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1962823037033844829",
+    "created_at": "2025-09-02T10:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T11:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962829487655338307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1464133308149817349",
+          "start": 0,
+          "username": "75474YYDS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962829487655338307",
+    "in_reply_to_user_id": "1464133308149817349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962824234457276511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@75474YYDS 我去吃一颗试试，我今天吃两颗了还这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1962823037033844829",
+        "created_at": "2025-09-02T10:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T11:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962829487655338307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1464133308149817349",
+              "start": 0,
+              "username": "75474YYDS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962829487655338307",
+        "in_reply_to_user_id": "1464133308149817349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962824234457276511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@75474YYDS 我去吃一颗试试，我今天吃两颗了还这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464133308149817349",
+        "conversation_id": "1962823037033844829",
+        "created_at": "2025-09-02T10:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T11:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962824234457276511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962824234457276511",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962823037033844829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 这种我很有经验，当时我也一直胀气反酸，晚上睡觉都睡不舒服，然后各种药吃了个遍, 最后找到达喜铝碳酸镁咀嚼片，这个见效快推荐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n喜欢我想的话就给我一点钱吧不管多少都很感谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1945367514307059835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1655,
+          "following_count": 267,
+          "like_count": 1680,
+          "listed_count": 5,
+          "media_count": 598,
+          "tweet_count": 1980
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-26T07:26:20.000Z",
+        "description": "偶发神经病，天赋技能睡眠重置心理状态。戒色中（在色色内容下看到我请让我滚）",
+        "id": "1464133308149817349",
+        "name": "75474",
+        "pinned_tweet_id": "1962585594678387165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961483020768260097/0Q4cCyW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 43
+        },
+        "username": "75474YYDS",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2016044810688463061",
+    "created_at": "2026-01-28T21:23:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T22:23:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016623301779685863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2016174785114554368",
+          "start": 0,
+          "username": "acacia98430"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016623301779685863",
+    "in_reply_to_user_id": "2016174785114554368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016622535107104998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acacia98430 咋这么萌！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2016044810688463061",
+        "created_at": "2026-01-28T21:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T22:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016623301779685863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2016174785114554368",
+              "start": 0,
+              "username": "acacia98430"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016623301779685863",
+        "in_reply_to_user_id": "2016174785114554368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016622535107104998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acacia98430 咋这么萌！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016174785114554368",
+        "conversation_id": "2016044810688463061",
+        "created_at": "2026-01-28T21:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T22:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016622535107104998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016622535107104998",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016044810688463061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 小老鼠咋这么萌！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念/ED/sh/花枝鼠....互关回来吧...（Eng🆗）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2014999363500822659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3389,
+          "following_count": 357,
+          "like_count": 3064,
+          "listed_count": 9,
+          "media_count": 805,
+          "tweet_count": 2864
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T15:42:18.000Z",
+        "description": "౽₍˄. ̫.˄₎₍˄. ̫.˄₎⟆",
+        "id": "2016174785114554368",
+        "name": "Acacia",
+        "pinned_tweet_id": "2016621402426855691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016194845396619264/_dLgdAN6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 32,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "username": "acacia98430",
+        "verified": false
+      }
+    ]
+  }
+}

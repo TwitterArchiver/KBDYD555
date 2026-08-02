@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1960971888475431151",
+    "created_at": "2025-08-28T12:51:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T13:51:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961048925496045812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1335952567013150722",
+          "start": 0,
+          "username": "rin_LLfan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961048925496045812",
+    "in_reply_to_user_id": "1335952567013150722",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961019086088941790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rin_LLfan i hope too...🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 124,
+        "media_key": "16_1961019077238878208",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GzbwdfiWcAAUX9S.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GzbwdfiWcAAUX9S.mp4"
+          }
+        ],
+        "width": 220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1960971888475431151",
+        "created_at": "2025-08-28T12:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T13:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961048925496045812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1335952567013150722",
+              "start": 0,
+              "username": "rin_LLfan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961048925496045812",
+        "in_reply_to_user_id": "1335952567013150722",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961019086088941790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rin_LLfan i hope too...🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1961019077238878208"
+          ]
+        },
+        "author_id": "1335952567013150722",
+        "conversation_id": "1960971888475431151",
+        "created_at": "2025-08-28T10:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T11:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961019086088941790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BjHGeSEquv",
+              "end": 78,
+              "expanded_url": "https://x.com/rin_LLfan/status/1961019086088941790/photo/1",
+              "media_key": "16_1961019077238878208",
+              "start": 55,
+              "url": "https://t.co/BjHGeSEquv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961019086088941790",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960971888475431151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 I hope you can live without hating your body https://t.co/BjHGeSEquv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n喜欢我想的话就给我一点钱吧不管多少都很感谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1945367514307059835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 259,
+          "like_count": 1527,
+          "listed_count": 5,
+          "media_count": 575,
+          "tweet_count": 1827
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-07T14:21:38.000Z",
+        "description": "Discord: rin_17 | Any pronouns | ♂️ i think | DM open :3 | m/w @lumiki42 pfp by @lubyaalnst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 63,
+                "username": "lumiki42"
+              },
+              {
+                "end": 91,
+                "start": 80,
+                "username": "lubyaalnst"
+              }
+            ]
+          }
+        },
+        "id": "1335952567013150722",
+        "location": "Empty sekai",
+        "name": "Rin (≧▽≦) 🎀🎨",
+        "pinned_tweet_id": "1959385748299194371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949579498153820160/TLhdiydL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 1664,
+          "like_count": 156070,
+          "listed_count": 3,
+          "media_count": 4824,
+          "tweet_count": 21897
+        },
+        "username": "rin_LLfan",
+        "verified": false
+      }
+    ]
+  }
+}

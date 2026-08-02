@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1926982026772500672",
+    "created_at": "2025-05-26T15:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T16:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927028824543219846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1872646778685939712",
+          "start": 0,
+          "username": "bing_miao28991"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927028824543219846",
+    "in_reply_to_user_id": "1872646778685939712",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927013969513808350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bing_miao28991 🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1926982026772500672",
+        "created_at": "2025-05-26T15:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T16:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927028824543219846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1872646778685939712",
+              "start": 0,
+              "username": "bing_miao28991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927028824543219846",
+        "in_reply_to_user_id": "1872646778685939712",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927013969513808350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing_miao28991 🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872646778685939712",
+        "conversation_id": "1926982026772500672",
+        "created_at": "2025-05-26T14:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T15:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927013969513808350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927013969513808350",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926982026772500672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 我会看的!超级可爱的鼠鼠 我每次看见老师发的鼠鼠直接赛博吸鼠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99转世 现世是碎碎念推/老鼠推/小狗推\n喜欢老鼠请关注我....\nhere is my life with my rats🐭🥰\n我的老鼠有：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆｜小狗🐶叫小乖\n想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭🚪52r",
+        "name": "🐭老鼠国王(Rats!",
+        "pinned_tweet_id": "1915758775098826913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 184,
+          "like_count": 642,
+          "listed_count": 3,
+          "media_count": 317,
+          "tweet_count": 943
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-27T14:12:47.000Z",
+        "description": "09/oc梦女/辍学/凉席真皮/od/负能量/回避型依恋/INFJ-t 2w1\n会无意义的发一些胡言乱语\n大号找不到了但是也没人在意",
+        "id": "1872646778685939712",
+        "name": "只梦到这里",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895550930008829952/U03R_2TK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 79,
+          "like_count": 1536,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 376
+        },
+        "username": "bing_miao28991",
+        "verified": false
+      }
+    ]
+  }
+}

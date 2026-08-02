@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2055844453903216929",
+    "created_at": "2026-05-17T11:34:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T12:34:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055975208507613341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1884593320451784704",
+          "start": 0,
+          "username": "rinnrin_kitty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055975208507613341",
+    "in_reply_to_user_id": "1884593320451784704",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055845696377393224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rinnrin_kitty ❤️❤️❤️❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2055844453903216929",
+        "created_at": "2026-05-17T11:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055975208507613341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1884593320451784704",
+              "start": 0,
+              "username": "rinnrin_kitty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055975208507613341",
+        "in_reply_to_user_id": "1884593320451784704",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055845696377393224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinnrin_kitty ❤️❤️❤️❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884593320451784704",
+        "conversation_id": "2055844453903216929",
+        "created_at": "2026-05-17T02:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055845696377393224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055845696377393224",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055844453903216929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 I wont forget about you, you're important for me"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫：@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/花枝鼠....互关回来吧...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 🩵@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 86,
+                "start": 78,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 130,
+                "start": 121,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2031302686671515896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3824,
+          "following_count": 523,
+          "like_count": 4370,
+          "listed_count": 7,
+          "media_count": 943,
+          "tweet_count": 3445
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T13:24:05.000Z",
+        "description": "From the R to the n\nIt's Rin (⁠≧⁠▽⁠≦⁠) | New version of @rin_LLfan |\nDM open |\n「♪ the muu to my rei @lumiki42 ♪」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "rin_LLfan"
+              },
+              {
+                "end": 109,
+                "start": 100,
+                "username": "lumiki42"
+              }
+            ]
+          }
+        },
+        "id": "1884593320451784704",
+        "location": "Empty sekai",
+        "name": "Rinnrin CHECK PINNED (≧▽≦) 🎀🎨 ♪ Lumi's #1 fan ♪",
+        "pinned_tweet_id": "2051680022747095157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884604982814531584/de5uZQwE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 118,
+          "like_count": 6279,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 1377
+        },
+        "username": "rinnrin_kitty",
+        "verified": false
+      }
+    ]
+  }
+}

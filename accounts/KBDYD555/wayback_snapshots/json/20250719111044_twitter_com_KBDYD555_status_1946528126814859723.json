@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1946396893124374624",
+    "created_at": "2025-07-19T11:10:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T12:10:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946528126814859723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1896224159568715776",
+          "start": 0,
+          "username": "ginn258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946528126814859723",
+    "in_reply_to_user_id": "1896224159568715776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 22,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946517055882293713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ginn258 就是缝衣服的线"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1946396893124374624",
+        "created_at": "2025-07-19T11:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T12:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946528126814859723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896224159568715776",
+              "start": 0,
+              "username": "ginn258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946528126814859723",
+        "in_reply_to_user_id": "1896224159568715776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946517055882293713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ginn258 就是缝衣服的线"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896224159568715776",
+        "conversation_id": "1946396893124374624",
+        "created_at": "2025-07-19T10:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T11:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946517055882293713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946517055882293713",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946396893124374624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 宝宝你用的什么线呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世是碎碎念推/老鼠推/小狗推\n互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆｜小狗:小乖/小眉\n想让我生活好一点的话就给我一点钱吧谢谢你",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1945367514307059835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 221,
+          "like_count": 1143,
+          "listed_count": 3,
+          "media_count": 445,
+          "tweet_count": 1326
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T15:41:12.000Z",
+        "description": "infp/09/一个喜欢分享日常的小女高\n有精神病 脾气时好时坏 主页什么都发 有🩸图 慎点\n有对象了。",
+        "id": "1896224159568715776",
+        "name": "ginaie",
+        "pinned_tweet_id": "1942432118555955568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929747457073991681/yUDA51dw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 43,
+          "like_count": 608,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 120
+        },
+        "username": "ginn258",
+        "verified": false
+      }
+    ]
+  }
+}

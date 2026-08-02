@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2032012282029551997",
+    "created_at": "2026-03-12T13:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T14:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032091429934415914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1743330426985594881",
+          "start": 0,
+          "username": "jianggejiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032091429934415914",
+    "in_reply_to_user_id": "1743330426985594881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032012282029551997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianggejiang 我觉得难抽还很贵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 524,
+        "media_key": "3_2032012279538204674",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDMoZvUbQAI9Hmf.jpg",
+        "width": 393
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2032012282029551997",
+        "created_at": "2026-03-12T13:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T14:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032091429934415914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1743330426985594881",
+              "start": 0,
+              "username": "jianggejiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032091429934415914",
+        "in_reply_to_user_id": "1743330426985594881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032012282029551997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianggejiang 我觉得难抽还很贵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032012279538204674"
+          ]
+        },
+        "author_id": "1743330426985594881",
+        "conversation_id": "2032012282029551997",
+        "created_at": "2026-03-12T08:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T09:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032012282029551997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BOdOaAsRna",
+              "end": 43,
+              "expanded_url": "https://x.com/jianggejiang/status/2032012282029551997/photo/1",
+              "media_key": "3_2032012279538204674",
+              "start": 20,
+              "url": "https://t.co/BOdOaAsRna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032012282029551997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1537,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好想抽这个 这应该叫啥名字呀 好买吗 https://t.co/BOdOaAsRna"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/花枝鼠....互关回来吧...（Eng🆗）存图账号：@kyuukoQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 79,
+                "start": 71,
+                "username": "kyuukoQ"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2031302686671515896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3565,
+          "following_count": 418,
+          "like_count": 3647,
+          "listed_count": 9,
+          "media_count": 900,
+          "tweet_count": 3238
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-05T17:55:57.000Z",
+        "description": "-烟代找我 外烟电子烟💚🏳️‍🌈\n-叫我姜鴿江/阿团/Juno/J \n-CN/ENG🤏\n-从你妈逼良\n-🚪66￥ 详🔝plq\n-英文号:@jiangziqiqqq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 68,
+                "username": "jiangziqiqqq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianggejiang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianggejiang",
+                "start": 0,
+                "url": "https://t.co/VcDqc5C3ZD"
+              }
+            ]
+          }
+        },
+        "id": "1743330426985594881",
+        "location": "Ion Jupiter",
+        "name": "姜鸽江",
+        "pinned_tweet_id": "2006394995960578049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009286095666909184/pgYHbdAK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 812,
+          "like_count": 3393,
+          "listed_count": 1,
+          "media_count": 443,
+          "tweet_count": 2793
+        },
+        "url": "https://t.co/VcDqc5C3ZD",
+        "username": "jianggejiang",
+        "verified": false
+      }
+    ]
+  }
+}

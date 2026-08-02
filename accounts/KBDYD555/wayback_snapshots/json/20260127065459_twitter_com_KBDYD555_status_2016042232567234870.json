@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2015877562099237023",
+    "created_at": "2026-01-27T06:54:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T07:54:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016042232567234870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1743330426985594881",
+          "start": 0,
+          "username": "jianggejiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016042232567234870",
+    "in_reply_to_user_id": "1743330426985594881",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016002774572622198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianggejiang 好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2015877562099237023",
+        "created_at": "2026-01-27T06:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T07:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016042232567234870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1743330426985594881",
+              "start": 0,
+              "username": "jianggejiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016042232567234870",
+        "in_reply_to_user_id": "1743330426985594881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016002774572622198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianggejiang 好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743330426985594881",
+        "conversation_id": "2015877562099237023",
+        "created_at": "2026-01-27T04:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T05:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016002774572622198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016002774572622198",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015877562099237023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 小粉丸一般也没什么假药 我花10块钱买的100t挺好用的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念/ED/sh/花枝鼠....互关回来吧...（Eng🆗）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2014999363500822659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3385,
+          "following_count": 352,
+          "like_count": 3018,
+          "listed_count": 9,
+          "media_count": 792,
+          "tweet_count": 2822
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-05T17:55:57.000Z",
+        "description": "烟代找我 外烟电子烟💚\n-叫我姜鴿江/阿团/Juno/J \nCN/ENG🤏\n从你妈逼良\n英文号:@jiangziqiqqq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "jiangziqiqqq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianggejiang35…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianggejiang35588",
+                "start": 0,
+                "url": "https://t.co/N7YdqNMa1I"
+              }
+            ]
+          }
+        },
+        "id": "1743330426985594881",
+        "location": "Ion Jupiter",
+        "name": "姜鸽江",
+        "pinned_tweet_id": "2006394995960578049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009286095666909184/pgYHbdAK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 724,
+          "like_count": 1827,
+          "listed_count": 1,
+          "media_count": 324,
+          "tweet_count": 1949
+        },
+        "url": "https://t.co/N7YdqNMa1I",
+        "username": "jianggejiang",
+        "verified": false
+      }
+    ]
+  }
+}

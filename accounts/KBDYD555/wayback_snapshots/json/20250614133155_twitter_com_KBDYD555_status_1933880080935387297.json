@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1933879573391036730",
+    "created_at": "2025-06-14T13:31:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T14:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933880080935387297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1408741694267301889",
+          "start": 0,
+          "username": "YUSU_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933880080935387297",
+    "in_reply_to_user_id": "1408741694267301889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933879573391036730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YUSU_01 不懂蕾但宝宝级别🤲🏻💝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1933879564406784000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtaFN7ragAA7R4D.jpg",
+        "width": 1546
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1933879573391036730",
+        "created_at": "2025-06-14T13:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T14:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933880080935387297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1408741694267301889",
+              "start": 0,
+              "username": "YUSU_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933880080935387297",
+        "in_reply_to_user_id": "1408741694267301889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933879573391036730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YUSU_01 不懂蕾但宝宝级别🤲🏻💝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933879564406784000"
+          ]
+        },
+        "author_id": "1408741694267301889",
+        "conversation_id": "1933879573391036730",
+        "created_at": "2025-06-14T13:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T14:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933879573391036730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8f41pftP0V",
+              "end": 31,
+              "expanded_url": "https://x.com/YUSU_01/status/1933879573391036730/photo/1",
+              "media_key": "3_1933879564406784000",
+              "start": 8,
+              "url": "https://t.co/8f41pftP0V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933879573391036730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎样才能有雷味 https://t.co/8f41pftP0V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世是碎碎念推/老鼠推/小狗推\n互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆｜小狗:小乖/小眉\n想让我生活好一点的话就给我一点钱吧谢谢你",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1930939924402045146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 189,
+          "like_count": 785,
+          "listed_count": 3,
+          "media_count": 371,
+          "tweet_count": 1101
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T10:59:36.000Z",
+        "description": "不賣任何藥物和違禁品｜守护@OmaRisa504504｜ @AKIAKI_019",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "OmaRisa504504"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "AKIAKI_019"
+              }
+            ]
+          }
+        },
+        "id": "1408741694267301889",
+        "name": "YUSU",
+        "pinned_tweet_id": "1924566411499995364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916446496532373504/f5Wggw6I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7120,
+          "following_count": 39,
+          "like_count": 10682,
+          "listed_count": 3,
+          "media_count": 1230,
+          "tweet_count": 15222
+        },
+        "username": "YUSU_01",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1962818479628927463",
+    "created_at": "2025-09-02T10:16:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T11:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962821954525970858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1893209290921672704",
+          "start": 0,
+          "username": "guagua_me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962821954525970858",
+    "in_reply_to_user_id": "1893209290921672704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962818479628927463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guagua_me 一起吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1962818479628927463",
+        "created_at": "2025-09-02T10:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T11:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962821954525970858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1893209290921672704",
+              "start": 0,
+              "username": "guagua_me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962821954525970858",
+        "in_reply_to_user_id": "1893209290921672704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962818479628927463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guagua_me 一起吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893209290921672704",
+        "conversation_id": "1962818479628927463",
+        "created_at": "2025-09-02T10:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T11:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962818479628927463"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962818479628927463",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃巧克力脆筒還是珍奶棒冰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n喜欢我想的话就给我一点钱吧不管多少都很感谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1945367514307059835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1652,
+          "following_count": 267,
+          "like_count": 1678,
+          "listed_count": 5,
+          "media_count": 598,
+          "tweet_count": 1976
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T08:01:01.000Z",
+        "description": "我什麼都不知道",
+        "id": "1893209290921672704",
+        "location": "288/520/1888🚪口令",
+        "name": "瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922933433099223040/rOaUlFix_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15154,
+          "following_count": 19,
+          "like_count": 521,
+          "listed_count": 41,
+          "media_count": 31,
+          "tweet_count": 78
+        },
+        "username": "guagua_me",
+        "verified": false
+      }
+    ]
+  }
+}

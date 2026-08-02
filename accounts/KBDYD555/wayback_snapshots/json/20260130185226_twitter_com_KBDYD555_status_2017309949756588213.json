@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2017295625428013176",
+    "created_at": "2026-01-30T18:52:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T19:52:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017309949756588213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1508447794537070595",
+          "start": 0,
+          "username": "sakura2333owo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017309949756588213",
+    "in_reply_to_user_id": "1508447794537070595",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017295625428013176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakura2333owo 紫色？💜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2017295625428013176",
+        "created_at": "2026-01-30T18:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T19:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017309949756588213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017309949756588213",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017295625428013176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 紫色？💜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "2017295625428013176",
+        "created_at": "2026-01-30T17:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T18:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017295625428013176"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017295625428013176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 258,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一杯奶茶竞猜我的新发色=^•ω•^="
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念/ED/sh/花枝鼠....互关回来吧...（Eng🆗）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2014999363500822659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3405,
+          "following_count": 378,
+          "like_count": 3129,
+          "listed_count": 9,
+          "media_count": 813,
+          "tweet_count": 2896
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི 🩵☁️💤All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "2003386674555027508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37716,
+          "following_count": 301,
+          "like_count": 7877,
+          "listed_count": 79,
+          "media_count": 1177,
+          "tweet_count": 5380
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2015472027763966325",
+    "created_at": "2026-01-27T10:24:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T11:24:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016094926845702602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1645004454725550080",
+          "start": 0,
+          "username": "linlin884148329"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016094926845702602",
+    "in_reply_to_user_id": "1645004454725550080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015472027763966325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linlin884148329 我特别讨厌每次抽完手上的味道怎么洗都洗不掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2015472027763966325",
+        "created_at": "2026-01-27T10:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T11:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016094926845702602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1645004454725550080",
+              "start": 0,
+              "username": "linlin884148329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016094926845702602",
+        "in_reply_to_user_id": "1645004454725550080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015472027763966325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linlin884148329 我特别讨厌每次抽完手上的味道怎么洗都洗不掉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645004454725550080",
+        "conversation_id": "2015472027763966325",
+        "created_at": "2026-01-25T17:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T18:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015472027763966325"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015472027763966325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然我抽烟但是我讨厌烟味有没有懂得"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念/ED/sh/花枝鼠....互关回来吧...（Eng🆗）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2014999363500822659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3385,
+          "following_count": 353,
+          "like_count": 3031,
+          "listed_count": 9,
+          "media_count": 794,
+          "tweet_count": 2828
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-09T10:03:35.000Z",
+        "description": "",
+        "id": "1645004454725550080",
+        "name": "🐀リンリン🐁",
+        "pinned_tweet_id": "1828866915588362315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645068178790420482/RQbWlNUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 141,
+          "like_count": 18584,
+          "listed_count": 3,
+          "media_count": 11,
+          "tweet_count": 5488
+        },
+        "username": "linlin884148329",
+        "verified": false
+      }
+    ]
+  }
+}

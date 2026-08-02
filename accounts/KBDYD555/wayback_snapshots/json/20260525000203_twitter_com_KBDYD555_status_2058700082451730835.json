@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2058388361807802688",
+    "created_at": "2026-05-25T00:02:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T01:02:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058700082451730835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1494708259382755328",
+          "start": 0,
+          "username": "SuzukiShinmori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058700082451730835",
+    "in_reply_to_user_id": "1494708259382755328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058635948896952432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuzukiShinmori 逆水寒我之前肝过玩不动了😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2058388361807802688",
+        "created_at": "2026-05-25T00:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T01:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058700082451730835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1494708259382755328",
+              "start": 0,
+              "username": "SuzukiShinmori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058700082451730835",
+        "in_reply_to_user_id": "1494708259382755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058635948896952432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuzukiShinmori 逆水寒我之前肝过玩不动了😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494708259382755328",
+        "conversation_id": "2058388361807802688",
+        "created_at": "2026-05-24T19:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T20:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058635948896952432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058635948896952432",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058388361807802688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 删了，肝死了\n\n没玩过可以下个逆水寒玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫：@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/花枝鼠....互关回来吧...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 🩵@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 86,
+                "start": 78,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 130,
+                "start": 121,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2031302686671515896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3829,
+          "following_count": 552,
+          "like_count": 4516,
+          "listed_count": 7,
+          "media_count": 957,
+          "tweet_count": 3511
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-18T16:20:07.000Z",
+        "description": "芝麻人每月底薪2000还是太超模了，我看只配领500让缺的来集中力量打芝麻\n\n芝麻人就是芝麻人，虽然名称带人但是跟其他人不一样，但是替换成🐷🐶畜却是不行的，涉嫌极恶劣的侮辱🐷🐶畜。可以把这种情况理解为一种最直观的芝麻🇨🇳特色\n\n红温的芝麻人不服可以去中南海当地周边的芝麻人管理部门【👮‍♂️局】进行一个举报",
+        "id": "1494708259382755328",
+        "location": "芝麻国 中南海",
+        "name": "うちはマダラ",
+        "pinned_tweet_id": "2055928394295247112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940298490870931456/Py-c2DEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 621,
+          "like_count": 277926,
+          "listed_count": 10,
+          "media_count": 4010,
+          "tweet_count": 32206
+        },
+        "username": "SuzukiShinmori",
+        "verified": false
+      }
+    ]
+  }
+}

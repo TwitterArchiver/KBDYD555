@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069378994521432064"
+      ],
+      "media_source_tweet_id": [
+        "2069378996853436615"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "conversation_id": "2069628425426596061",
+    "created_at": "2026-06-24T03:47:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T04:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069628425426596061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1557450235621695488",
+          "start": 3,
+          "username": "KBDYD555"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JDxPwtDsad",
+          "end": 46,
+          "expanded_url": "https://x.com/KBDYD555/status/2069378996853436615/photo/1",
+          "media_key": "3_2069378994521432064",
+          "start": 23,
+          "url": "https://t.co/JDxPwtDsad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069628425426596061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069378996853436615",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KBDYD555: 一次性筷子好用啊 https://t.co/JDxPwtDsad"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2069378994521432064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfpO0Ia4AA4Kse.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069378994521432064"
+          ],
+          "media_source_tweet_id": [
+            "2069378996853436615"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "2069628425426596061",
+        "created_at": "2026-06-24T03:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T04:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069628425426596061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1557450235621695488",
+              "start": 3,
+              "username": "KBDYD555"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JDxPwtDsad",
+              "end": 46,
+              "expanded_url": "https://x.com/KBDYD555/status/2069378996853436615/photo/1",
+              "media_key": "3_2069378994521432064",
+              "start": 23,
+              "url": "https://t.co/JDxPwtDsad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069628425426596061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069378996853436615",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KBDYD555: 一次性筷子好用啊 https://t.co/JDxPwtDsad"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069378994521432064"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "2069378996853436615",
+        "created_at": "2026-06-23T11:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069378996853436615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JDxPwtDsad",
+              "end": 32,
+              "expanded_url": "https://x.com/KBDYD555/status/2069378996853436615/photo/1",
+              "media_key": "3_2069378994521432064",
+              "start": 9,
+              "url": "https://t.co/JDxPwtDsad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069378996853436615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 3424,
+          "like_count": 328,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "一次性筷子好用啊 https://t.co/JDxPwtDsad"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫：@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/鼠/狗/猫twt....互关回来吧...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 🩵@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 135,
+                "start": 126,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2069433003848409098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3876,
+          "following_count": 600,
+          "like_count": 4777,
+          "listed_count": 6,
+          "media_count": 1003,
+          "tweet_count": 3644
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009259998019461120",
+        "3_2009260012162719744",
+        "7_2009260020891045889",
+        "7_2009260054655160320"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "conversation_id": "2009260078734487818",
+    "created_at": "2026-01-08T13:45:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T14:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009260078734487818"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 5,
+          "normalized_text": "minino",
+          "probability": 0.466,
+          "start": 0,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NV8EOFSbZQ",
+          "end": 30,
+          "expanded_url": "https://x.com/KBDYD555/status/2009260078734487818/video/1",
+          "media_key": "3_2009259998019461120",
+          "start": 7,
+          "url": "https://t.co/NV8EOFSbZQ"
+        },
+        {
+          "display_url": "pic.x.com/NV8EOFSbZQ",
+          "end": 30,
+          "expanded_url": "https://x.com/KBDYD555/status/2009260078734487818/video/1",
+          "media_key": "3_2009260012162719744",
+          "start": 7,
+          "url": "https://t.co/NV8EOFSbZQ"
+        },
+        {
+          "display_url": "pic.x.com/NV8EOFSbZQ",
+          "end": 30,
+          "expanded_url": "https://x.com/KBDYD555/status/2009260078734487818/video/1",
+          "media_key": "7_2009260020891045889",
+          "start": 7,
+          "url": "https://t.co/NV8EOFSbZQ"
+        },
+        {
+          "display_url": "pic.x.com/NV8EOFSbZQ",
+          "end": 30,
+          "expanded_url": "https://x.com/KBDYD555/status/2009260078734487818/video/1",
+          "media_key": "7_2009260054655160320",
+          "start": 7,
+          "url": "https://t.co/NV8EOFSbZQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009260078734487818",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "minino https://t.co/NV8EOFSbZQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009259998019461120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-JTUptaIAAxsbW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2249,
+        "media_key": "3_2009260012162719744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-JTVeZbIAAvx7z.jpg",
+        "width": 2249
+      },
+      {
+        "duration_ms": 5850,
+        "height": 1280,
+        "media_key": "7_2009260020891045889",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2009260020891045889/pu/img/mShengac_-h050if.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009260020891045889/pu/vid/avc1/320x568/2pmwLAi5Yc-6T8PR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009260020891045889/pu/vid/avc1/480x852/NynEtcgbaIDrvQFh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009260020891045889/pu/vid/avc1/720x1280/-3xmShB-kJ51tO45.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2009260020891045889/pu/pl/t6vcmi3ZUHZqOESV.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 3797,
+        "height": 1280,
+        "media_key": "7_2009260054655160320",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2009260054655160320/pu/img/N7fpR2aTgGPKo9Fl.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009260054655160320/pu/vid/avc1/320x568/pJwN6MkR3_aOMiHC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009260054655160320/pu/vid/avc1/480x852/gqDDjdt-mJl4vHLs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009260054655160320/pu/vid/avc1/720x1280/JWXFIJgaDwno0EMO.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2009260054655160320/pu/pl/DeNOFajIli9Zgo7F.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009259998019461120",
+            "3_2009260012162719744",
+            "7_2009260020891045889",
+            "7_2009260054655160320"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "2009260078734487818",
+        "created_at": "2026-01-08T13:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T14:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009260078734487818"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "minino",
+              "probability": 0.466,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NV8EOFSbZQ",
+              "end": 30,
+              "expanded_url": "https://x.com/KBDYD555/status/2009260078734487818/video/1",
+              "media_key": "3_2009259998019461120",
+              "start": 7,
+              "url": "https://t.co/NV8EOFSbZQ"
+            },
+            {
+              "display_url": "pic.x.com/NV8EOFSbZQ",
+              "end": 30,
+              "expanded_url": "https://x.com/KBDYD555/status/2009260078734487818/video/1",
+              "media_key": "3_2009260012162719744",
+              "start": 7,
+              "url": "https://t.co/NV8EOFSbZQ"
+            },
+            {
+              "display_url": "pic.x.com/NV8EOFSbZQ",
+              "end": 30,
+              "expanded_url": "https://x.com/KBDYD555/status/2009260078734487818/video/1",
+              "media_key": "7_2009260020891045889",
+              "start": 7,
+              "url": "https://t.co/NV8EOFSbZQ"
+            },
+            {
+              "display_url": "pic.x.com/NV8EOFSbZQ",
+              "end": 30,
+              "expanded_url": "https://x.com/KBDYD555/status/2009260078734487818/video/1",
+              "media_key": "7_2009260054655160320",
+              "start": 7,
+              "url": "https://t.co/NV8EOFSbZQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009260078734487818",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "minino https://t.co/NV8EOFSbZQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2006653674378924480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3312,
+          "following_count": 307,
+          "like_count": 2610,
+          "listed_count": 9,
+          "media_count": 740,
+          "tweet_count": 2602
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

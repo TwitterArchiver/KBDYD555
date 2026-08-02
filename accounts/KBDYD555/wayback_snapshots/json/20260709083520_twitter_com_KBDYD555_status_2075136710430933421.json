@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075136707348049920",
+        "3_2075136707624919040"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "conversation_id": "2075136710430933421",
+    "created_at": "2026-07-09T08:35:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T09:35:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075136710430933421"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4fFtsQ9WZy",
+          "end": 44,
+          "expanded_url": "https://x.com/KBDYD555/status/2075136710430933421/photo/1",
+          "media_key": "3_2075136707348049920",
+          "start": 21,
+          "url": "https://t.co/4fFtsQ9WZy"
+        },
+        {
+          "display_url": "pic.x.com/4fFtsQ9WZy",
+          "end": 44,
+          "expanded_url": "https://x.com/KBDYD555/status/2075136710430933421/photo/1",
+          "media_key": "3_2075136707624919040",
+          "start": 21,
+          "url": "https://t.co/4fFtsQ9WZy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075136710430933421",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "火到我朋友在ins刷到了何意味啊笑死我了 https://t.co/4fFtsQ9WZy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075136707348049920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxd1z3asAArFja.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075136707624919040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxd105bYAAs4zP.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075136707348049920",
+            "3_2075136707624919040"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "2075136710430933421",
+        "created_at": "2026-07-09T08:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T09:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075136710430933421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4fFtsQ9WZy",
+              "end": 44,
+              "expanded_url": "https://x.com/KBDYD555/status/2075136710430933421/photo/1",
+              "media_key": "3_2075136707348049920",
+              "start": 21,
+              "url": "https://t.co/4fFtsQ9WZy"
+            },
+            {
+              "display_url": "pic.x.com/4fFtsQ9WZy",
+              "end": 44,
+              "expanded_url": "https://x.com/KBDYD555/status/2075136710430933421/photo/1",
+              "media_key": "3_2075136707624919040",
+              "start": 21,
+              "url": "https://t.co/4fFtsQ9WZy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075136710430933421",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "火到我朋友在ins刷到了何意味啊笑死我了 https://t.co/4fFtsQ9WZy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫遭举报冻结...🚬/🩸/ed/🐭/🐶/🐱...互关欢迎会查成分...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 🩵亲友@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2072889837548712297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4519,
+          "following_count": 644,
+          "like_count": 5138,
+          "listed_count": 8,
+          "media_count": 1038,
+          "tweet_count": 3893
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

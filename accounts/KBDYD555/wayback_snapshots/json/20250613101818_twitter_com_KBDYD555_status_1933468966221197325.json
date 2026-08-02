@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1933112178443493644",
+    "created_at": "2025-06-13T10:18:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T11:18:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933468966221197325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1702221879434436608",
+          "start": 0,
+          "username": "8964zhajipai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933468966221197325",
+    "in_reply_to_user_id": "1702221879434436608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933266430470074377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964zhajipai 右腿髌骨脱位然后摔倒了把膝盖骨摔碎了一点😰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1933112178443493644",
+        "created_at": "2025-06-13T10:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T11:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933468966221197325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1702221879434436608",
+              "start": 0,
+              "username": "8964zhajipai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933468966221197325",
+        "in_reply_to_user_id": "1702221879434436608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933266430470074377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964zhajipai 右腿髌骨脱位然后摔倒了把膝盖骨摔碎了一点😰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702221879434436608",
+        "conversation_id": "1933112178443493644",
+        "created_at": "2025-06-12T20:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T21:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933266430470074377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933266430470074377",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933112178443493644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 天啊这是怎么了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世是碎碎念推/老鼠推/小狗推\n互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆｜小狗:小乖/小眉\n想让我生活好一点的话就给我一点钱吧谢谢你",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1930939924402045146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 189,
+          "like_count": 777,
+          "listed_count": 3,
+          "media_count": 363,
+          "tweet_count": 1087
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T07:25:04.000Z",
+        "description": "唉",
+        "id": "1702221879434436608",
+        "location": "🚪52",
+        "name": "像素",
+        "pinned_tweet_id": "1860467537722671520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860587158731653120/sZ21AxRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 73,
+          "like_count": 158,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 185
+        },
+        "username": "8964zhajipai",
+        "verified": false
+      }
+    ]
+  }
+}

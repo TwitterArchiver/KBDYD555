@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1983497000596181471",
+    "created_at": "2025-10-29T12:31:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T13:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983512022676639895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1658881840349061120",
+          "start": 0,
+          "username": "CJing3_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983512022676639895",
+    "in_reply_to_user_id": "1658881840349061120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983499666630000942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CJing3_ 唉！盗图的都死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1983497000596181471",
+        "created_at": "2025-10-29T12:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T13:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983512022676639895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1658881840349061120",
+              "start": 0,
+              "username": "CJing3_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983512022676639895",
+        "in_reply_to_user_id": "1658881840349061120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983499666630000942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CJing3_ 唉！盗图的都死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658881840349061120",
+        "conversation_id": "1983497000596181471",
+        "created_at": "2025-10-29T11:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T12:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983499666630000942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983499666630000942",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983497000596181471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 打了也会乱发的，我藏了很多小水印在照片里，这样被盗图了还能数一数自己打的水印冷静一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n喜欢我的话就给我钱吧不管多少都很感谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1974847135830163600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2810,
+          "following_count": 299,
+          "like_count": 2369,
+          "listed_count": 8,
+          "media_count": 716,
+          "tweet_count": 2510
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T17:07:32.000Z",
+        "description": "",
+        "id": "1658881840349061120",
+        "location": "轉載Reprint🚫",
+        "name": "楚鯨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899330579277164544/7tNlrU4U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10583,
+          "following_count": 443,
+          "like_count": 8888,
+          "listed_count": 19,
+          "media_count": 131,
+          "tweet_count": 387
+        },
+        "username": "CJing3_",
+        "verified": false
+      }
+    ]
+  }
+}

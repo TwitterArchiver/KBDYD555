@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1908766094887969031",
+    "created_at": "2025-08-13T23:33:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T00:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955774850225856818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1848376331698049024",
+          "start": 0,
+          "username": "bHT37pllgs69699"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955774850225856818",
+    "in_reply_to_user_id": "1848376331698049024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955707641155740136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bHT37pllgs69699 你想要的话可以过我🚪我发给你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1908766094887969031",
+        "created_at": "2025-08-13T23:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T00:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955774850225856818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1848376331698049024",
+              "start": 0,
+              "username": "bHT37pllgs69699"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955774850225856818",
+        "in_reply_to_user_id": "1848376331698049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955707641155740136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bHT37pllgs69699 你想要的话可以过我🚪我发给你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1848376331698049024",
+        "conversation_id": "1908766094887969031",
+        "created_at": "2025-08-13T19:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T20:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955707641155740136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955707641155740136",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908766094887969031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 现在还能进群吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n喜欢我想的话就给我一点钱吧不管多少都很感谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1945367514307059835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1538,
+          "following_count": 242,
+          "like_count": 1390,
+          "listed_count": 4,
+          "media_count": 522,
+          "tweet_count": 1618
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-21T14:50:56.000Z",
+        "description": "",
+        "id": "1848376331698049024",
+        "location": "Kanagawa-ken, Japan",
+        "name": "卿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862096728813441024/5Kafre4a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 440,
+          "like_count": 1163,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 37
+        },
+        "username": "bHT37pllgs69699",
+        "verified": false
+      }
+    ]
+  }
+}

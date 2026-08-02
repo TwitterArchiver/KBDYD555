@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1956287849721974867",
+    "created_at": "2025-08-16T11:42:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T12:42:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956682983760699528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1694388832970702848",
+          "start": 0,
+          "username": "liuxin879582189"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956682983760699528",
+    "in_reply_to_user_id": "1694388832970702848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956525731712000373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuxin879582189 鼠会躲开的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1956287849721974867",
+        "created_at": "2025-08-16T11:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T12:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956682983760699528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1694388832970702848",
+              "start": 0,
+              "username": "liuxin879582189"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956682983760699528",
+        "in_reply_to_user_id": "1694388832970702848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956525731712000373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuxin879582189 鼠会躲开的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694388832970702848",
+        "conversation_id": "1956287849721974867",
+        "created_at": "2025-08-16T01:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T02:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956525731712000373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956525731712000373",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956287849721974867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 会不会翻身压到老鼠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n喜欢我想的话就给我一点钱吧不管多少都很感谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1945367514307059835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1539,
+          "following_count": 243,
+          "like_count": 1418,
+          "listed_count": 4,
+          "media_count": 530,
+          "tweet_count": 1654
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-23T16:39:20.000Z",
+        "description": "EMO",
+        "id": "1694388832970702848",
+        "location": "上海",
+        "name": "巴布亚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707728156986363904/Tgv8aGYC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 68,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 362
+        },
+        "username": "liuxin879582189",
+        "verified": false
+      }
+    ]
+  }
+}

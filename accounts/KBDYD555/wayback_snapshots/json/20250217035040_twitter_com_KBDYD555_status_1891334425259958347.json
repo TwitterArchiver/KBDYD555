@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1891334425259958347",
+    "created_at": "2025-02-17T03:50:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T04:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1891334425259958347"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1891334425259958347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "各种减肥辅助产品说实话我觉得根本没用。因为我根本不吃东西也不运动。吃了也就图个心安就不会去催吐。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1891334425259958347",
+        "created_at": "2025-02-17T03:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T04:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891334425259958347"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1891334425259958347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各种减肥辅助产品说实话我觉得根本没用。因为我根本不吃东西也不运动。吃了也就图个心安就不会去催吐。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "这个号是避难所，什么都会发\n看我不顺眼就屏蔽别骂我也别举报谢谢\n想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "地獄",
+        "name": "九九（避难版）",
+        "pinned_tweet_id": "1888816593129603314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662012310284820483/8dPzjtSE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 106,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 73
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

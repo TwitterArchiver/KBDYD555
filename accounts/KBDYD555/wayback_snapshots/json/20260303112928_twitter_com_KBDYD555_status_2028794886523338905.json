@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2028717978536251687",
+    "created_at": "2026-03-03T11:29:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T12:29:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028794886523338905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1811812787058016257",
+          "start": 0,
+          "username": "kanakosama0223f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028794886523338905",
+    "in_reply_to_user_id": "1811812787058016257",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028782785587208229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanakosama0223f 谢谢kanako酱❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2028717978536251687",
+        "created_at": "2026-03-03T11:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T12:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028794886523338905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1811812787058016257",
+              "start": 0,
+              "username": "kanakosama0223f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028794886523338905",
+        "in_reply_to_user_id": "1811812787058016257",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028782785587208229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanakosama0223f 谢谢kanako酱❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811812787058016257",
+        "conversation_id": "2028717978536251687",
+        "created_at": "2026-03-03T10:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T11:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028782785587208229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028782785587208229",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028717978536251687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 小心一点呀 痛痛飞走"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/花枝鼠....互关回来吧...（Eng🆗）存图账号：@kyuukoQ 我需要钱如果想我好一点就给我钱吧谢谢你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 79,
+                "start": 71,
+                "username": "kyuukoQ"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2027982822368288841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3559,
+          "following_count": 417,
+          "like_count": 3572,
+          "listed_count": 9,
+          "media_count": 889,
+          "tweet_count": 3186
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T17:20:27.000Z",
+        "description": "INTP 🐾07 🫧IG：kanako_0223ff TikTok：kanako0223ff 抖音：kanakosama0223 推特只有两个小号➡️@kanakoshine0223 @kanako0223ff 看到用我头像和名字的账号请不要相信 都是假冒的 门槛288 我推：@Uni_btt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 75,
+                "username": "kanakoshine0223"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "kanako0223ff"
+              },
+              {
+                "end": 147,
+                "start": 139,
+                "username": "Uni_btt"
+              }
+            ]
+          }
+        },
+        "id": "1811812787058016257",
+        "location": "地狱🪦",
+        "name": "草莓水烟枪🍓",
+        "pinned_tweet_id": "2026690966376390986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008265402099654656/E9mXaAvQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16666,
+          "following_count": 104,
+          "like_count": 7360,
+          "listed_count": 22,
+          "media_count": 947,
+          "tweet_count": 5056
+        },
+        "username": "kanakosama0223f",
+        "verified": false
+      }
+    ]
+  }
+}

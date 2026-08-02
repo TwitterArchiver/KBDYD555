@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1965765561297895570",
+    "created_at": "2025-09-11T14:14:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T15:14:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966143271916454024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499709348616241155",
+          "start": 0,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966143271916454024",
+    "in_reply_to_user_id": "1499709348616241155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966029772083102073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiweimaomao 摸摸~我之前o金刚烷胺就是会焦虑症大爆发，到底是谁散播的烷胺好oaq...不过我吃的是复方烷胺胶囊（应该没写错吧）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1965765561297895570",
+        "created_at": "2025-09-11T14:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T15:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966143271916454024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499709348616241155",
+              "start": 0,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966143271916454024",
+        "in_reply_to_user_id": "1499709348616241155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966029772083102073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiweimaomao 摸摸~我之前o金刚烷胺就是会焦虑症大爆发，到底是谁散播的烷胺好oaq...不过我吃的是复方烷胺胶囊（应该没写错吧）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499709348616241155",
+        "conversation_id": "1965765561297895570",
+        "created_at": "2025-09-11T06:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T07:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966029772083102073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966029772083102073",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965765561297895570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 有金刚烷胺的话会产生严重的实体幻觉幻体，建议不要试因为o到幻觉起码后来四五天都会头痛焦虑抑郁之类的，o得少的话就是单纯的头痛焦虑抑郁了反正不论是哪一种体验都很糟糕\n还有一种概率吃完后吃什么东西都恶心想吐……\n想不起来还有什么副作用了呃啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n喜欢我想的话就给我一点钱吧不管多少都很感谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1945367514307059835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727,
+          "following_count": 270,
+          "like_count": 1739,
+          "listed_count": 5,
+          "media_count": 613,
+          "tweet_count": 2064
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "是碎碎念推和猫猫推丨游戏目前第五人格和一些单机丨嘤鹉：@SENDOH214丨梯子https://t.co/ual3P7s30o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "SENDOH214"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "dash.lineasia.top/#/register?cod…",
+                "end": 63,
+                "expanded_url": "https://dash.lineasia.top/#/register?code=U8x8snvo",
+                "start": 40,
+                "url": "https://t.co/ual3P7s30o"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "天空",
+        "name": "爱礼",
+        "pinned_tweet_id": "1965345418428252548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40478,
+          "following_count": 1078,
+          "like_count": 23716,
+          "listed_count": 49,
+          "media_count": 2642,
+          "tweet_count": 30170
+        },
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

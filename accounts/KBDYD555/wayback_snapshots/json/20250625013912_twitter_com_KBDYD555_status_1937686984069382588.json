@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937686980768464896",
+        "3_1937686981779374081"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "conversation_id": "1937686984069382588",
+    "created_at": "2025-06-25T01:39:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T02:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1937686984069382588"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pM1cJ6wzuO",
+          "end": 35,
+          "expanded_url": "https://x.com/KBDYD555/status/1937686984069382588/photo/1",
+          "media_key": "3_1937686980768464896",
+          "start": 12,
+          "url": "https://t.co/pM1cJ6wzuO"
+        },
+        {
+          "display_url": "pic.x.com/pM1cJ6wzuO",
+          "end": 35,
+          "expanded_url": "https://x.com/KBDYD555/status/1937686984069382588/photo/1",
+          "media_key": "3_1937686981779374081",
+          "start": 12,
+          "url": "https://t.co/pM1cJ6wzuO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937686984069382588",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天晚上拍的，左右腿比 https://t.co/pM1cJ6wzuO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1937686980768464896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuQMCu6agAAd3mO.jpg",
+        "width": 644
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1937686981779374081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuQMCyrbwAExrgV.jpg",
+        "width": 625
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937686980768464896",
+            "3_1937686981779374081"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "1937686984069382588",
+        "created_at": "2025-06-25T01:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T02:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937686984069382588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pM1cJ6wzuO",
+              "end": 35,
+              "expanded_url": "https://x.com/KBDYD555/status/1937686984069382588/photo/1",
+              "media_key": "3_1937686980768464896",
+              "start": 12,
+              "url": "https://t.co/pM1cJ6wzuO"
+            },
+            {
+              "display_url": "pic.x.com/pM1cJ6wzuO",
+              "end": 35,
+              "expanded_url": "https://x.com/KBDYD555/status/1937686984069382588/photo/1",
+              "media_key": "3_1937686981779374081",
+              "start": 12,
+              "url": "https://t.co/pM1cJ6wzuO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937686984069382588",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天晚上拍的，左右腿比 https://t.co/pM1cJ6wzuO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世是碎碎念推/老鼠推/小狗推\n互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆｜小狗:小乖/小眉\n想让我生活好一点的话就给我一点钱吧谢谢你",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1930939924402045146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1262,
+          "following_count": 209,
+          "like_count": 868,
+          "listed_count": 3,
+          "media_count": 390,
+          "tweet_count": 1168
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1888808169570521134",
+    "created_at": "2025-02-10T22:16:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T23:16:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889076104172056792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1481172876589821952",
+          "start": 0,
+          "username": "pyke2076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889076104172056792",
+    "in_reply_to_user_id": "1481172876589821952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888835307631784204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyke2076 宝宝呜呜呜😭🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1888808169570521134",
+        "created_at": "2025-02-10T22:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T23:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889076104172056792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "pyke2076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889076104172056792",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888835307631784204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyke2076 宝宝呜呜呜😭🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "1888808169570521134",
+        "created_at": "2025-02-10T06:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T07:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888835307631784204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888835307631784204",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888808169570521134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 宝宝🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "这个号堆图用...",
+        "id": "1557450235621695488",
+        "location": "地獄",
+        "name": "九十九",
+        "pinned_tweet_id": "1888816593129603314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662012310284820483/8dPzjtSE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 81,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 52
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "当你离去之后，你仍在我的视线里。",
+        "id": "1481172876589821952",
+        "name": "bunny",
+        "pinned_tweet_id": "1851125622191329323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3598,
+          "following_count": 958,
+          "like_count": 44403,
+          "listed_count": 6,
+          "media_count": 2082,
+          "tweet_count": 11474
+        },
+        "username": "pyke2076",
+        "verified": false
+      }
+    ]
+  }
+}

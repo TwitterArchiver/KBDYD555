@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1916487456725307878",
+    "created_at": "2025-04-27T14:50:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T15:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916505321079706060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878537356275585024",
+          "start": 0,
+          "username": "YuYuc613516"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916505321079706060",
+    "in_reply_to_user_id": "1878537356275585024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916498805907738935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuYuc613516 啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1916487456725307878",
+        "created_at": "2025-04-27T14:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T15:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916505321079706060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878537356275585024",
+              "start": 0,
+              "username": "YuYuc613516"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916505321079706060",
+        "in_reply_to_user_id": "1878537356275585024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916498805907738935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuYuc613516 啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878537356275585024",
+        "conversation_id": "1916487456725307878",
+        "created_at": "2025-04-27T14:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T15:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916498805907738935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916498805907738935",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916487456725307878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 传奇耐药王"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99转世 喜欢老鼠请关注我\nhere is my life with my rats hope u like my pet rats🐭🥰\n我的老鼠有：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino\n看我不顺眼就屏蔽别骂我也别举报谢谢\n想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭",
+        "name": "🐭老鼠国王(Rats!",
+        "pinned_tweet_id": "1914910831428689932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 164,
+          "like_count": 347,
+          "listed_count": 3,
+          "media_count": 166,
+          "tweet_count": 510
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T20:19:57.000Z",
+        "description": "一个贫穷的阴暗宅宅 我只回关小女孩！！",
+        "id": "1878537356275585024",
+        "name": "阿昱昱昱",
+        "pinned_tweet_id": "1916449186016330136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916468921697198080/nd1U4R7j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 24,
+          "like_count": 1445,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 544
+        },
+        "username": "YuYuc613516",
+        "verified": false
+      }
+    ]
+  }
+}

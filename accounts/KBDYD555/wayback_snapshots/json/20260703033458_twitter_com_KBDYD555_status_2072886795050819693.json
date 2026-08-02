@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2072858580114690161",
+    "created_at": "2026-07-03T03:34:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T04:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072886795050819693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1990368873632436224",
+          "start": 0,
+          "username": "lil_tea_cpp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072886795050819693",
+    "in_reply_to_user_id": "1990368873632436224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072884714348912954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lil_tea_cpp 我没钱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2072858580114690161",
+        "created_at": "2026-07-03T03:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T04:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072886795050819693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1990368873632436224",
+              "start": 0,
+              "username": "lil_tea_cpp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072886795050819693",
+        "in_reply_to_user_id": "1990368873632436224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072884714348912954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lil_tea_cpp 我没钱了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990368873632436224",
+        "conversation_id": "2072858580114690161",
+        "created_at": "2026-07-03T03:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T04:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072884714348912954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072884714348912954",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072858580114690161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 问题你这也不是啥好烟儿啊, 尝尝红万吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫：@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/鼠/狗/猫twt....互关回来吧...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 🩵亲友@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2069378996853436615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3928,
+          "following_count": 627,
+          "like_count": 4940,
+          "listed_count": 6,
+          "media_count": 1014,
+          "tweet_count": 3728
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T10:38:23.000Z",
+        "description": "she/her.\nenfp, bipolar.\nnewbie coder.\ni like young cee forever https://t.co/LUqYRsLvzy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "music.163.com/#/artist?id=31…",
+                "end": 86,
+                "expanded_url": "https://music.163.com/#/artist?id=31055",
+                "start": 63,
+                "url": "https://t.co/LUqYRsLvzy"
+              }
+            ]
+          }
+        },
+        "id": "1990368873632436224",
+        "location": "long beach",
+        "name": "lil_tea🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068720641801666560/k4RX6NQ-_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 11,
+          "like_count": 329,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "lil_tea_cpp",
+        "verified": false
+      }
+    ]
+  }
+}

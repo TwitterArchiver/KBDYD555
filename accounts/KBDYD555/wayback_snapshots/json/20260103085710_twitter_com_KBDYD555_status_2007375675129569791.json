@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2007375675129569791",
+    "created_at": "2026-01-03T08:57:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T09:57:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007375675129569791"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2007375675129569791",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前沉迷自残的时候，我会因为自己割出了漂亮的伤口而获得成就感，看到大家也觉得我的伤口漂亮会很开心。。我知道这样获得认同和发泄痛苦的方式太极端了。但是现在摸着自己满身的伤疤我只觉得一切都好像一场梦。我是什么时候醒来了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2007375675129569791",
+        "created_at": "2026-01-03T08:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T09:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007375675129569791"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007375675129569791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前沉迷自残的时候，我会因为自己割出了漂亮的伤口而获得成就感，看到大家也觉得我的伤口漂亮会很开心。。我知道这样获得认同和发泄痛苦的方式太极端了。但是现在摸着自己满身的伤疤我只觉得一切都好像一场梦。我是什么时候醒来了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "2006653674378924480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3282,
+          "following_count": 287,
+          "like_count": 2433,
+          "listed_count": 9,
+          "media_count": 723,
+          "tweet_count": 2548
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

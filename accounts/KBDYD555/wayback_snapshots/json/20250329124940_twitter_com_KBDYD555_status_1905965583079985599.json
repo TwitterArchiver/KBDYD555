@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1905965563551338496",
+        "3_1905965567850463232",
+        "7_1905965561869455360"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "conversation_id": "1905965583079985599",
+    "created_at": "2025-03-29T12:49:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T13:49:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905965583079985599"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mi8rs4W85f",
+          "end": 47,
+          "expanded_url": "https://x.com/KBDYD555/status/1905965583079985599/video/1",
+          "media_key": "3_1905965563551338496",
+          "start": 24,
+          "url": "https://t.co/mi8rs4W85f"
+        },
+        {
+          "display_url": "pic.x.com/mi8rs4W85f",
+          "end": 47,
+          "expanded_url": "https://x.com/KBDYD555/status/1905965583079985599/video/1",
+          "media_key": "3_1905965567850463232",
+          "start": 24,
+          "url": "https://t.co/mi8rs4W85f"
+        },
+        {
+          "display_url": "pic.x.com/mi8rs4W85f",
+          "end": 47,
+          "expanded_url": "https://x.com/KBDYD555/status/1905965583079985599/video/1",
+          "media_key": "7_1905965561869455360",
+          "start": 24,
+          "url": "https://t.co/mi8rs4W85f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905965583079985599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的花枝鼠一个个长得都绝了真的没人想跟我买吗😔 https://t.co/mi8rs4W85f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 703,
+        "media_key": "3_1905965563551338496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnNZlPGa0AAF8-0.jpg",
+        "width": 704
+      },
+      {
+        "height": 839,
+        "media_key": "3_1905965567850463232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnNZlfHaQAAWLY6.jpg",
+        "width": 840
+      },
+      {
+        "duration_ms": 3682,
+        "height": 1280,
+        "media_key": "7_1905965561869455360",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1905965561869455360/pu/img/4GWflKlUu95p6x6J.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1905965561869455360/pu/vid/avc1/320x568/CExgozT46tbTs3L_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1905965561869455360/pu/vid/avc1/480x852/eHy6ejFFx3py-xK3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1905965561869455360/pu/vid/avc1/720x1280/GSwmQgAHK9xyiQH7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1905965561869455360/pu/pl/aDQoo7ov013NmkjK.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905965563551338496",
+            "3_1905965567850463232",
+            "7_1905965561869455360"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "1905965583079985599",
+        "created_at": "2025-03-29T12:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T13:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905965583079985599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mi8rs4W85f",
+              "end": 47,
+              "expanded_url": "https://x.com/KBDYD555/status/1905965583079985599/video/1",
+              "media_key": "3_1905965563551338496",
+              "start": 24,
+              "url": "https://t.co/mi8rs4W85f"
+            },
+            {
+              "display_url": "pic.x.com/mi8rs4W85f",
+              "end": 47,
+              "expanded_url": "https://x.com/KBDYD555/status/1905965583079985599/video/1",
+              "media_key": "3_1905965567850463232",
+              "start": 24,
+              "url": "https://t.co/mi8rs4W85f"
+            },
+            {
+              "display_url": "pic.x.com/mi8rs4W85f",
+              "end": 47,
+              "expanded_url": "https://x.com/KBDYD555/status/1905965583079985599/video/1",
+              "media_key": "7_1905965561869455360",
+              "start": 24,
+              "url": "https://t.co/mi8rs4W85f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905965583079985599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的花枝鼠一个个长得都绝了真的没人想跟我买吗😔 https://t.co/mi8rs4W85f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "shtwt｜edtwt｜rat twt\n我是99转世啊啊寻找前世互关\nhere is my life with my rats hope u like my pet rats🐭🥰\n看我不顺眼就屏蔽别骂我也别举报谢谢\n想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭",
+        "name": "老鼠🐭rats bot（寻找前世互关版）",
+        "pinned_tweet_id": "1902382804052406487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 142,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 219
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2016123757585375462",
+    "created_at": "2026-01-27T12:18:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T13:18:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016123757585375462"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2016123757585375462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明明吃了止痛药和消炎药了为什么牙就是疼个没完。已经超出每日止痛药的用量上限了....为什么不管用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2016123757585375462",
+        "created_at": "2026-01-27T12:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T13:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016123757585375462"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016123757585375462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明明吃了止痛药和消炎药了为什么牙就是疼个没完。已经超出每日止痛药的用量上限了....为什么不管用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念/ED/sh/花枝鼠....互关回来吧...（Eng🆗）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2014999363500822659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3385,
+          "following_count": 353,
+          "like_count": 3035,
+          "listed_count": 9,
+          "media_count": 796,
+          "tweet_count": 2835
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

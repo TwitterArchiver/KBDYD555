@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1954384416052326400"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "conversation_id": "1954384518061908161",
+    "created_at": "2025-08-10T03:29:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T04:29:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954384518061908161"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6ef3P4bUCl",
+          "end": 38,
+          "expanded_url": "https://x.com/KBDYD555/status/1954384518061908161/video/1",
+          "media_key": "7_1954384416052326400",
+          "start": 15,
+          "url": "https://t.co/6ef3P4bUCl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954384518061908161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🐭：人！你在吃什么给我吃点！ https://t.co/6ef3P4bUCl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 52053,
+        "height": 1280,
+        "media_key": "7_1954384416052326400",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1954384416052326400/pu/img/bCFBR8htLiX7gMP2.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1954384416052326400/pu/vid/avc1/320x568/RyGxzowUyI-IkbLr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1954384416052326400/pu/vid/avc1/480x852/JakJxJ_IYYCHn8wT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1954384416052326400/pu/vid/avc1/720x1280/COLBE4SfthxgoI_4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1954384416052326400/pu/pl/bPPvybe1lb_Wqp6B.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1954384416052326400"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "1954384518061908161",
+        "created_at": "2025-08-10T03:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T04:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954384518061908161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6ef3P4bUCl",
+              "end": 38,
+              "expanded_url": "https://x.com/KBDYD555/status/1954384518061908161/video/1",
+              "media_key": "7_1954384416052326400",
+              "start": 15,
+              "url": "https://t.co/6ef3P4bUCl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954384518061908161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🐭：人！你在吃什么给我吃点！ https://t.co/6ef3P4bUCl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n喜欢我想的话就给我一点钱吧不管多少都很感谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1945367514307059835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 237,
+          "like_count": 1338,
+          "listed_count": 4,
+          "media_count": 495,
+          "tweet_count": 1518
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

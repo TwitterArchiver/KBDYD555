@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1952613425143861513",
+    "created_at": "2025-08-05T08:51:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T09:51:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952653664642048342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1277261255523303424",
+          "start": 0,
+          "username": "MMPIvMW3bF5Iqng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952653664642048342",
+    "in_reply_to_user_id": "1277261255523303424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952620802815426738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MMPIvMW3bF5Iqng 我不中了...我妈真觉得这能治抑郁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1952613425143861513",
+        "created_at": "2025-08-05T08:51:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T09:51:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952653664642048342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1277261255523303424",
+              "start": 0,
+              "username": "MMPIvMW3bF5Iqng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952653664642048342",
+        "in_reply_to_user_id": "1277261255523303424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952620802815426738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MMPIvMW3bF5Iqng 我不中了...我妈真觉得这能治抑郁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1277261255523303424",
+        "conversation_id": "1952613425143861513",
+        "created_at": "2025-08-05T06:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T07:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952620802815426738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952620802815426738",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952613425143861513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 笑点解析：喝中药调理"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世是碎碎念推/老鼠推/小狗推\n互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆｜小狗:小乖/小眉\n想让我生活好一点的话就给我一点钱吧谢谢你",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1945367514307059835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1504,
+          "following_count": 227,
+          "like_count": 1244,
+          "listed_count": 4,
+          "media_count": 478,
+          "tweet_count": 1445
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-28T15:23:23.000Z",
+        "description": "no kiss ,no kiss,no kiss",
+        "id": "1277261255523303424",
+        "name": "怡口糖三包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793602689252904960/Jq3_SKlc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 427,
+          "like_count": 6722,
+          "listed_count": 8,
+          "media_count": 327,
+          "tweet_count": 25852
+        },
+        "username": "MMPIvMW3bF5Iqng",
+        "verified": false
+      }
+    ]
+  }
+}

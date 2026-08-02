@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926828074466770944"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1926828077784428621",
+    "created_at": "2025-05-26T02:29:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T03:29:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1926828077784428621"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/afu8YaYWkt",
+          "end": 41,
+          "expanded_url": "https://x.com/KBDYD555/status/1926828077784428621/photo/1",
+          "media_key": "3_1926828074466770944",
+          "start": 18,
+          "url": "https://t.co/afu8YaYWkt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926828077784428621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "麦！喜欢猪柳蛋麦但是配送费要6块🥲 https://t.co/afu8YaYWkt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1926828074466770944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr137MnXgAAlXkv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926828074466770944"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1926828077784428621",
+        "created_at": "2025-05-26T02:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T03:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926828077784428621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/afu8YaYWkt",
+              "end": 41,
+              "expanded_url": "https://x.com/KBDYD555/status/1926828077784428621/photo/1",
+              "media_key": "3_1926828074466770944",
+              "start": 18,
+              "url": "https://t.co/afu8YaYWkt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926828077784428621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "麦！喜欢猪柳蛋麦但是配送费要6块🥲 https://t.co/afu8YaYWkt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99转世 现世是碎碎念推/老鼠推/小狗推\n喜欢老鼠请关注我....\nhere is my life with my rats🐭🥰\n我的老鼠有：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆｜小狗🐶叫小乖\n想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭🚪52r",
+        "name": "🐭老鼠国王(Rats!",
+        "pinned_tweet_id": "1915758775098826913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 182,
+          "like_count": 627,
+          "listed_count": 3,
+          "media_count": 307,
+          "tweet_count": 918
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

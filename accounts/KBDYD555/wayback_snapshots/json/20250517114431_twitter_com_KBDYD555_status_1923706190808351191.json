@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1923703990140928495",
+    "created_at": "2025-05-17T11:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T12:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923706190808351191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1268491001951219712",
+          "start": 0,
+          "username": "Xaiforever11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923706190808351191",
+    "in_reply_to_user_id": "1268491001951219712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923705877716140191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xaiforever11 好啊好啊我看看！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1923703990140928495",
+        "created_at": "2025-05-17T11:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T12:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923706190808351191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1268491001951219712",
+              "start": 0,
+              "username": "Xaiforever11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923706190808351191",
+        "in_reply_to_user_id": "1268491001951219712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923705877716140191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xaiforever11 好啊好啊我看看！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1268491001951219712",
+        "conversation_id": "1923703990140928495",
+        "created_at": "2025-05-17T11:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T12:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923705877716140191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923705877716140191",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923705212914761764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 唇烟！淘宝就可以买 suns这个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99转世 现世是碎碎念推/老鼠推\n喜欢老鼠请关注我....\nhere is my life with my rats🐭🥰\n我的老鼠有：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n看我不顺眼就屏蔽别骂我也别举报，想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭🚪52r",
+        "name": "🐭老鼠国王(Rats!",
+        "pinned_tweet_id": "1915758775098826913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 176,
+          "like_count": 522,
+          "listed_count": 0,
+          "media_count": 264,
+          "tweet_count": 795
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-04T10:33:24.000Z",
+        "description": "",
+        "id": "1268491001951219712",
+        "location": "亮晶晶布丁城堡",
+        "name": "愛",
+        "pinned_tweet_id": "1787993626792034478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779901522299822081/Oq4K0emK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5255,
+          "following_count": 400,
+          "like_count": 48644,
+          "listed_count": 6,
+          "media_count": 893,
+          "tweet_count": 12359
+        },
+        "username": "Xaiforever11",
+        "verified": false
+      }
+    ]
+  }
+}

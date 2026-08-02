@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2072953414330593359",
+    "created_at": "2026-07-04T05:00:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T06:00:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073270757027881148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1723050272812146689",
+          "start": 0,
+          "username": "oh682490598000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073270757027881148",
+    "in_reply_to_user_id": "1723050272812146689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073269751028314234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oh682490598000 是啊我喜欢爱喜那款但是买不到真货😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2072953414330593359",
+        "created_at": "2026-07-04T05:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073270757027881148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1723050272812146689",
+              "start": 0,
+              "username": "oh682490598000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073270757027881148",
+        "in_reply_to_user_id": "1723050272812146689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073269751028314234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oh682490598000 是啊我喜欢爱喜那款但是买不到真货😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723050272812146689",
+        "conversation_id": "2072953414330593359",
+        "created_at": "2026-07-04T04:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T05:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073269751028314234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073269751028314234",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072953414330593359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 这个朋友也给我散过，她说很怪味，不过我觉得还好，而且阿里山的爆珠抽完手都会香香的。推荐阿里山的茉莉是真的真的很香！还有老鼠国王如果喜欢香芋奶茶味道，爱喜的香芋还有宝亨的奶茶都很不错，不过韩国这两款都停产了，国内的没有警告标识的话都是假烟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫：@kokocat_9 遭举报冻结...现世成分:🚬/ed/🩸/🐭/🐶/🐱...互关回来吧...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 🩵亲友@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 128,
+                "start": 119,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2072889837548712297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4038,
+          "following_count": 637,
+          "like_count": 5005,
+          "listed_count": 7,
+          "media_count": 1020,
+          "tweet_count": 3777
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T18:49:43.000Z",
+        "description": "",
+        "id": "1723050272812146689",
+        "name": "身边全是贱人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980679855336214528/vW9zWDrK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 347,
+          "like_count": 10356,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "oh682490598000",
+        "verified": false
+      }
+    ]
+  }
+}

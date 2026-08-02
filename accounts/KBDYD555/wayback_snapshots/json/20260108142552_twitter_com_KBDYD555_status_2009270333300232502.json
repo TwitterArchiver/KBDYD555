@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2009113269034979514",
+    "created_at": "2026-01-08T14:25:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T15:25:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009270333300232502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1964111090540802049",
+          "start": 0,
+          "username": "ni342485"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009270333300232502",
+    "in_reply_to_user_id": "1964111090540802049",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009268154095092197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ni342485 true😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2009113269034979514",
+        "created_at": "2026-01-08T14:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T15:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009270333300232502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1964111090540802049",
+              "start": 0,
+              "username": "ni342485"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009270333300232502",
+        "in_reply_to_user_id": "1964111090540802049",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009268154095092197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ni342485 true😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964111090540802049",
+        "conversation_id": "2009113269034979514",
+        "created_at": "2026-01-08T14:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T15:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009268154095092197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009268154095092197",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009113269034979514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 They're so sweet 🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2006653674378924480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3312,
+          "following_count": 307,
+          "like_count": 2613,
+          "listed_count": 9,
+          "media_count": 740,
+          "tweet_count": 2604
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T23:39:27.000Z",
+        "description": "Mini diary! | shedtwt | Bipolar 2 | deranged | Non shedtwt dni | Certified dumbass | 24（๑⃙⃘´༥`๑⃙⃘) Binge free: 16 days",
+        "id": "1964111090540802049",
+        "name": ". 。·*༙ ✟ Kora ✟ *༙· 。.",
+        "pinned_tweet_id": "2007533038373343592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004742879055360000/JtQnjDoQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 82,
+          "like_count": 4056,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 622
+        },
+        "username": "ni342485",
+        "verified": false
+      }
+    ]
+  }
+}

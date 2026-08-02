@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1908873839096070474",
+    "created_at": "2025-04-07T07:32:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T08:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909147191186542612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1135334607199490048",
+          "start": 0,
+          "username": "CPyTQBzKGNBmcXQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909147191186542612",
+    "in_reply_to_user_id": "1135334607199490048",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909082108854956105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CPyTQBzKGNBmcXQ 😚😚😚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1908873839096070474",
+        "created_at": "2025-04-07T07:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T08:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909147191186542612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909147191186542612",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909082108854956105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 😚😚😚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1908873839096070474",
+        "created_at": "2025-04-07T03:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T04:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909082108854956105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909082108854956105",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908873839096070474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 好帥！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "Rats！！！shtwt｜edtwt｜rat twt\n我是99转世啊啊寻找前世互关\nhere is my life with my rats hope u like my pet rats🐭🥰\n看我不顺眼就屏蔽别骂我也别举报谢谢\n想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭",
+        "name": "🐭老鼠国王（卖老鼠版）",
+        "pinned_tweet_id": "1908155806362808813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 145,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 315
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5130,
+          "following_count": 357,
+          "like_count": 80137,
+          "listed_count": 13,
+          "media_count": 393,
+          "tweet_count": 9233
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

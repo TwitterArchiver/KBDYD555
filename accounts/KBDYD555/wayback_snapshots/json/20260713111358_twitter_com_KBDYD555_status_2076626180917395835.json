@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2076244063691636871",
+    "created_at": "2026-07-13T11:13:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T12:13:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076626180917395835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1856564264271548416",
+          "start": 0,
+          "username": "256Huang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076626180917395835",
+    "in_reply_to_user_id": "1856564264271548416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076613919477768527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@256Huang 噢噢噢哦哦我试了好爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2076244063691636871",
+        "created_at": "2026-07-13T11:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T12:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076626180917395835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1856564264271548416",
+              "start": 0,
+              "username": "256Huang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076626180917395835",
+        "in_reply_to_user_id": "1856564264271548416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076613919477768527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@256Huang 噢噢噢哦哦我试了好爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856564264271548416",
+        "conversation_id": "2076244063691636871",
+        "created_at": "2026-07-13T10:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T11:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076613919477768527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076613919477768527",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076244063691636871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 回笼一下，含在嘴里吐出来然后用鼻子吸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫遭举报冻结...🚬/🩸/ed/🐭/🐶/🐱...互关欢迎会查成分...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 聊天先过门吧我没什么多余精力了🩵亲友@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2072889837548712297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4569,
+          "following_count": 655,
+          "like_count": 5251,
+          "listed_count": 8,
+          "media_count": 1050,
+          "tweet_count": 3997
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T05:06:41.000Z",
+        "description": "一个拥抱多少钱？！",
+        "id": "1856564264271548416",
+        "name": "苯苯海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023099536059826176/srt4qC32_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 108,
+          "like_count": 267,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 618
+        },
+        "url": "",
+        "username": "256Huang",
+        "verified": false
+      }
+    ]
+  }
+}

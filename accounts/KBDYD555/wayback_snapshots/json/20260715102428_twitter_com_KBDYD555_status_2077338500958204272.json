@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2077218934722564604",
+    "created_at": "2026-07-15T10:24:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T11:24:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077338500958204272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1521103133300375552",
+          "start": 0,
+          "username": "qingwasile"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077338500958204272",
+    "in_reply_to_user_id": "1521103133300375552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077333915506037108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qingwasile 就是普通的味增拉面具体名字我就不清楚了😳吃！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2077333915506037108].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2077333915506037108",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2077333915506037108"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2077218934722564604",
+        "created_at": "2026-07-15T10:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077338500958204272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1521103133300375552",
+              "start": 0,
+              "username": "qingwasile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077338500958204272",
+        "in_reply_to_user_id": "1521103133300375552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077333915506037108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingwasile 就是普通的味增拉面具体名字我就不清楚了😳吃！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫遭举报冻结...🚬/🩸/ed/🐭/🐶/🐱...互关欢迎会查成分...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 聊天先过门吧我没什么多余精力了🩵亲友@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2072889837548712297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4588,
+          "following_count": 657,
+          "like_count": 5284,
+          "listed_count": 8,
+          "media_count": 1059,
+          "tweet_count": 4044
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-02T12:23:59.000Z",
+        "description": "想回到一切还没发生的时候",
+        "id": "1521103133300375552",
+        "name": "苦痛好",
+        "pinned_tweet_id": "1825195491296006291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076725948855050240/hbxuUZ_1_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3216,
+          "following_count": 239,
+          "like_count": 44786,
+          "listed_count": 6,
+          "media_count": 388,
+          "tweet_count": 4201
+        },
+        "url": "",
+        "username": "qingwasile",
+        "verified": false
+      }
+    ]
+  }
+}

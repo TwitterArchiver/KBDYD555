@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2073472088019706146",
+    "created_at": "2026-07-05T02:42:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T03:42:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073598345503981756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1927025054203715584",
+          "start": 0,
+          "username": "pr80_NightHaven"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073598345503981756",
+    "in_reply_to_user_id": "1927025054203715584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073472088019706146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pr80_NightHaven 同意"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2073470930786152448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZy02mbcAAnFuP.jpg",
+        "width": 1280
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2073472062400978944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZz2uMbYAAU30q.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2073472088019706146",
+        "created_at": "2026-07-05T02:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073598345503981756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1927025054203715584",
+              "start": 0,
+              "username": "pr80_NightHaven"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073598345503981756",
+        "in_reply_to_user_id": "1927025054203715584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073472088019706146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pr80_NightHaven 同意"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073470930786152448",
+            "3_2073472062400978944"
+          ]
+        },
+        "author_id": "1927025054203715584",
+        "conversation_id": "2073472088019706146",
+        "created_at": "2026-07-04T18:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T19:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073472088019706146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tf7MWLyFzf",
+              "end": 29,
+              "expanded_url": "https://x.com/pr80_NightHaven/status/2073472088019706146/photo/1",
+              "media_key": "3_2073470930786152448",
+              "start": 6,
+              "url": "https://t.co/Tf7MWLyFzf"
+            },
+            {
+              "display_url": "pic.x.com/Tf7MWLyFzf",
+              "end": 29,
+              "expanded_url": "https://x.com/pr80_NightHaven/status/2073472088019706146/photo/1",
+              "media_key": "3_2073472062400978944",
+              "start": 6,
+              "url": "https://t.co/Tf7MWLyFzf"
+            },
+            {
+              "display_url": "x.com/d1anq1jueyuan/…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/d1anq1jueyuan/status/2073355084155719750",
+              "start": 30,
+              "url": "https://t.co/FUXj8UpSjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073472088019706146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 517,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073355084155719750",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "永远的神烟 https://t.co/Tf7MWLyFzf https://t.co/FUXj8UpSjd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫：@kokocat_9 遭举报冻结...现世成分:🚬/ed/🩸/🐭/🐶/🐱...互关回来吧...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 🩵亲友@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 128,
+                "start": 119,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2072889837548712297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4369,
+          "following_count": 635,
+          "like_count": 5070,
+          "listed_count": 9,
+          "media_count": 1022,
+          "tweet_count": 3804
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T15:32:44.000Z",
+        "description": "https://t.co/HsCioOgdzr\nhttps://t.co/F6fN8D2oJ9\n永夜安港是一个致力于为OD者交友、陪伴、减害所建立的社区，真正包容彼此、相互理解的“温柔”社群。\n会回关，目前官推由wiki主 @LuluvWiki 运营，如果他对漂亮大姐姐评论妈妈，属于正常环节，不代表永夜安港官方立场！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 112,
+                "username": "LuluvWiki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/HsCioOgdzr"
+              },
+              {
+                "display_url": "pr80.net",
+                "end": 47,
+                "expanded_url": "https://pr80.net",
+                "start": 24,
+                "url": "https://t.co/F6fN8D2oJ9"
+              }
+            ]
+          }
+        },
+        "id": "1927025054203715584",
+        "location": "NightHaven",
+        "name": "⚓️永夜安港 pr80.net",
+        "pinned_tweet_id": "2071982831732142419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069981304528265216/T45W7wQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 324,
+          "like_count": 117,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 272
+        },
+        "url": "",
+        "username": "pr80_NightHaven",
+        "verified": true
+      }
+    ]
+  }
+}

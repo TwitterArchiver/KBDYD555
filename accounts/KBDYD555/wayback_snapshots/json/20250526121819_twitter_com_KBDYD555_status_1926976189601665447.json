@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926976185872916480"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "conversation_id": "1926976189601665447",
+    "created_at": "2025-05-26T12:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T13:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1926976189601665447"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MjKeaBgcAG",
+          "end": 35,
+          "expanded_url": "https://x.com/KBDYD555/status/1926976189601665447/photo/1",
+          "media_key": "3_1926976185872916480",
+          "start": 12,
+          "url": "https://t.co/MjKeaBgcAG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926976189601665447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我努力活着的痕迹... https://t.co/MjKeaBgcAG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1926976185872916480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr3-oamXoAA4LKq.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926976185872916480"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "1926976189601665447",
+        "created_at": "2025-05-26T12:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T13:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926976189601665447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MjKeaBgcAG",
+              "end": 35,
+              "expanded_url": "https://x.com/KBDYD555/status/1926976189601665447/photo/1",
+              "media_key": "3_1926976185872916480",
+              "start": 12,
+              "url": "https://t.co/MjKeaBgcAG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926976189601665447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我努力活着的痕迹... https://t.co/MjKeaBgcAG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99转世 现世是碎碎念推/老鼠推/小狗推\n喜欢老鼠请关注我....\nhere is my life with my rats🐭🥰\n我的老鼠有：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆｜小狗🐶叫小乖\n想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭🚪52r",
+        "name": "🐭老鼠国王(Rats!",
+        "pinned_tweet_id": "1915758775098826913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 183,
+          "like_count": 639,
+          "listed_count": 3,
+          "media_count": 312,
+          "tweet_count": 931
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

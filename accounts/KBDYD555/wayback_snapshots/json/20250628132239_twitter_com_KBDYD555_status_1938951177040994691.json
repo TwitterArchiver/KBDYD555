@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938951164588150785",
+        "3_1938951165099540480"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "conversation_id": "1938951177040994691",
+    "created_at": "2025-06-28T13:22:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T14:22:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938951177040994691"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yl1FRfsFZK",
+          "end": 33,
+          "expanded_url": "https://x.com/KBDYD555/status/1938951177040994691/photo/1",
+          "media_key": "3_1938951164588150785",
+          "start": 10,
+          "url": "https://t.co/yl1FRfsFZK"
+        },
+        {
+          "display_url": "pic.x.com/yl1FRfsFZK",
+          "end": 33,
+          "expanded_url": "https://x.com/KBDYD555/status/1938951177040994691/photo/1",
+          "media_key": "3_1938951165099540480",
+          "start": 10,
+          "url": "https://t.co/yl1FRfsFZK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938951177040994691",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "minino呆呆的 https://t.co/yl1FRfsFZK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938951164588150785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuiJz6obUAEvya2.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1938951165099540480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuiJz8iWgAAXTbw.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938951164588150785",
+            "3_1938951165099540480"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "1938951177040994691",
+        "created_at": "2025-06-28T13:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T14:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938951177040994691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yl1FRfsFZK",
+              "end": 33,
+              "expanded_url": "https://x.com/KBDYD555/status/1938951177040994691/photo/1",
+              "media_key": "3_1938951164588150785",
+              "start": 10,
+              "url": "https://t.co/yl1FRfsFZK"
+            },
+            {
+              "display_url": "pic.x.com/yl1FRfsFZK",
+              "end": 33,
+              "expanded_url": "https://x.com/KBDYD555/status/1938951177040994691/photo/1",
+              "media_key": "3_1938951165099540480",
+              "start": 10,
+              "url": "https://t.co/yl1FRfsFZK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938951177040994691",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "minino呆呆的 https://t.co/yl1FRfsFZK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世是碎碎念推/老鼠推/小狗推\n互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆｜小狗:小乖/小眉\n想让我生活好一点的话就给我一点钱吧谢谢你",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1937879363636400639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271,
+          "following_count": 216,
+          "like_count": 904,
+          "listed_count": 3,
+          "media_count": 403,
+          "tweet_count": 1202
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

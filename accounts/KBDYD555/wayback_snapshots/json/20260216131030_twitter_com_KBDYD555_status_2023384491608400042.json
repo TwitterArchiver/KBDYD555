@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2023379246371262872",
+    "created_at": "2026-02-16T13:10:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T14:10:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023384491608400042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1428604449845440520",
+          "start": 0,
+          "username": "KafuuChino1204_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023384491608400042",
+    "in_reply_to_user_id": "1428604449845440520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023384181099872434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KafuuChino1204_ 我大概能想到....之前o过13第二天吐死还昏倒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2023379246371262872",
+        "created_at": "2026-02-16T13:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T14:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023384491608400042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1428604449845440520",
+              "start": 0,
+              "username": "KafuuChino1204_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023384491608400042",
+        "in_reply_to_user_id": "1428604449845440520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023384181099872434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KafuuChino1204_ 我大概能想到....之前o过13第二天吐死还昏倒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1428604449845440520",
+        "conversation_id": "2023379246371262872",
+        "created_at": "2026-02-16T13:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T14:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023384181099872434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023384181099872434",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023379246371262872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 10t感觉第二天特别恶心😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/花枝鼠....互关回来吧...（Eng🆗）存图账号：@kyuukoQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 79,
+                "start": 71,
+                "username": "kyuukoQ"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2014999363500822659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3477,
+          "following_count": 408,
+          "like_count": 3445,
+          "listed_count": 9,
+          "media_count": 866,
+          "tweet_count": 3081
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-20T06:27:46.000Z",
+        "description": "17-shtwt-眼熟/查主页回fo-请大家好好开心-lets die tmrw:3",
+        "id": "1428604449845440520",
+        "location": "任何地方",
+        "name": "椛椛椛椛椛椛㭤",
+        "pinned_tweet_id": "1953112000264917320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965790302641221632/ire85tod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 508,
+          "like_count": 1730,
+          "listed_count": 0,
+          "media_count": 227,
+          "tweet_count": 2260
+        },
+        "username": "KafuuChino1204_",
+        "verified": false
+      }
+    ]
+  }
+}

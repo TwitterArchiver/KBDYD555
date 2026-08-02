@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2079504582133371074",
+    "created_at": "2026-07-22T05:14:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T06:14:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079797110183231835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1918488017251254273",
+          "start": 0,
+          "username": "miwnzhn155458"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079797110183231835",
+    "in_reply_to_user_id": "1918488017251254273",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079756161742741898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miwnzhn155458 😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2079504582133371074",
+        "created_at": "2026-07-22T05:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T06:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079797110183231835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1918488017251254273",
+              "start": 0,
+              "username": "miwnzhn155458"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079797110183231835",
+        "in_reply_to_user_id": "1918488017251254273",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079756161742741898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miwnzhn155458 😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918488017251254273",
+        "conversation_id": "2079504582133371074",
+        "created_at": "2026-07-22T02:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T03:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079756161742741898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079756161742741898",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079504582133371074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 国王已经很努力了呀辛苦了国王"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫遭举报冻结...🚬/🩸/ed/🐭/🐶/🐱...互关欢迎会查成分...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 聊天先过门吧我没什么多余精力了🩵亲友@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2072889837548712297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4606,
+          "following_count": 662,
+          "like_count": 5382,
+          "listed_count": 8,
+          "media_count": 1075,
+          "tweet_count": 4141
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-03T02:09:36.000Z",
+        "description": "一只碗\nಥ_ಥ",
+        "id": "1918488017251254273",
+        "name": "碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001532105461997568/8MxFZ15V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 23,
+          "like_count": 7329,
+          "listed_count": 0,
+          "media_count": 494,
+          "tweet_count": 3154
+        },
+        "url": "",
+        "username": "miwnzhn155458",
+        "verified": false
+      }
+    ]
+  }
+}

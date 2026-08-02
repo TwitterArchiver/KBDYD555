@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1904459224526295328",
+    "created_at": "2025-03-26T06:01:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T07:01:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904775642098630978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1883724954468057088",
+          "start": 0,
+          "username": "Itis_pft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904775642098630978",
+    "in_reply_to_user_id": "1883724954468057088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904598063915950331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Itis_pft 这是库存！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1904459224526295328",
+        "created_at": "2025-03-26T06:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T07:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904775642098630978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883724954468057088",
+              "start": 0,
+              "username": "Itis_pft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904775642098630978",
+        "in_reply_to_user_id": "1883724954468057088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904598063915950331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Itis_pft 这是库存！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883724954468057088",
+        "conversation_id": "1904459224526295328",
+        "created_at": "2025-03-25T18:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T19:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904598063915950331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904598063915950331",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904556642634535078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 😭怎么又自残了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "shtwt｜edtwt｜rat twt\n我是99转世啊啊寻找前世互关\nhere is my life with my rats hope u like my pet rats🐭🥰\n看我不顺眼就屏蔽别骂我也别举报谢谢\n想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭",
+        "name": "老鼠🐭rats bot（寻找前世互关版）",
+        "pinned_tweet_id": "1902382804052406487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 127,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 141
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T03:54:22.000Z",
+        "description": "可能是某人的另一个账户？到底是不是谁知道呢，反正也没有人会在意的吧？我的身份信息是捏造的，请不要当真，这是为了让那个真正的“我”不被任何人找到，欢迎私信聊天（帕霏特法则：我说的话将有一半是假的，无论何时我都将遵循法则）如果看到感兴趣的帖子就会进行互动，几乎什么内容都看，并不避讳政治话题和性话题，但我不会键政，顶多玩玩梗",
+        "id": "1883724954468057088",
+        "location": "无法被定义，甚至可能根本不存在的宫殿",
+        "name": "百变小丑帕霏特",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883725528349204480/NoiYgyUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 347,
+          "like_count": 1307,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 946
+        },
+        "username": "Itis_pft",
+        "verified": false
+      }
+    ]
+  }
+}

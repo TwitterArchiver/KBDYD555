@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024344319319273472"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2024344321584177231",
+    "created_at": "2026-02-19T04:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T05:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024344321584177231"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pf5V5jd5pA",
+          "end": 95,
+          "expanded_url": "https://x.com/KBDYD555/status/2024344321584177231/photo/1",
+          "media_key": "3_2024344319319273472",
+          "start": 72,
+          "url": "https://t.co/Pf5V5jd5pA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024344321584177231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "但凡她们做饭不这么重油重盐我都没这么崩溃。真的很咸很油。感觉吃一口就要胖十斤。盘子底部的都是油。连白萝卜汤上面都飘一层油。我怎么能不怕胖。。。 https://t.co/Pf5V5jd5pA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 711,
+        "media_key": "3_2024344319319273472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBfqbtga8AA2x3Z.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024344319319273472"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2024344321584177231",
+        "created_at": "2026-02-19T04:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T05:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024344321584177231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pf5V5jd5pA",
+              "end": 95,
+              "expanded_url": "https://x.com/KBDYD555/status/2024344321584177231/photo/1",
+              "media_key": "3_2024344319319273472",
+              "start": 72,
+              "url": "https://t.co/Pf5V5jd5pA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024344321584177231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "但凡她们做饭不这么重油重盐我都没这么崩溃。真的很咸很油。感觉吃一口就要胖十斤。盘子底部的都是油。连白萝卜汤上面都飘一层油。我怎么能不怕胖。。。 https://t.co/Pf5V5jd5pA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/花枝鼠....互关回来吧...（Eng🆗）存图账号：@kyuukoQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 79,
+                "start": 71,
+                "username": "kyuukoQ"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2014999363500822659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3478,
+          "following_count": 415,
+          "like_count": 3523,
+          "listed_count": 9,
+          "media_count": 873,
+          "tweet_count": 3128
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

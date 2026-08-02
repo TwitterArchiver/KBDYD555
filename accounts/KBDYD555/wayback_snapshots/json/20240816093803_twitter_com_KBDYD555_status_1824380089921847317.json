@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1824380068623421441",
+        "3_1824380069290315777",
+        "3_1824380069638537216"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "conversation_id": "1824380089921847317",
+    "created_at": "2024-08-16T09:38:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-16T10:38:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1824380089921847317"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9dc8gjsfro",
+          "end": 23,
+          "expanded_url": "https://twitter.com/KBDYD555/status/1824380089921847317/video/1",
+          "media_key": "7_1824380068623421441",
+          "start": 0,
+          "url": "https://t.co/9DC8gJsFRo"
+        },
+        {
+          "display_url": "pic.x.com/9dc8gjsfro",
+          "end": 23,
+          "expanded_url": "https://twitter.com/KBDYD555/status/1824380089921847317/video/1",
+          "media_key": "3_1824380069290315777",
+          "start": 0,
+          "url": "https://t.co/9DC8gJsFRo"
+        },
+        {
+          "display_url": "pic.x.com/9dc8gjsfro",
+          "end": 23,
+          "expanded_url": "https://twitter.com/KBDYD555/status/1824380089921847317/video/1",
+          "media_key": "3_1824380069638537216",
+          "start": 0,
+          "url": "https://t.co/9DC8gJsFRo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824380089921847317",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/9DC8gJsFRo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4192,
+        "height": 960,
+        "media_key": "7_1824380068623421441",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1824380068623421441/pu/img/skMf6YyjS4Vz252R.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1824380068623421441/pu/vid/avc1/320x426/0VPPsvaI-oSTTNaa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1824380068623421441/pu/vid/avc1/480x640/lORPelim6EBBZ1tr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1824380068623421441/pu/vid/avc1/720x960/pvP5in4r3F6G94ab.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1824380068623421441/pu/pl/Yz2Iqr0Vw7OijDBZ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1824380069290315777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVGAAc1aEAEvf2v.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1824380069638537216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVGAAeIbgAAXuu0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1824380068623421441",
+            "3_1824380069290315777",
+            "3_1824380069638537216"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "1824380089921847317",
+        "created_at": "2024-08-16T09:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T10:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824380089921847317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9dc8gjsfro",
+              "end": 23,
+              "expanded_url": "https://twitter.com/KBDYD555/status/1824380089921847317/video/1",
+              "media_key": "7_1824380068623421441",
+              "start": 0,
+              "url": "https://t.co/9DC8gJsFRo"
+            },
+            {
+              "display_url": "pic.x.com/9dc8gjsfro",
+              "end": 23,
+              "expanded_url": "https://twitter.com/KBDYD555/status/1824380089921847317/video/1",
+              "media_key": "3_1824380069290315777",
+              "start": 0,
+              "url": "https://t.co/9DC8gJsFRo"
+            },
+            {
+              "display_url": "pic.x.com/9dc8gjsfro",
+              "end": 23,
+              "expanded_url": "https://twitter.com/KBDYD555/status/1824380089921847317/video/1",
+              "media_key": "3_1824380069638537216",
+              "start": 0,
+              "url": "https://t.co/9DC8gJsFRo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824380089921847317",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9DC8gJsFRo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "这个号堆图用...如果有侵权了我很抱歉",
+        "id": "1557450235621695488",
+        "location": "地獄",
+        "name": "九十九",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662012310284820483/8dPzjtSE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 65,
+          "like_count": 71,
+          "listed_count": 0,
+          "tweet_count": 34
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

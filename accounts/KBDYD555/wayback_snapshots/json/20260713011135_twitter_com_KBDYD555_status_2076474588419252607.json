@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2076212266903670810",
+    "created_at": "2026-07-13T01:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T02:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076474588419252607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1614311887419887616",
+          "start": 0,
+          "username": "lion040317"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076474588419252607",
+    "in_reply_to_user_id": "1614311887419887616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076466908430536758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lion040317 我也是，所以我想用别人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2076212266903670810",
+        "created_at": "2026-07-13T01:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T02:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076474588419252607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1614311887419887616",
+              "start": 0,
+              "username": "lion040317"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076474588419252607",
+        "in_reply_to_user_id": "1614311887419887616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076466908430536758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lion040317 我也是，所以我想用别人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1614311887419887616",
+        "conversation_id": "2076212266903670810",
+        "created_at": "2026-07-13T00:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T01:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076466908430536758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076466908430536758",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076212266903670810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 总用自己的会不会被晶啊……我三天点了三次外卖买加巴了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫遭举报冻结...🚬/🩸/ed/🐭/🐶/🐱...互关欢迎会查成分...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 聊天先过门吧我没什么多余精力了🩵亲友@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2072889837548712297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4564,
+          "following_count": 654,
+          "like_count": 5237,
+          "listed_count": 8,
+          "media_count": 1046,
+          "tweet_count": 3982
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-14T17:22:16.000Z",
+        "description": "04/女/短发。恶趣味十足 吉林/不成熟的穿孔师。脾气很好^ ^，但焦虑型依赖严重。请和我闲聊~",
+        "id": "1614311887419887616",
+        "location": "地下18层",
+        "name": "狮子桑Lion",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073048725854068737/cy5BLYZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 26,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "lion040317",
+        "verified": false
+      }
+    ]
+  }
+}

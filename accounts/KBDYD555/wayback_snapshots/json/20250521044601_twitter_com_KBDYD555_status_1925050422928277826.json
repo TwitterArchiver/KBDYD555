@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1924873822953681284",
+    "created_at": "2025-05-21T04:46:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T05:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925050422928277826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1481943703878991872",
+          "start": 0,
+          "username": "xiaoyi_e_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925050422928277826",
+    "in_reply_to_user_id": "1481943703878991872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924873822953681284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyi_e_ 好可爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10901,
+        "height": 720,
+        "media_key": "13_1924873729882128387",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1924873729882128387/img/-LNT2PzmaRSzLfFV.jpg",
+        "public_metrics": {
+          "view_count": 29
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1924873729882128387/vid/avc1/480x270/ARcbzyWemJebWGS0.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1924873729882128387/vid/avc1/640x360/WKARu7E0BxEc2sop.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1924873729882128387/vid/avc1/1280x720/IWf9LDnSx6gl8FD1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1924873729882128387/pl/h0OEiwEpLRCMgXSL.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1924873822953681284",
+        "created_at": "2025-05-21T04:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T05:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925050422928277826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1481943703878991872",
+              "start": 0,
+              "username": "xiaoyi_e_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925050422928277826",
+        "in_reply_to_user_id": "1481943703878991872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924873822953681284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyi_e_ 好可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1924873729882128387"
+          ]
+        },
+        "author_id": "1481943703878991872",
+        "conversation_id": "1924873822953681284",
+        "created_at": "2025-05-20T17:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T18:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924873822953681284"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "鼠鼠"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hzjpuISfNv",
+              "end": 43,
+              "expanded_url": "https://x.com/xiaoyi_e_/status/1924873822953681284/video/1",
+              "media_key": "13_1924873729882128387",
+              "start": 20,
+              "url": "https://t.co/hzjpuISfNv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924873822953681284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鼠鼠把大部分纸都塞到了椰子壳里\n#鼠鼠 https://t.co/hzjpuISfNv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99转世 现世是碎碎念推/老鼠推/小狗推\n喜欢老鼠请关注我....\nhere is my life with my rats🐭🥰\n我的老鼠有：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆｜小狗🐶叫小乖\n想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭🚪52r",
+        "name": "🐭老鼠国王(Rats!",
+        "pinned_tweet_id": "1915758775098826913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 176,
+          "like_count": 554,
+          "listed_count": 3,
+          "media_count": 293,
+          "tweet_count": 849
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-14T10:59:37.000Z",
+        "description": "A twisted creature || INTP、asd?、nd、ADHD?、nerd?、bdsm||非常非常热爱科学||喜欢的游戏：Rimworld、noita、inside、oneshot等||想交朋友 || 提供情绪价值 ￥50/30min.",
+        "id": "1481943703878991872",
+        "location": "Event Horizon, Sgr A*",
+        "name": "VISCERRON-KHARISICK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920934645342105602/gF07KL9r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 308,
+          "like_count": 12761,
+          "listed_count": 2,
+          "media_count": 198,
+          "tweet_count": 2753
+        },
+        "username": "xiaoyi_e_",
+        "verified": false
+      }
+    ]
+  }
+}

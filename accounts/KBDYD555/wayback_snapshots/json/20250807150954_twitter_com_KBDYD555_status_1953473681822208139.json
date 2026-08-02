@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1953313583195939134",
+    "created_at": "2025-08-07T15:09:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T16:09:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953473681822208139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1799381491493036032",
+          "start": 0,
+          "username": "Tina_sgz90"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953473681822208139",
+    "in_reply_to_user_id": "1799381491493036032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953390613283344661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tina_sgz90 其实是角度问题😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1953313583195939134",
+        "created_at": "2025-08-07T15:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T16:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953473681822208139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1799381491493036032",
+              "start": 0,
+              "username": "Tina_sgz90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953473681822208139",
+        "in_reply_to_user_id": "1799381491493036032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953390613283344661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tina_sgz90 其实是角度问题😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799381491493036032",
+        "conversation_id": "1953313583195939134",
+        "created_at": "2025-08-07T09:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T10:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953390613283344661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953390613283344661",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953313583195939134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 好瘦好爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n喜欢我想的话就给我一点钱吧不管多少都很感谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1945367514307059835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 234,
+          "like_count": 1307,
+          "listed_count": 4,
+          "media_count": 489,
+          "tweet_count": 1490
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T10:02:40.000Z",
+        "description": "@TrngKha275013小号我是Tina  门槛有200 好友位 288图包  399图包➕视频  520   1314 北京",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "TrngKha275013"
+              }
+            ]
+          }
+        },
+        "id": "1799381491493036032",
+        "name": "Tina八方来财",
+        "pinned_tweet_id": "1861013250567262280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864915269027778560/ITL0nC1x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 107,
+          "like_count": 468,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 1112
+        },
+        "username": "Tina_sgz90",
+        "verified": false
+      }
+    ]
+  }
+}

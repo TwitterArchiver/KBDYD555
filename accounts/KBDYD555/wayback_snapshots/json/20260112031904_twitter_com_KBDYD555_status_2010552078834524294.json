@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2010552078834524294",
+    "created_at": "2026-01-12T03:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T04:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010552078834524294"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2010552078834524294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "果不其然因为昨晚上的事情我凌晨五点多睡着之后就一直做噩梦。一直说梦话。我妹觉得我吵到她睡觉很烦起床又抱怨了我。唉。我跟她解释了我控制不了我这样其实很痛苦。她说她被我吵的很痛苦。好吧。我没告诉她我做噩梦是因为她。好吧。我几乎没睡一样我身体好难受。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2010552078834524294",
+        "created_at": "2026-01-12T03:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T04:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010552078834524294"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010552078834524294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "果不其然因为昨晚上的事情我凌晨五点多睡着之后就一直做噩梦。一直说梦话。我妹觉得我吵到她睡觉很烦起床又抱怨了我。唉。我跟她解释了我控制不了我这样其实很痛苦。她说她被我吵的很痛苦。好吧。我没告诉她我做噩梦是因为她。好吧。我几乎没睡一样我身体好难受。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2006653674378924480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3304,
+          "following_count": 313,
+          "like_count": 2705,
+          "listed_count": 9,
+          "media_count": 754,
+          "tweet_count": 2650
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

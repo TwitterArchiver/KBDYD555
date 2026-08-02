@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1916885265190367254",
+    "created_at": "2025-04-29T00:08:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T01:08:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917007969059017149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1266667192352821250",
+          "start": 0,
+          "username": "Riikakoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917007969059017149",
+    "in_reply_to_user_id": "1266667192352821250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916885265190367254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Riikakoi 谢谢咩咩啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1916885265190367254",
+        "created_at": "2025-04-29T00:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T01:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917007969059017149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1266667192352821250",
+              "start": 0,
+              "username": "Riikakoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917007969059017149",
+        "in_reply_to_user_id": "1266667192352821250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916885265190367254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Riikakoi 谢谢咩咩啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266667192352821250",
+        "conversation_id": "1916885265190367254",
+        "created_at": "2025-04-28T16:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T17:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916885265190367254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KBDYD555/statu…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/KBDYD555/status/1915758775098826913",
+              "start": 19,
+              "url": "https://t.co/ZyLYCveT0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916885265190367254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915758775098826913",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "特别萌……冬恋没钱约你们都来约啊啊… https://t.co/ZyLYCveT0I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99转世 喜欢老鼠请关注我\nhere is my life with my rats hope u like my pet rats🐭🥰\n我的老鼠有：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino\n看我不顺眼就屏蔽别骂我也别举报谢谢\n想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭",
+        "name": "🐭老鼠国王(Rats!",
+        "pinned_tweet_id": "1915758775098826913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 165,
+          "like_count": 348,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 543
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #EDTWT ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高 🩸： @Riika_DLshyp2  贫穷ed魔女小鬼🧡餐券小女孩欢迎互fo🤲🏻求求了",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 14,
+                "start": 8,
+                "tag": "EDTWT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1812029846438183193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 199,
+          "like_count": 1873,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 3994
+        },
+        "username": "Riikakoi",
+        "verified": false
+      }
+    ]
+  }
+}

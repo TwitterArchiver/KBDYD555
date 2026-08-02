@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1983470888751382675",
+    "created_at": "2025-10-30T14:16:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T15:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983900907797672156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1846554747563892736",
+          "start": 0,
+          "username": "Freedom071024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983900907797672156",
+    "in_reply_to_user_id": "1846554747563892736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983838401876148581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Freedom071024 割的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1983470888751382675",
+        "created_at": "2025-10-30T14:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T15:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983900907797672156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1846554747563892736",
+              "start": 0,
+              "username": "Freedom071024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983900907797672156",
+        "in_reply_to_user_id": "1846554747563892736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983838401876148581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Freedom071024 割的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846554747563892736",
+        "conversation_id": "1983470888751382675",
+        "created_at": "2025-10-30T10:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T11:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983838401876148581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983838401876148581",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983470888751382675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 空针纹身吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n喜欢我的话就给我钱吧不管多少都很感谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1974847135830163600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3144,
+          "following_count": 299,
+          "like_count": 2446,
+          "listed_count": 9,
+          "media_count": 717,
+          "tweet_count": 2515
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-16T14:12:22.000Z",
+        "description": "",
+        "id": "1846554747563892736",
+        "location": "俄罗斯 秋明",
+        "name": "ꓘɹᴉs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982860094606819328/WmqGLPjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 50
+        },
+        "username": "Freedom071024",
+        "verified": false
+      }
+    ]
+  }
+}

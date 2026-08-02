@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2017098252160815553",
+    "created_at": "2026-01-30T08:17:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T09:17:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017150120257867892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1992506703678705664",
+          "start": 0,
+          "username": "jingqngyng64121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017150120257867892",
+    "in_reply_to_user_id": "1992506703678705664",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017142897364390403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingqngyng64121 ( ˘ ³˘)♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2017098252160815553",
+        "created_at": "2026-01-30T08:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T09:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017150120257867892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1992506703678705664",
+              "start": 0,
+              "username": "jingqngyng64121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017150120257867892",
+        "in_reply_to_user_id": "1992506703678705664",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017142897364390403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingqngyng64121 ( ˘ ³˘)♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2017098252160815553",
+        "created_at": "2026-01-30T07:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T08:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017142897364390403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017142897364390403",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017098252160815553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 好美呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念/ED/sh/花枝鼠....互关回来吧...（Eng🆗）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2014999363500822659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3402,
+          "following_count": 373,
+          "like_count": 3108,
+          "listed_count": 9,
+          "media_count": 810,
+          "tweet_count": 2885
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️",
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 82,
+          "like_count": 1461,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 269
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      }
+    ]
+  }
+}

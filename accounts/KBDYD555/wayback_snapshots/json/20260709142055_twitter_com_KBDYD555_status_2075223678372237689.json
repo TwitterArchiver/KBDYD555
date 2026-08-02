@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2075136710430933421",
+    "created_at": "2026-07-09T14:20:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T15:20:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075223678372237689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1847898031561330690",
+          "start": 0,
+          "username": "whj___1001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075223678372237689",
+    "in_reply_to_user_id": "1847898031561330690",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075196459839049729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whj___1001 bingo~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2075136710430933421",
+        "created_at": "2026-07-09T14:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075223678372237689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1847898031561330690",
+              "start": 0,
+              "username": "whj___1001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075223678372237689",
+        "in_reply_to_user_id": "1847898031561330690",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075196459839049729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whj___1001 bingo~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847898031561330690",
+        "conversation_id": "2075136710430933421",
+        "created_at": "2026-07-09T12:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075196459839049729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075196459839049729",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075136710430933421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 Os检测到walao自动检测为马来西亚人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫遭举报冻结...🚬/🩸/ed/🐭/🐶/🐱...互关欢迎会查成分...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 🩵亲友@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2072889837548712297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4523,
+          "following_count": 644,
+          "like_count": 5151,
+          "listed_count": 8,
+          "media_count": 1039,
+          "tweet_count": 3906
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T07:10:18.000Z",
+        "description": "中/eng ok//\n🏳️‍⚧️ ftmasc, he/they\nocyume ❤️",
+        "id": "1847898031561330690",
+        "location": "Cute boy island",
+        "name": "酱酱酱johnjohn-chan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059914728357670913/Dpe9T8Nm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 178,
+          "like_count": 20726,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 1953
+        },
+        "url": "",
+        "username": "whj___1001",
+        "verified": false
+      }
+    ]
+  }
+}

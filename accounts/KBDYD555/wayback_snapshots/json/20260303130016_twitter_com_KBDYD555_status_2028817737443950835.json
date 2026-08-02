@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2028807811392741717",
+    "created_at": "2026-03-03T13:00:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T14:00:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028817737443950835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1638959586140098560",
+          "start": 0,
+          "username": "jiuyouforwhite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028817737443950835",
+    "in_reply_to_user_id": "1638959586140098560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028810333998223364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2028807811392741717",
+        "created_at": "2026-03-03T13:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T14:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028817737443950835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028817737443950835",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028810333998223364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2028807811392741717",
+        "created_at": "2026-03-03T12:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T13:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028810333998223364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028810333998223364",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028807811392741717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 长得跟毒品似的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/花枝鼠....互关回来吧...（Eng🆗）存图账号：@kyuukoQ 我需要钱如果想我好一点就给我钱吧谢谢你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 79,
+                "start": 71,
+                "username": "kyuukoQ"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2027982822368288841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3559,
+          "following_count": 417,
+          "like_count": 3573,
+          "listed_count": 9,
+          "media_count": 891,
+          "tweet_count": 3193
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "08直/男性/queer友好/同类fo/废话bot\n/粉红绕道/intp/ocd·抑郁·aspd倾向/od可答/\nThrillingly pointless",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "第四高原",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2025961241894949053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021142310910820355/Af_6ZyEg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 56,
+          "like_count": 644,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 253
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1971140209317417368",
+    "created_at": "2025-09-25T09:50:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T10:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971150221645316470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1408741694267301889",
+          "start": 0,
+          "username": "YUSU_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971150221645316470",
+    "in_reply_to_user_id": "1408741694267301889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971140209317417368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YUSU_01 老大你好牛逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1971140201708912644",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1rlkeVaAAQH97f.jpg",
+        "width": 1774
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1971140209317417368",
+        "created_at": "2025-09-25T09:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T10:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971150221645316470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1408741694267301889",
+              "start": 0,
+              "username": "YUSU_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971150221645316470",
+        "in_reply_to_user_id": "1408741694267301889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971140209317417368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YUSU_01 老大你好牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971140201708912644"
+          ]
+        },
+        "author_id": "1408741694267301889",
+        "conversation_id": "1971140209317417368",
+        "created_at": "2025-09-25T09:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T10:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971140209317417368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wFyyuH2K4b",
+              "end": 31,
+              "expanded_url": "https://x.com/YUSU_01/status/1971140209317417368/photo/1",
+              "media_key": "3_1971140201708912644",
+              "start": 8,
+              "url": "https://t.co/wFyyuH2K4b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971140209317417368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "身体我懒得画了 https://t.co/wFyyuH2K4b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n喜欢我想的话就给我一点钱吧不管多少都很感谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1945367514307059835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1739,
+          "following_count": 275,
+          "like_count": 1860,
+          "listed_count": 5,
+          "media_count": 648,
+          "tweet_count": 2270
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T10:59:36.000Z",
+        "description": "不賣任何藥物和違禁品｜守护@OmaRisa504504｜ @AKIAKI_019",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "OmaRisa504504"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "AKIAKI_019"
+              }
+            ]
+          }
+        },
+        "id": "1408741694267301889",
+        "name": "YUSU",
+        "pinned_tweet_id": "1936082618610860113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960722604660285444/Z7DIEJWE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7094,
+          "following_count": 41,
+          "like_count": 10612,
+          "listed_count": 4,
+          "media_count": 1273,
+          "tweet_count": 15417
+        },
+        "username": "YUSU_01",
+        "verified": true
+      }
+    ]
+  }
+}

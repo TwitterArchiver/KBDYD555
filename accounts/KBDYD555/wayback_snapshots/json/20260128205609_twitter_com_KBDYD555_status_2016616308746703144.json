@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2016615792499183956",
+    "created_at": "2026-01-28T20:56:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T21:56:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016616308746703144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1884593320451784704",
+          "start": 0,
+          "username": "Rinnrin_thepriv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016616308746703144",
+    "in_reply_to_user_id": "1884593320451784704",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016615921461182904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinnrin_thepriv that's the medicine I have to take  so never mind(*´I`*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2016615792499183956",
+        "created_at": "2026-01-28T20:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T21:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016616308746703144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1884593320451784704",
+              "start": 0,
+              "username": "Rinnrin_thepriv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016616308746703144",
+        "in_reply_to_user_id": "1884593320451784704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016615921461182904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinnrin_thepriv that's the medicine I have to take  so never mind(*´I`*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884593320451784704",
+        "conversation_id": "2016615792499183956",
+        "created_at": "2026-01-28T20:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T21:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016615921461182904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016615921461182904",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016615792499183956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 Pleae be safe ): thats a lot"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念/ED/sh/花枝鼠....互关回来吧...（Eng🆗）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2014999363500822659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3388,
+          "following_count": 357,
+          "like_count": 3062,
+          "listed_count": 9,
+          "media_count": 804,
+          "tweet_count": 2862
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T13:24:05.000Z",
+        "description": "From the R to the n\nIt's Rin (⁠≧⁠▽⁠≦⁠) backup of @rin_LLfan because i got temporary banned",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "rin_LLfan"
+              }
+            ]
+          }
+        },
+        "id": "1884593320451784704",
+        "name": "Rinnrin CHECK PINNED",
+        "pinned_tweet_id": "2015649268099387770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884604982814531584/de5uZQwE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 39,
+          "like_count": 1483,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 380
+        },
+        "username": "Rinnrin_thepriv",
+        "verified": false
+      }
+    ]
+  }
+}

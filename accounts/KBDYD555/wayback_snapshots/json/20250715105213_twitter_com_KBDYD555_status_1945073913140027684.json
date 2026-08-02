@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1945067900605243426",
+    "created_at": "2025-07-15T10:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T11:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945073913140027684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1809772043308797952",
+          "start": 0,
+          "username": "zc9662278220981"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945073913140027684",
+    "in_reply_to_user_id": "1809772043308797952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945071090826678407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zc9662278220981 我早就不上学了。我被禁足了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1945067900605243426",
+        "created_at": "2025-07-15T10:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T11:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945073913140027684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1809772043308797952",
+              "start": 0,
+              "username": "zc9662278220981"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945073913140027684",
+        "in_reply_to_user_id": "1809772043308797952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945071090826678407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zc9662278220981 我早就不上学了。我被禁足了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809772043308797952",
+        "conversation_id": "1945067900605243426",
+        "created_at": "2025-07-15T10:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T11:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945071090826678407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945071090826678407",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945067900605243426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 忍着，学校毕业了自己去工作搬出去住"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世是碎碎念推/老鼠推/小狗推\n互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆｜小狗:小乖/小眉\n想让我生活好一点的话就给我一点钱吧谢谢你",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1937879363636400639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1334,
+          "following_count": 220,
+          "like_count": 1131,
+          "listed_count": 3,
+          "media_count": 435,
+          "tweet_count": 1288
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T02:11:07.000Z",
+        "description": "",
+        "id": "1809772043308797952",
+        "name": "zc",
+        "pinned_tweet_id": "1843831511818326433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821460616621547520/M5HGgeOr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 317,
+          "like_count": 329,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 90
+        },
+        "username": "zc9662278220981",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2072953414330593359",
+    "created_at": "2026-07-04T01:41:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T02:41:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073220733963243781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "379009564",
+          "start": 0,
+          "username": "Heydanar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073220733963243781",
+    "in_reply_to_user_id": "379009564",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073197596798271533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Heydanar Looks scary"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_2073197591316316160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMV6OZuawAAEP7D.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2072953414330593359",
+        "created_at": "2026-07-04T01:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T02:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073220733963243781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "379009564",
+              "start": 0,
+              "username": "Heydanar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073220733963243781",
+        "in_reply_to_user_id": "379009564",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073197596798271533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Heydanar Looks scary"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073197591316316160"
+          ]
+        },
+        "author_id": "379009564",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072953414330593359",
+        "created_at": "2026-07-04T00:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T01:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073197596798271533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EiqN2WsbpJ",
+              "end": 59,
+              "expanded_url": "https://x.com/Heydanar/status/2073197596798271533/photo/1",
+              "media_key": "3_2073197591316316160",
+              "start": 36,
+              "url": "https://t.co/EiqN2WsbpJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073197596798271533",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7719,
+          "like_count": 55,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072953414330593359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 Rasa asap kendaraan nih 😭 https://t.co/EiqN2WsbpJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫：@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/鼠/狗/猫twt....互关回来吧...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 🩵亲友@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2072889837548712297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3989,
+          "following_count": 637,
+          "like_count": 4979,
+          "listed_count": 7,
+          "media_count": 1020,
+          "tweet_count": 3759
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-24T06:16:14.000Z",
+        "description": "Learning 3D Modeling & CGI\nSharing my journey, one render at a time.",
+        "id": "379009564",
+        "location": "Kebumen, Jawa Tengah",
+        "name": "Danar",
+        "pinned_tweet_id": "2071278206800310292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983046728833253376/fLUa1B7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 761,
+          "like_count": 1535,
+          "listed_count": 1,
+          "media_count": 311,
+          "tweet_count": 37800
+        },
+        "url": "",
+        "username": "Heydanar",
+        "verified": true
+      }
+    ]
+  }
+}

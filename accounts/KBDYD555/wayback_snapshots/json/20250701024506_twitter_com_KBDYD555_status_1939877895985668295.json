@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1939301860290257165",
+    "created_at": "2025-07-01T02:45:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T03:45:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939877895985668295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868259773067476992",
+          "start": 0,
+          "username": "pleasefuckmeser"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939877895985668295",
+    "in_reply_to_user_id": "1868259773067476992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939351165202055385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pleasefuckmeser 递上🤲🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1939301860290257165",
+        "created_at": "2025-07-01T02:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T03:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939877895985668295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868259773067476992",
+              "start": 0,
+              "username": "pleasefuckmeser"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939877895985668295",
+        "in_reply_to_user_id": "1868259773067476992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939351165202055385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pleasefuckmeser 递上🤲🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868259773067476992",
+        "conversation_id": "1939301860290257165",
+        "created_at": "2025-06-29T15:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T16:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939351165202055385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939351165202055385",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939301860290257165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 鼠鼠好萌让我摸摸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世是碎碎念推/老鼠推/小狗推\n互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆｜小狗:小乖/小眉\n想让我生活好一点的话就给我一点钱吧谢谢你",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1937879363636400639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1276,
+          "following_count": 215,
+          "like_count": 932,
+          "listed_count": 3,
+          "media_count": 411,
+          "tweet_count": 1221
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "普通高中生的抽象日常罢了\n\n08/双向情感障碍/自傷/od/宅",
+        "id": "1868259773067476992",
+        "name": "𓏵喵小懒𓏵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937860940491632640/W3S62_9A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 33,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 36
+        },
+        "username": "pleasefuckmeser",
+        "verified": false
+      }
+    ]
+  }
+}

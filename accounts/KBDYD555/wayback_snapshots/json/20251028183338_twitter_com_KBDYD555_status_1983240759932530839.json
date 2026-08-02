@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1983118780130832464",
+    "created_at": "2025-10-28T18:33:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T19:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983240759932530839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1889175026332819456",
+          "start": 0,
+          "username": "Ninamimi2003"
+        },
+        {
+          "end": 23,
+          "id": "3070273405",
+          "start": 14,
+          "username": "5389_852"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983240759932530839",
+    "in_reply_to_user_id": "1889175026332819456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983224639334580595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ninamimi2003 @5389_852 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1983118780130832464",
+        "created_at": "2025-10-28T18:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T19:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983240759932530839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1889175026332819456",
+              "start": 0,
+              "username": "Ninamimi2003"
+            },
+            {
+              "end": 23,
+              "id": "3070273405",
+              "start": 14,
+              "username": "5389_852"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983240759932530839",
+        "in_reply_to_user_id": "1889175026332819456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983224639334580595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ninamimi2003 @5389_852 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889175026332819456",
+        "conversation_id": "1983118780130832464",
+        "created_at": "2025-10-28T17:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T18:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983224639334580595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3070273405",
+              "start": 0,
+              "username": "5389_852"
+            },
+            {
+              "end": 19,
+              "id": "1557450235621695488",
+              "start": 10,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983224639334580595",
+        "in_reply_to_user_id": "3070273405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983127306270134515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5389_852 @KBDYD555 想把自己最漂亮的一面留在人世间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n喜欢我的话就给我钱吧不管多少都很感谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1974847135830163600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2671,
+          "following_count": 299,
+          "like_count": 2337,
+          "listed_count": 8,
+          "media_count": 717,
+          "tweet_count": 2501
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T04:50:14.000Z",
+        "description": "不 闲 聊",
+        "id": "1889175026332819456",
+        "name": "我喜欢喝杨枝甘露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940922086001676288/4x5bgzVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 12,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 619
+        },
+        "username": "Ninamimi2003",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-09T20:10:38.000Z",
+        "description": "",
+        "id": "3070273405",
+        "name": "Vitas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/575028270577528832/-wLAcFHw_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 910,
+          "like_count": 12524,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 351
+        },
+        "username": "5389_852",
+        "verified": false
+      }
+    ]
+  }
+}

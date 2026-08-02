@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2010403496554803493",
+    "created_at": "2026-01-11T17:28:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T18:28:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010403496554803493"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2010403496554803493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎我靠。我越想越想死啊。我天天觉得自己为了妹妹付出了很多她怎么对我态度这么随便。我好恶心我妹又没逼我为她做这个做那个。都是我自作主张。我好恶心。这跟我讨厌的那些自以为自己特别无私伟大的父母长辈有什么区别了。我好恶心。我好想死。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2010403496554803493",
+        "created_at": "2026-01-11T17:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T18:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010403496554803493"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010403496554803493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎我靠。我越想越想死啊。我天天觉得自己为了妹妹付出了很多她怎么对我态度这么随便。我好恶心我妹又没逼我为她做这个做那个。都是我自作主张。我好恶心。这跟我讨厌的那些自以为自己特别无私伟大的父母长辈有什么区别了。我好恶心。我好想死。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2006653674378924480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3300,
+          "following_count": 313,
+          "like_count": 2697,
+          "listed_count": 9,
+          "media_count": 754,
+          "tweet_count": 2641
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

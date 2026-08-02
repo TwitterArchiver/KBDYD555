@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931691325369532416",
+        "3_1931691326044811264"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "conversation_id": "1931691343069536722",
+    "created_at": "2025-06-08T12:34:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T13:34:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931691343069536722"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/h1Q0XREsCH",
+          "end": 28,
+          "expanded_url": "https://x.com/KBDYD555/status/1931691343069536722/photo/1",
+          "media_key": "3_1931691325369532416",
+          "start": 5,
+          "url": "https://t.co/h1Q0XREsCH"
+        },
+        {
+          "display_url": "pic.x.com/h1Q0XREsCH",
+          "end": 28,
+          "expanded_url": "https://x.com/KBDYD555/status/1931691343069536722/photo/1",
+          "media_key": "3_1931691326044811264",
+          "start": 5,
+          "url": "https://t.co/h1Q0XREsCH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931691343069536722",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "两只傻狗 https://t.co/h1Q0XREsCH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1931691325369532416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs6_BqBawAA7J0O.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1931691326044811264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs6_BsiasAAhYbt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931691325369532416",
+            "3_1931691326044811264"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "1931691343069536722",
+        "created_at": "2025-06-08T12:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T13:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931691343069536722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h1Q0XREsCH",
+              "end": 28,
+              "expanded_url": "https://x.com/KBDYD555/status/1931691343069536722/photo/1",
+              "media_key": "3_1931691325369532416",
+              "start": 5,
+              "url": "https://t.co/h1Q0XREsCH"
+            },
+            {
+              "display_url": "pic.x.com/h1Q0XREsCH",
+              "end": 28,
+              "expanded_url": "https://x.com/KBDYD555/status/1931691343069536722/photo/1",
+              "media_key": "3_1931691326044811264",
+              "start": 5,
+              "url": "https://t.co/h1Q0XREsCH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931691343069536722",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两只傻狗 https://t.co/h1Q0XREsCH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世是碎碎念推/老鼠推/小狗推\n互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆｜小狗:小乖/小眉\n想让我生活好一点的话就给我一点钱吧谢谢你",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1930939924402045146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1200,
+          "following_count": 187,
+          "like_count": 752,
+          "listed_count": 3,
+          "media_count": 349,
+          "tweet_count": 1047
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

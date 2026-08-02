@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2014592990996791745",
+    "created_at": "2026-01-23T06:56:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T07:56:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014592990996791745"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2014592990996791745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我这几天都是他们不在家或者他们晚上睡觉之后才会吃东西。然后像发泄一样吃特别多，不管好不好吃，撑到胃疼为止。然后立刻就去吐，吐到只有酸水和胃液为止。一直在不停的查怎么样吐的更干净不让身体吸收热量。甚至我又想入管了。我感觉我心理已经彻底扭曲了。已经没办法正常的面对食物。我这样好恶心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2014592990996791745",
+        "created_at": "2026-01-23T06:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T07:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014592990996791745"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014592990996791745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这几天都是他们不在家或者他们晚上睡觉之后才会吃东西。然后像发泄一样吃特别多，不管好不好吃，撑到胃疼为止。然后立刻就去吐，吐到只有酸水和胃液为止。一直在不停的查怎么样吐的更干净不让身体吸收热量。甚至我又想入管了。我感觉我心理已经彻底扭曲了。已经没办法正常的面对食物。我这样好恶心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...现世成分:碎碎念/花枝鼠/sh/ed/od/高p/负能量/杂乱日常/偶尔画画....互关回来吧...",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2013944489816080799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3347,
+          "following_count": 335,
+          "like_count": 2877,
+          "listed_count": 9,
+          "media_count": 766,
+          "tweet_count": 2736
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

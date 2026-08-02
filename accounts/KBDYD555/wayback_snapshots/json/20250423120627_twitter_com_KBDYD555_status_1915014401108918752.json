@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1914909791216079323",
+    "created_at": "2025-04-23T12:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T13:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915014401108918752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1494708259382755328",
+          "start": 0,
+          "username": "SuzukiShinmori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915014401108918752",
+    "in_reply_to_user_id": "1494708259382755328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915014218405085243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuzukiShinmori 还好我有鼠鼠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1914909791216079323",
+        "created_at": "2025-04-23T12:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T13:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915014401108918752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1494708259382755328",
+              "start": 0,
+              "username": "SuzukiShinmori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915014401108918752",
+        "in_reply_to_user_id": "1494708259382755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915014218405085243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuzukiShinmori 还好我有鼠鼠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494708259382755328",
+        "conversation_id": "1914909791216079323",
+        "created_at": "2025-04-23T12:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T13:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915014218405085243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915014218405085243",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915010114572243068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 难怪鼠王这么孤独🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "Rats！！！shtwt｜edtwt｜rat twt\n我是99转世啊啊寻找前世互关\nhere is my life with my rats hope u like my pet rats🐭🥰\n看我不顺眼就屏蔽别骂我也别举报谢谢\n想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭",
+        "name": "🐭老鼠国王（卖老鼠版）",
+        "pinned_tweet_id": "1914910831428689932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 160,
+          "like_count": 306,
+          "listed_count": 3,
+          "media_count": 144,
+          "tweet_count": 435
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-18T16:20:07.000Z",
+        "description": "♂，19，温柔【優しい/gentle】\n鈴木にゃです、心守「Shinmori」とも呼ばれている…\nまるで天使のように微笑む\n強めの幻覚　INTERNETGIRL\nそして悪魔みたいにささやく\nあなたに救いを与える　2D(NEEDY) GIRL\n神様なんていないよ\nインターネット・エンジェル　かわいく参上まる！",
+        "id": "1494708259382755328",
+        "location": "ギャングによって支配されている🇨🇳",
+        "name": "鈴木 喵にゃ（心守）",
+        "pinned_tweet_id": "1912167298691174746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807798619027947520/nlFRjA4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 604,
+          "like_count": 256577,
+          "listed_count": 9,
+          "media_count": 3855,
+          "tweet_count": 28777
+        },
+        "username": "SuzukiShinmori",
+        "verified": false
+      }
+    ]
+  }
+}

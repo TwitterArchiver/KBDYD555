@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1974781257465921658",
+    "created_at": "2025-10-05T10:45:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T11:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974788004876267584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1973301328135987201",
+          "start": 0,
+          "username": "the_red_dawn_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974788004876267584",
+    "in_reply_to_user_id": "1973301328135987201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974783578405032151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@the_red_dawn_ 我不知道有什么办法但是谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1974781257465921658",
+        "created_at": "2025-10-05T10:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T11:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974788004876267584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1973301328135987201",
+              "start": 0,
+              "username": "the_red_dawn_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974788004876267584",
+        "in_reply_to_user_id": "1973301328135987201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974783578405032151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@the_red_dawn_ 我不知道有什么办法但是谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973301328135987201",
+        "conversation_id": "1974781257465921658",
+        "created_at": "2025-10-05T10:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T11:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974783578405032151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974783578405032151",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974781257465921658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 如果你有办法让我给你汇钱的话，我可以帮你出这笔钱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n喜欢我的话就给我一点钱吧不管多少都很感谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1945367514307059835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2222,
+          "following_count": 287,
+          "like_count": 1949,
+          "listed_count": 7,
+          "media_count": 663,
+          "tweet_count": 2341
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T08:19:29.000Z",
+        "description": "♡ 我深深地爱着世间的每一个生命和事物，我唯一想做的就是帮助别人 I deeply love every living being and everything in this world, and all I want is to help others",
+        "id": "1973301328135987201",
+        "name": "the dawn",
+        "pinned_tweet_id": "1974742059975413846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973302849141620737/KX9ccBBK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 25,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 77
+        },
+        "username": "the_red_dawn_",
+        "verified": false
+      }
+    ]
+  }
+}

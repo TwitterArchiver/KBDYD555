@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2010406744992936277",
+    "created_at": "2026-01-11T17:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T18:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010406744992936277"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2010406744992936277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我心脏好痛。我妹妹一直在跟我讲她感兴趣的东西。我不想扫她的兴。我强忍着泪一直在接她的话。我又怕我不了解她的圈子她又觉得我很无趣。唉。我想变成她喜欢的那种姐姐。好难过。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2010406744992936277",
+        "created_at": "2026-01-11T17:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T18:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010406744992936277"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010406744992936277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我心脏好痛。我妹妹一直在跟我讲她感兴趣的东西。我不想扫她的兴。我强忍着泪一直在接她的话。我又怕我不了解她的圈子她又觉得我很无趣。唉。我想变成她喜欢的那种姐姐。好难过。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2006653674378924480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3300,
+          "following_count": 313,
+          "like_count": 2697,
+          "listed_count": 9,
+          "media_count": 754,
+          "tweet_count": 2643
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

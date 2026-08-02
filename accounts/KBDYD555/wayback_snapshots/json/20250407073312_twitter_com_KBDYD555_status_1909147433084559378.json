@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1909147412628942848"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "conversation_id": "1909147433084559378",
+    "created_at": "2025-04-07T07:33:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T08:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1909147433084559378"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nLVeIEpBnf",
+          "end": 29,
+          "expanded_url": "https://x.com/KBDYD555/status/1909147433084559378/video/1",
+          "media_key": "7_1909147412628942848",
+          "start": 6,
+          "url": "https://t.co/nLVeIEpBnf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909147433084559378",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小狗妹妹🐭 https://t.co/nLVeIEpBnf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3440,
+        "height": 1280,
+        "media_key": "7_1909147412628942848",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1909147412628942848/pu/img/d6HpDLrcrxaO2jI6.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1909147412628942848/pu/vid/avc1/320x568/dwFxLD0222dPQUsX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1909147412628942848/pu/vid/avc1/480x852/W_g8dBT6h2IJ5Hcb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1909147412628942848/pu/vid/avc1/720x1280/zSgSvfhOovOFDd27.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1909147412628942848/pu/pl/MkSRQ4E8zxUJbTqX.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1909147412628942848"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "1909147433084559378",
+        "created_at": "2025-04-07T07:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T08:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909147433084559378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nLVeIEpBnf",
+              "end": 29,
+              "expanded_url": "https://x.com/KBDYD555/status/1909147433084559378/video/1",
+              "media_key": "7_1909147412628942848",
+              "start": 6,
+              "url": "https://t.co/nLVeIEpBnf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909147433084559378",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小狗妹妹🐭 https://t.co/nLVeIEpBnf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "Rats！！！shtwt｜edtwt｜rat twt\n我是99转世啊啊寻找前世互关\nhere is my life with my rats hope u like my pet rats🐭🥰\n看我不顺眼就屏蔽别骂我也别举报谢谢\n想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭",
+        "name": "🐭老鼠国王（卖老鼠版）",
+        "pinned_tweet_id": "1908155806362808813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 145,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 316
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

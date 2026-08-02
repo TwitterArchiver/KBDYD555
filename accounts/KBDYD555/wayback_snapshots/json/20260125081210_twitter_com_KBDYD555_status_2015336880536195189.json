@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2015336880536195189",
+    "created_at": "2026-01-25T08:12:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T09:12:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015336880536195189"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2015336880536195189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一睡醒不吃不喝就一直在处理被平台坑钱的事情。结果还是一点用也没有。我恨死现在的消费环境了。全都是骗局。谁的钱都骗，不得好死。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2015336880536195189",
+        "created_at": "2026-01-25T08:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T09:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015336880536195189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015336880536195189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一睡醒不吃不喝就一直在处理被平台坑钱的事情。结果还是一点用也没有。我恨死现在的消费环境了。全都是骗局。谁的钱都骗，不得好死。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念/ED/sh/花枝鼠....互关回来吧...（Eng🆗）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2014999363500822659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3367,
+          "following_count": 347,
+          "like_count": 2974,
+          "listed_count": 9,
+          "media_count": 783,
+          "tweet_count": 2793
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

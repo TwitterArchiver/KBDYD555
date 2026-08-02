@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1966716037102965235",
+    "created_at": "2025-09-13T11:24:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T12:24:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966825199711740163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1867755654070349824",
+          "start": 0,
+          "username": "zezhe463149"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966825199711740163",
+    "in_reply_to_user_id": "1867755654070349824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966716037102965235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zezhe463149 我也求。这是她第三天里第二次说跟我断绝关系了。上一次删我的时候也说了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1966716037102965235",
+        "created_at": "2025-09-13T11:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T12:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966825199711740163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1867755654070349824",
+              "start": 0,
+              "username": "zezhe463149"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966825199711740163",
+        "in_reply_to_user_id": "1867755654070349824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966716037102965235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zezhe463149 我也求。这是她第三天里第二次说跟我断绝关系了。上一次删我的时候也说了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867755654070349824",
+        "conversation_id": "1966716037102965235",
+        "created_at": "2025-09-13T04:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T05:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966716037102965235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KBDYD555/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/KBDYD555/status/1966707528319828119",
+              "start": 16,
+              "url": "https://t.co/aUVagpownR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966716037102965235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966707528319828119",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求教程，怎么让父母主动断绝关系 https://t.co/aUVagpownR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n喜欢我想的话就给我一点钱吧不管多少都很感谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1945367514307059835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1722,
+          "following_count": 270,
+          "like_count": 1761,
+          "listed_count": 5,
+          "media_count": 627,
+          "tweet_count": 2131
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-14T02:17:45.000Z",
+        "description": "我的人格分裂TV——z猪头s嘶哑h环线y一心a阿两/黄色废料情绪垃圾违规排放的恶臭下水道",
+        "id": "1867755654070349824",
+        "location": "乐园",
+        "name": "折言",
+        "pinned_tweet_id": "1962923586802368517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962728073511489536/CsYWyWrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 289,
+          "like_count": 2040,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 2428
+        },
+        "username": "zezhe463149",
+        "verified": false
+      }
+    ]
+  }
+}

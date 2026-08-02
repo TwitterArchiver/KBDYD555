@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1939302341511098495",
+    "created_at": "2025-07-01T02:45:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T03:45:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939877939866477006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1741993395910811648",
+          "start": 0,
+          "username": "AnIncandescence"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939877939866477006",
+    "in_reply_to_user_id": "1741993395910811648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939340780625375657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnIncandescence 亲死它"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1939340780625375657].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1939340780625375657",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1939340780625375657"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1939302341511098495",
+        "created_at": "2025-07-01T02:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T03:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939877939866477006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1741993395910811648",
+              "start": 0,
+              "username": "AnIncandescence"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939877939866477006",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939340780625375657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 亲死它"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世是碎碎念推/老鼠推/小狗推\n互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆｜小狗:小乖/小眉\n想让我生活好一点的话就给我一点钱吧谢谢你",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1937879363636400639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1276,
+          "following_count": 215,
+          "like_count": 932,
+          "listed_count": 3,
+          "media_count": 411,
+          "tweet_count": 1222
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | 求式性 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158 | 不卖东西",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anincandescence",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anincandescence",
+                "start": 0,
+                "url": "https://t.co/5hwflgljoj"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930288376399155200/A42NAeD9_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 196,
+          "like_count": 8633,
+          "listed_count": 1,
+          "media_count": 627,
+          "tweet_count": 3041
+        },
+        "url": "https://t.co/5hwflgljoj",
+        "username": "AnIncandescence",
+        "verified": false
+      }
+    ]
+  }
+}

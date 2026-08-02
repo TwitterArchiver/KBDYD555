@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2037419136889041324",
+    "created_at": "2026-03-28T04:15:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T05:15:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037745410861650151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1976591185465802752",
+          "start": 0,
+          "username": "jiirai216048"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037745410861650151",
+    "in_reply_to_user_id": "1976591185465802752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037742869944148293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiirai216048 死就是死还美感上了☠️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2037419136889041324",
+        "created_at": "2026-03-28T04:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T05:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037745410861650151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1976591185465802752",
+              "start": 0,
+              "username": "jiirai216048"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037745410861650151",
+        "in_reply_to_user_id": "1976591185465802752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037742869944148293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiirai216048 死就是死还美感上了☠️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976591185465802752",
+        "conversation_id": "2037419136889041324",
+        "created_at": "2026-03-28T04:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T05:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037742869944148293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037742869944148293",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037419136889041324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 18歲就只是初級成年人而已，而且18歲之後自殺沒有美感那他80多老死很有美感嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫：@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/花枝鼠....互关回来吧...（Eng🆗）存图账号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 86,
+                "start": 78,
+                "username": "kyuukoQ"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2031302686671515896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3729,
+          "following_count": 452,
+          "like_count": 3981,
+          "listed_count": 9,
+          "media_count": 921,
+          "tweet_count": 3326
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-10T10:10:47.000Z",
+        "description": "",
+        "id": "1976591185465802752",
+        "name": "🆘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011849567881560064/HdugA3-L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 41,
+          "like_count": 3958,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 92
+        },
+        "username": "jiirai216048",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2072953414330593359",
+    "created_at": "2026-07-05T02:38:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T03:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073597437290397924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1223071058",
+          "start": 0,
+          "username": "YungKrueg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073597437290397924",
+    "in_reply_to_user_id": "1223071058",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073536573178573173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YungKrueg looks so cool omg！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 910,
+        "media_key": "3_2073536570972397569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMauhnWXYAE2EFO.jpg",
+        "width": 721
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2072953414330593359",
+        "created_at": "2026-07-05T02:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073597437290397924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1223071058",
+              "start": 0,
+              "username": "YungKrueg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073597437290397924",
+        "in_reply_to_user_id": "1223071058",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073536573178573173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YungKrueg looks so cool omg！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073536570972397569"
+          ]
+        },
+        "author_id": "1223071058",
+        "conversation_id": "2072953414330593359",
+        "created_at": "2026-07-04T22:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T23:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073536573178573173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cRPCZnbvB0",
+              "end": 57,
+              "expanded_url": "https://x.com/YungKrueg/status/2073536573178573173/photo/1",
+              "media_key": "3_2073536570972397569",
+              "start": 34,
+              "url": "https://t.co/cRPCZnbvB0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073536573178573173",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 455,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072953414330593359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 These are good also tbh https://t.co/cRPCZnbvB0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫：@kokocat_9 遭举报冻结...现世成分:🚬/ed/🩸/🐭/🐶/🐱...互关回来吧...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 🩵亲友@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 128,
+                "start": 119,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2072889837548712297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4368,
+          "following_count": 635,
+          "like_count": 5062,
+          "listed_count": 9,
+          "media_count": 1022,
+          "tweet_count": 3800
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-26T22:12:21.000Z",
+        "description": "",
+        "id": "1223071058",
+        "location": "Skeletrix Island",
+        "name": "Reznik",
+        "pinned_tweet_id": "933243542947864576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802529327625506816/yPBHdtqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 2463,
+          "like_count": 9149,
+          "listed_count": 1,
+          "media_count": 387,
+          "tweet_count": 8180
+        },
+        "url": "",
+        "username": "YungKrueg",
+        "verified": false
+      }
+    ]
+  }
+}

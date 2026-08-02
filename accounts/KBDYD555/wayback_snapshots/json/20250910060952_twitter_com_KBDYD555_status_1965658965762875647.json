@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1965656030718951454",
+    "created_at": "2025-09-10T06:09:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T07:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965658965762875647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1920163542361313280",
+          "start": 0,
+          "username": "Losrick497"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965658965762875647",
+    "in_reply_to_user_id": "1920163542361313280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965656991441060235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Losrick497 没用的，胃里有东西我就会很焦虑😥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1965656030718951454",
+        "created_at": "2025-09-10T06:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T07:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965658965762875647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920163542361313280",
+              "start": 0,
+              "username": "Losrick497"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965658965762875647",
+        "in_reply_to_user_id": "1920163542361313280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965656991441060235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Losrick497 没用的，胃里有东西我就会很焦虑😥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920163542361313280",
+        "conversation_id": "1965656030718951454",
+        "created_at": "2025-09-10T06:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T07:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965656991441060235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965656991441060235",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965656773182034241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 欺骗你这是减脂餐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n喜欢我想的话就给我一点钱吧不管多少都很感谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1945367514307059835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1720,
+          "following_count": 270,
+          "like_count": 1736,
+          "listed_count": 5,
+          "media_count": 607,
+          "tweet_count": 2044
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-07T17:07:41.000Z",
+        "description": "在推上私信能不能直接一点？想聊天的说来聊天，想搞黄的直接说方法，想要入门的直接问入不入。别鸡扒瞎聊浪费感情行吗。明明是交易 非要攀交情",
+        "id": "1920163542361313280",
+        "name": "秃然",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920502893532123136/Z0f0Kr7E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 447,
+          "like_count": 2734,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 1751
+        },
+        "username": "Losrick497",
+        "verified": false
+      }
+    ]
+  }
+}

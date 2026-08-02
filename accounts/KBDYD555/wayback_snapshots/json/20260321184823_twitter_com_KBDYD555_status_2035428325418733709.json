@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2035428313448222720"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "conversation_id": "2035428325418733709",
+    "created_at": "2026-03-21T18:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T19:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035428325418733709"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sIWldKec4j",
+          "end": 31,
+          "expanded_url": "https://x.com/KBDYD555/status/2035428325418733709/video/1",
+          "media_key": "7_2035428313448222720",
+          "start": 8,
+          "url": "https://t.co/sIWldKec4j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035428325418733709",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "minino🐀 https://t.co/sIWldKec4j"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2809,
+        "height": 960,
+        "media_key": "7_2035428313448222720",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2035428313448222720/pu/img/MTCyituOiUD_u5_r.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2035428313448222720/pu/vid/avc1/320x426/C275nxo5RbqaFIHW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2035428313448222720/pu/vid/avc1/480x640/7fnkiJyacZiak7fE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2035428313448222720/pu/vid/avc1/720x960/tfhuLJazqmVGQM9V.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2035428313448222720/pu/pl/7BcXzsMXZjCSWy4G.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2035428313448222720"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "2035428325418733709",
+        "created_at": "2026-03-21T18:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T19:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035428325418733709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sIWldKec4j",
+              "end": 31,
+              "expanded_url": "https://x.com/KBDYD555/status/2035428325418733709/video/1",
+              "media_key": "7_2035428313448222720",
+              "start": 8,
+              "url": "https://t.co/sIWldKec4j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035428325418733709",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "minino🐀 https://t.co/sIWldKec4j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫：@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/花枝鼠....互关回来吧...（Eng🆗）存图账号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 86,
+                "start": 78,
+                "username": "kyuukoQ"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2031302686671515896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3586,
+          "following_count": 432,
+          "like_count": 3805,
+          "listed_count": 9,
+          "media_count": 913,
+          "tweet_count": 3281
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

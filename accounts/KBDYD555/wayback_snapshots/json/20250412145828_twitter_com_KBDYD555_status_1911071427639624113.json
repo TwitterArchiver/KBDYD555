@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1911059542911172653",
+    "created_at": "2025-04-12T14:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T15:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911071427639624113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878356855975723008",
+          "start": 0,
+          "username": "ugglasquest"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911071427639624113",
+    "in_reply_to_user_id": "1878356855975723008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911070744467087389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ugglasquest 那很好啊但是睡醒会不会头疼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1911059542911172653",
+        "created_at": "2025-04-12T14:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T15:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911071427639624113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878356855975723008",
+              "start": 0,
+              "username": "ugglasquest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911071427639624113",
+        "in_reply_to_user_id": "1878356855975723008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911070744467087389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ugglasquest 那很好啊但是睡醒会不会头疼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878356855975723008",
+        "conversation_id": "1911059542911172653",
+        "created_at": "2025-04-12T14:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T15:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911070744467087389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911070744467087389",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911059542911172653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 不知道是不是体质不一样，我之前喝三瓶乌苏很想睡觉(*´I`*)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "Rats！！！shtwt｜edtwt｜rat twt\n我是99转世啊啊寻找前世互关\nhere is my life with my rats hope u like my pet rats🐭🥰\n看我不顺眼就屏蔽别骂我也别举报谢谢\n想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭",
+        "name": "🐭老鼠国王（卖老鼠版）",
+        "pinned_tweet_id": "1908155806362808813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 148,
+          "like_count": 281,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 368
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T08:22:54.000Z",
+        "description": "大家好呀ヾ(´∀｀。ヾ)这里是ugglas\n \n抑郁/强迫/焦虑障碍/人际交往障碍/适应障碍/边缘型人格障碍/依赖型人格障碍 \n 现已休学 ₍˄·͈༝·͈˄*₎◞ ̑̑悲哀的女同性恋",
+        "id": "1878356855975723008",
+        "location": "里世界 南望町",
+        "name": "Ugglas ^q^",
+        "pinned_tweet_id": "1895427696458629354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906541696726470656/FGjk3Zfo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 76,
+          "like_count": 5137,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 880
+        },
+        "username": "ugglasquest",
+        "verified": false
+      }
+    ]
+  }
+}

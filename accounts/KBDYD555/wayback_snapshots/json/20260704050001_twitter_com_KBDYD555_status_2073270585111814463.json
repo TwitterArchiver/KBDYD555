@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2072953414330593359",
+    "created_at": "2026-07-04T05:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T06:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073270585111814463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1578395243891855362",
+          "start": 0,
+          "username": "hate_0811"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073270585111814463",
+    "in_reply_to_user_id": "1578395243891855362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073268601440833782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hate_0811 是我在便利店买的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2072953414330593359",
+        "created_at": "2026-07-04T05:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073270585111814463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1578395243891855362",
+              "start": 0,
+              "username": "hate_0811"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073270585111814463",
+        "in_reply_to_user_id": "1578395243891855362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073268601440833782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hate_0811 是我在便利店买的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1578395243891855362",
+        "conversation_id": "2072953414330593359",
+        "created_at": "2026-07-04T04:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T05:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073268601440833782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073268601440833782",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072953414330593359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 这是在烟代那里买的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫：@kokocat_9 遭举报冻结...现世成分:🚬/ed/🩸/🐭/🐶/🐱...互关回来吧...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 🩵亲友@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 128,
+                "start": 119,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2072889837548712297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4038,
+          "following_count": 637,
+          "like_count": 5004,
+          "listed_count": 7,
+          "media_count": 1020,
+          "tweet_count": 3776
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-07T14:42:16.000Z",
+        "description": "防失联小号喵@Tiesa1234",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Tiesa1234"
+              }
+            ]
+          }
+        },
+        "id": "1578395243891855362",
+        "name": "讨厌你的好",
+        "pinned_tweet_id": "1990474102017306720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048724780837150720/pNdCkBZm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5074,
+          "following_count": 235,
+          "like_count": 11306,
+          "listed_count": 5,
+          "media_count": 1202,
+          "tweet_count": 9586
+        },
+        "url": "",
+        "username": "hate_0811",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1971201219608879262",
+    "created_at": "2025-09-25T14:29:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T15:29:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971220451230904497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1810185211663298560",
+          "start": 0,
+          "username": "dsh1217203"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971220451230904497",
+    "in_reply_to_user_id": "1810185211663298560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971209483440488673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dsh1217203 做的多就拿的多但我是新来的，工资会压一个月发，提成也不知道有没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1971201219608879262",
+        "created_at": "2025-09-25T14:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T15:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971220451230904497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1810185211663298560",
+              "start": 0,
+              "username": "dsh1217203"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971220451230904497",
+        "in_reply_to_user_id": "1810185211663298560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971209483440488673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dsh1217203 做的多就拿的多但我是新来的，工资会压一个月发，提成也不知道有没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810185211663298560",
+        "conversation_id": "1971201219608879262",
+        "created_at": "2025-09-25T13:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T14:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971209483440488673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971209483440488673",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971201219608879262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 一个月给多少钱呀这么压榨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n喜欢我想的话就给我一点钱吧不管多少都很感谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1945367514307059835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1741,
+          "following_count": 275,
+          "like_count": 1862,
+          "listed_count": 5,
+          "media_count": 649,
+          "tweet_count": 2273
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-08T05:32:57.000Z",
+        "description": "唯一账号@dsh1217203夏夏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "dsh1217203"
+              }
+            ]
+          }
+        },
+        "id": "1810185211663298560",
+        "name": "juhbo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817557343997251584/N4jrIh4a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 516,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 359
+        },
+        "username": "dsh1217203",
+        "verified": false
+      }
+    ]
+  }
+}

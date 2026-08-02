@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2009528918123155456"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "conversation_id": "2009529096703988035",
+    "created_at": "2026-01-09T07:34:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T08:34:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009529096703988035"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WLyX2d5KmX",
+          "end": 43,
+          "expanded_url": "https://x.com/KBDYD555/status/2009529096703988035/video/1",
+          "media_key": "7_2009528918123155456",
+          "start": 20,
+          "url": "https://t.co/WLyX2d5KmX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009529096703988035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "墨墨吃🥟\n还有趁机干坏事的minino https://t.co/WLyX2d5KmX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23806,
+        "height": 1280,
+        "media_key": "7_2009528918123155456",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2009528918123155456/pu/img/PvyMdJci4SlJGXKZ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009528918123155456/pu/vid/avc1/320x568/afhQqGvlSpIdutr4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009528918123155456/pu/vid/avc1/480x852/OXlYhnXzYtAGFjDw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009528918123155456/pu/vid/avc1/720x1280/tP0cUVOa4sIt5pPx.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2009528918123155456/pu/pl/GZ1_Nh7yMDNdNS8o.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2009528918123155456"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "2009529096703988035",
+        "created_at": "2026-01-09T07:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T08:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009529096703988035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WLyX2d5KmX",
+              "end": 43,
+              "expanded_url": "https://x.com/KBDYD555/status/2009529096703988035/video/1",
+              "media_key": "7_2009528918123155456",
+              "start": 20,
+              "url": "https://t.co/WLyX2d5KmX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009529096703988035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "墨墨吃🥟\n还有趁机干坏事的minino https://t.co/WLyX2d5KmX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2006653674378924480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3309,
+          "following_count": 308,
+          "like_count": 2629,
+          "listed_count": 9,
+          "media_count": 744,
+          "tweet_count": 2611
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

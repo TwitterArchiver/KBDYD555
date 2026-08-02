@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2078968972888994079",
+    "created_at": "2026-07-19T23:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T00:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078984067996131501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1824394555904626689",
+          "start": 0,
+          "username": "xiaoxun2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078984067996131501",
+    "in_reply_to_user_id": "1824394555904626689",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078968972888994079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxun2007 天啊好萌啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5849,
+        "height": 1280,
+        "media_key": "13_2078968953624465408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078968953624465408/img/NqhK9vq4FBRdOHmH.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078968953624465408/vid/avc1/320x568/jSAGx2zjU2IwqKMs.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078968953624465408/vid/avc1/480x852/BOtYLdRRlVc2e01v.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078968953624465408/vid/avc1/720x1280/wJpj2ey-mPqFRaOv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078968953624465408/pl/0LyDPtERons9eIs_.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2078968972888994079",
+        "created_at": "2026-07-19T23:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T00:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078984067996131501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1824394555904626689",
+              "start": 0,
+              "username": "xiaoxun2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078984067996131501",
+        "in_reply_to_user_id": "1824394555904626689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078968972888994079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxun2007 天啊好萌啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078968953624465408"
+          ]
+        },
+        "author_id": "1824394555904626689",
+        "conversation_id": "2078968972888994079",
+        "created_at": "2026-07-19T22:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T23:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078968972888994079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4mbB0Qce1M",
+              "end": 46,
+              "expanded_url": "https://x.com/xiaoxun2007/status/2078968972888994079/video/1",
+              "media_key": "13_2078968953624465408",
+              "start": 23,
+              "url": "https://t.co/4mbB0Qce1M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078968972888994079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当理发店模特的那套天~一直想当结果心想事成了 https://t.co/4mbB0Qce1M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫遭举报冻结...🚬/🩸/ed/🐭/🐶/🐱...互关欢迎会查成分...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 聊天先过门吧我没什么多余精力了🩵亲友@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2072889837548712297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4612,
+          "following_count": 660,
+          "like_count": 5390,
+          "listed_count": 8,
+          "media_count": 1073,
+          "tweet_count": 4120
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T10:35:50.000Z",
+        "description": "清水推 † 前世@xiaoxun519🕸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "xiaoxun519"
+              }
+            ]
+          }
+        },
+        "id": "1824394555904626689",
+        "name": "潯",
+        "pinned_tweet_id": "1980635594175967338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037562880737021952/duVYz3fd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2153,
+          "following_count": 274,
+          "like_count": 2746,
+          "listed_count": 4,
+          "media_count": 81,
+          "tweet_count": 1837
+        },
+        "url": "",
+        "username": "xiaoxun2007",
+        "verified": false
+      }
+    ]
+  }
+}

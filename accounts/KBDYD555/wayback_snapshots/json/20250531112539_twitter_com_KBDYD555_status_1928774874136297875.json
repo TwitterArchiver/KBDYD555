@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1928516744429085092",
+    "created_at": "2025-05-31T11:25:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T12:25:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928774874136297875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499709348616241155",
+          "start": 0,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928774874136297875",
+    "in_reply_to_user_id": "1499709348616241155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928516744429085092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiweimaomao 我也是，虽然十几岁的时候也挺痛苦的但感觉年纪小还有很多事可以重新来，过了20岁年龄焦虑就特别严重感觉一切都来不及了😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1928516744429085092",
+        "created_at": "2025-05-31T11:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T12:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928774874136297875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499709348616241155",
+              "start": 0,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928774874136297875",
+        "in_reply_to_user_id": "1499709348616241155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928516744429085092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiweimaomao 我也是，虽然十几岁的时候也挺痛苦的但感觉年纪小还有很多事可以重新来，过了20岁年龄焦虑就特别严重感觉一切都来不及了😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499709348616241155",
+        "conversation_id": "1928516744429085092",
+        "created_at": "2025-05-30T18:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T19:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928516744429085092"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928516744429085092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1079,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好羡慕你们15，16岁的，真的是花一般的年纪，我真的想回到过去……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99转世 现世是碎碎念推/老鼠推/小狗推\n喜欢老鼠请关注我....\nhere is my life with my rats🐭🥰\n我的老鼠有：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆｜小狗🐶叫小乖\n想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭🚪52r",
+        "name": "🐭老鼠国王(Rats!",
+        "pinned_tweet_id": "1926982325310574786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1113,
+          "following_count": 184,
+          "like_count": 670,
+          "listed_count": 3,
+          "media_count": 332,
+          "tweet_count": 975
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "🪆我是爱礼请关注我哇/是碎碎念推和画画推/非常喜欢猫咪的人丨🚪55r丨🦜嘤鹉：@SENDOH214丨 是自用梯子：https://t.co/yyQ5wxPP3A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 39,
+                "username": "SENDOH214"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "get.tachvip.com/#/register?cod…",
+                "end": 80,
+                "expanded_url": "https://get.tachvip.com/#/register?code=Ujz5tpFy",
+                "start": 57,
+                "url": "https://t.co/yyQ5wxPP3A"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "天空",
+        "name": "爱礼",
+        "pinned_tweet_id": "1923714577570857214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41269,
+          "following_count": 1070,
+          "like_count": 23295,
+          "listed_count": 47,
+          "media_count": 2325,
+          "tweet_count": 27781
+        },
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

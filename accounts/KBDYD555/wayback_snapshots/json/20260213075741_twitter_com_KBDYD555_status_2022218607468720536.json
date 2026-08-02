@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2022126155776819387",
+    "created_at": "2026-02-13T07:57:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T08:57:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022218607468720536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878356855975723008",
+          "start": 0,
+          "username": "ugglasquest"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022218607468720536",
+    "in_reply_to_user_id": "1878356855975723008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022126155776819387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ugglasquest 卧槽我跟我第一任经历好像"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2022126155776819387",
+        "created_at": "2026-02-13T07:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T08:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022218607468720536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878356855975723008",
+              "start": 0,
+              "username": "ugglasquest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022218607468720536",
+        "in_reply_to_user_id": "1878356855975723008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022126155776819387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ugglasquest 卧槽我跟我第一任经历好像"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878356855975723008",
+        "conversation_id": "2022126155776819387",
+        "created_at": "2026-02-13T01:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T02:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022126155776819387"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022126155776819387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我前女友跟别人聊骚被我抓到了还说和别人是普通朋友关系，。还在我QQ空间加我朋友问她是不是女同，要不是我朋友告诉我了我还不知道。。最后还给我发个好人卡我真不行了嗯对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/花枝鼠....互关回来吧...（Eng🆗）存图账号：@kyuukoQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 79,
+                "start": 71,
+                "username": "kyuukoQ"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2014999363500822659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3462,
+          "following_count": 409,
+          "like_count": 3392,
+          "listed_count": 9,
+          "media_count": 855,
+          "tweet_count": 3050
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T08:22:54.000Z",
+        "description": "shtwt/edtwt  lesbian  08 自虐狂 自毁倾向  流血推预警  精神病预警‼️ 偶尔会发一些自己的绘画作品   ̑̑zzz和末日厨房玩家 我是女同性恋https://t.co/BS4jLUBFXD匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ugras2",
+                "end": 108,
+                "expanded_url": "https://ngl.link/ugras2",
+                "start": 85,
+                "url": "https://t.co/BS4jLUBFXD"
+              }
+            ]
+          }
+        },
+        "id": "1878356855975723008",
+        "location": "里世界 南望町",
+        "name": "Ugras ^q^",
+        "pinned_tweet_id": "1895427696458629354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016335449544130560/yzdKKOJI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 56,
+          "like_count": 16466,
+          "listed_count": 3,
+          "media_count": 508,
+          "tweet_count": 2271
+        },
+        "username": "ugglasquest",
+        "verified": false
+      }
+    ]
+  }
+}

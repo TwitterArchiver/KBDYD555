@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2076298605082931200"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "conversation_id": "2076298639635623947",
+    "created_at": "2026-07-12T13:32:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T14:32:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076298639635623947"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dypYVwf6FC",
+          "end": 23,
+          "expanded_url": "https://x.com/KBDYD555/status/2076298639635623947/video/1",
+          "media_key": "7_2076298605082931200",
+          "start": 0,
+          "url": "https://t.co/dypYVwf6FC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076298639635623947",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/dypYVwf6FC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8544,
+        "height": 960,
+        "media_key": "7_2076298605082931200",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2076298605082931200/pu/img/6HWsUFDdsOnbhAVd.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076298605082931200/pu/vid/avc1/320x426/VUw_TSKnaLTZS4cX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076298605082931200/pu/vid/avc1/480x640/rX-vEaiG2oZRY61U.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076298605082931200/pu/vid/avc1/720x960/Dxei4-rMk41bC6z9.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2076298605082931200/pu/pl/JY_J6mm26rU99pHu.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2076298605082931200"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "2076298639635623947",
+        "created_at": "2026-07-12T13:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T14:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076298639635623947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dypYVwf6FC",
+              "end": 23,
+              "expanded_url": "https://x.com/KBDYD555/status/2076298639635623947/video/1",
+              "media_key": "7_2076298605082931200",
+              "start": 0,
+              "url": "https://t.co/dypYVwf6FC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076298639635623947",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dypYVwf6FC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫遭举报冻结...🚬/🩸/ed/🐭/🐶/🐱...互关欢迎会查成分...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 聊天先过门吧我没什么多余精力了🩵亲友@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2072889837548712297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4558,
+          "following_count": 652,
+          "like_count": 5227,
+          "listed_count": 8,
+          "media_count": 1047,
+          "tweet_count": 3980
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

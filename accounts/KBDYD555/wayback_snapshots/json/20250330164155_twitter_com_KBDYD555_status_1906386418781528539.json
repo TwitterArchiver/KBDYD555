@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906386416344653824"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1906386418781528539",
+    "created_at": "2025-03-30T16:41:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T17:41:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906386418781528539"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FOYctNHGPf",
+          "end": 28,
+          "expanded_url": "https://x.com/KBDYD555/status/1906386418781528539/photo/1",
+          "media_key": "3_1906386416344653824",
+          "start": 5,
+          "url": "https://t.co/FOYctNHGPf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906386418781528539",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "什么意思 https://t.co/FOYctNHGPf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1906386416344653824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnTYWF7aYAATvyF.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906386416344653824"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1906386418781528539",
+        "created_at": "2025-03-30T16:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T17:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906386418781528539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FOYctNHGPf",
+              "end": 28,
+              "expanded_url": "https://x.com/KBDYD555/status/1906386418781528539/photo/1",
+              "media_key": "3_1906386416344653824",
+              "start": 5,
+              "url": "https://t.co/FOYctNHGPf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906386418781528539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么意思 https://t.co/FOYctNHGPf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "Rats！！！shtwt｜edtwt｜rat twt\n我是99转世啊啊寻找前世互关\nhere is my life with my rats hope u like my pet rats🐭🥰\n看我不顺眼就屏蔽别骂我也别举报谢谢\n想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭",
+        "name": "🐭老鼠国王（卖老鼠版）",
+        "pinned_tweet_id": "1902382804052406487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 141,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 226
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

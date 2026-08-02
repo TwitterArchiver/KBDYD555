@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1966119117351800895",
+    "created_at": "2025-09-11T16:58:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T17:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966184518215483669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499709348616241155",
+          "start": 0,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966184518215483669",
+    "in_reply_to_user_id": "1499709348616241155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966119117351800895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiweimaomao 恭喜爱莉🫂🫂🫂我也跑路了，离开原生家庭才是另一条有爱的道路吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1966119117351800895",
+        "created_at": "2025-09-11T16:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T17:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966184518215483669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499709348616241155",
+              "start": 0,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966184518215483669",
+        "in_reply_to_user_id": "1499709348616241155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966119117351800895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiweimaomao 恭喜爱莉🫂🫂🫂我也跑路了，离开原生家庭才是另一条有爱的道路吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499709348616241155",
+        "conversation_id": "1966119117351800895",
+        "created_at": "2025-09-11T12:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T13:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966119117351800895"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966119117351800895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天喝了三杯瑞幸\n我觉着这玩意比什么抗抑郁药都要抗抑郁\n但我并不想理我爸妈了\n反正有我哥啊\n我毕业就卷一笔钱润出去了\n不要说我白眼狼\n如果没有我妈打给高中班主任那通电话\n我根本就不会被当时的舍友言语霸凌\n虽然后面换宿舍了，也都是很好的人\n但有些阴影是不可能消散的\n而我爸😄\n他让一个曾经只是有点神经衰弱的我\n一步一步走到现在哦\n这个世界真有意思"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 917,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天喝了三杯瑞幸\n我觉着这玩意比什么抗抑郁药都要抗抑郁\n但我并不想理我爸妈了\n反正有我哥啊\n我毕业就卷一笔钱润出去了\n不要说我白眼狼\n如果没有我妈打给高中班主任那通电话\n我根本就不会被当时的舍友言语霸凌\n虽然后面换宿舍了，也都是很好的人\n但有些阴影是不可能消散的\n而我爸😄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n喜欢我想的话就给我一点钱吧不管多少都很感谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1945367514307059835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 270,
+          "like_count": 1744,
+          "listed_count": 5,
+          "media_count": 613,
+          "tweet_count": 2067
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "是碎碎念推和猫猫推丨游戏目前第五人格和一些单机丨嘤鹉：@SENDOH214丨梯子https://t.co/ual3P7s30o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "SENDOH214"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "dash.lineasia.top/#/register?cod…",
+                "end": 63,
+                "expanded_url": "https://dash.lineasia.top/#/register?code=U8x8snvo",
+                "start": 40,
+                "url": "https://t.co/ual3P7s30o"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "天空",
+        "name": "爱礼",
+        "pinned_tweet_id": "1965345418428252548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40468,
+          "following_count": 1078,
+          "like_count": 23716,
+          "listed_count": 49,
+          "media_count": 2644,
+          "tweet_count": 30175
+        },
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

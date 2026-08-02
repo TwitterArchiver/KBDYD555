@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2074752155765055969",
+    "created_at": "2026-07-09T06:08:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T07:08:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075099740178727252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1681291652777021441",
+          "start": 0,
+          "username": "xiao10584"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075099740178727252",
+    "in_reply_to_user_id": "1681291652777021441",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074817132735647783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiao10584 是的是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2074752155765055969",
+        "created_at": "2026-07-09T06:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075099740178727252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1681291652777021441",
+              "start": 0,
+              "username": "xiao10584"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075099740178727252",
+        "in_reply_to_user_id": "1681291652777021441",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074817132735647783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiao10584 是的是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681291652777021441",
+        "conversation_id": "2074752155765055969",
+        "created_at": "2026-07-08T11:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074817132735647783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074817132735647783",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074752155765055969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 这个葡萄味的还行。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫：@kokocat_9 遭举报冻结...现世成分:🚬/ed/🩸/🐭/🐶/🐱...互关回来吧...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 🩵亲友@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 128,
+                "start": 119,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2072889837548712297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4516,
+          "following_count": 644,
+          "like_count": 5136,
+          "listed_count": 8,
+          "media_count": 1037,
+          "tweet_count": 3888
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-18T13:15:52.000Z",
+        "description": "间歇性踌躇满志，持续性躺平摆烂。",
+        "id": "1681291652777021441",
+        "location": "中国泉州",
+        "name": "肖遥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071698984507502592/QhlHcGKQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 122,
+          "like_count": 16288,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 993
+        },
+        "url": "",
+        "username": "xiao10584",
+        "verified": false
+      }
+    ]
+  }
+}

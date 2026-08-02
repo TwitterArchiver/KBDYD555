@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1947273934103081288",
+    "created_at": "2025-07-22T04:50:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T05:50:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947519648746115392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1771230355896561664",
+          "start": 0,
+          "username": "in2dkira"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947519648746115392",
+    "in_reply_to_user_id": "1771230355896561664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947348044376379679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@in2dkira 我就是随便缝，让伤口合起来就行了😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1947273934103081288",
+        "created_at": "2025-07-22T04:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T05:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947519648746115392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1771230355896561664",
+              "start": 0,
+              "username": "in2dkira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947519648746115392",
+        "in_reply_to_user_id": "1771230355896561664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947348044376379679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@in2dkira 我就是随便缝，让伤口合起来就行了😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771230355896561664",
+        "conversation_id": "1947273934103081288",
+        "created_at": "2025-07-21T17:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T18:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947348044376379679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947348044376379679",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947273934103081288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 怎么缝啊 我不缝好丑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世是碎碎念推/老鼠推/小狗推\n互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆｜小狗:小乖/小眉\n想让我生活好一点的话就给我一点钱吧谢谢你",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1945367514307059835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1394,
+          "following_count": 221,
+          "like_count": 1161,
+          "listed_count": 3,
+          "media_count": 453,
+          "tweet_count": 1346
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T17:40:16.000Z",
+        "description": "前@Akira_10190208",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 1,
+                "username": "Akira_10190208"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/y20QcgJ",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/y20QcgJ",
+                "start": 0,
+                "url": "https://t.co/6QBGLH6G9I"
+              }
+            ]
+          }
+        },
+        "id": "1771230355896561664",
+        "location": "奈落",
+        "name": "Akira 源_office",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904357455104258048/8U1s5amP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 106,
+          "like_count": 3991,
+          "listed_count": 2,
+          "media_count": 366,
+          "tweet_count": 1637
+        },
+        "url": "https://t.co/6QBGLH6G9I",
+        "username": "in2dkira",
+        "verified": false
+      }
+    ]
+  }
+}

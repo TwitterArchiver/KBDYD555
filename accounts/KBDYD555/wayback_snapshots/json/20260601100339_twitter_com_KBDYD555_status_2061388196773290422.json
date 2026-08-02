@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2061388196773290422",
+    "created_at": "2026-06-01T10:03:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T11:03:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061388196773290422"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KBDYD555/statu…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/KBDYD555/status/2031302686671515896",
+          "start": 28,
+          "url": "https://t.co/lGhy566sYE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061388196773290422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031302686671515896",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎我真有点缺钱我的鼠鼠一直生病我药费一直在增加.... https://t.co/lGhy566sYE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1037,
+        "media_key": "3_2031302683941130240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDCjB1ub0AAicds.jpg",
+        "width": 1037
+      },
+      {
+        "height": 1620,
+        "media_key": "3_2031302684368891904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDCjB3Ua8AAw-fG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2061388196773290422",
+        "created_at": "2026-06-01T10:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T11:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061388196773290422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KBDYD555/statu…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/KBDYD555/status/2031302686671515896",
+              "start": 28,
+              "url": "https://t.co/lGhy566sYE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061388196773290422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031302686671515896",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎我真有点缺钱我的鼠鼠一直生病我药费一直在增加.... https://t.co/lGhy566sYE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031302683941130240",
+            "3_2031302684368891904"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "2031302686671515896",
+        "created_at": "2026-03-10T09:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T10:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031302686671515896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0LtKgZAXRq",
+              "end": 51,
+              "expanded_url": "https://x.com/KBDYD555/status/2031302686671515896/photo/1",
+              "media_key": "3_2031302683941130240",
+              "start": 28,
+              "url": "https://t.co/0LtKgZAXRq"
+            },
+            {
+              "display_url": "pic.x.com/0LtKgZAXRq",
+              "end": 51,
+              "expanded_url": "https://x.com/KBDYD555/status/2031302686671515896/photo/1",
+              "media_key": "3_2031302684368891904",
+              "start": 28,
+              "url": "https://t.co/0LtKgZAXRq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031302686671515896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 17531,
+          "like_count": 31,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "有没有好心人想帮我和鼠鼠改善生活...不管多少都很感谢 https://t.co/0LtKgZAXRq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫：@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/鼠/狗/猫twt....互关回来吧...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 🩵@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 135,
+                "start": 126,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2031302686671515896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3852,
+          "following_count": 576,
+          "like_count": 4630,
+          "listed_count": 7,
+          "media_count": 973,
+          "tweet_count": 3581
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

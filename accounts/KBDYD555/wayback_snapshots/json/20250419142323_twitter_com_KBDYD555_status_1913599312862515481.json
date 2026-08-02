@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1913599308433362944",
+        "3_1913599309867786240"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "conversation_id": "1913599312862515481",
+    "created_at": "2025-04-19T14:23:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T15:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913599312862515481"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0bYims9VZH",
+          "end": 37,
+          "expanded_url": "https://x.com/KBDYD555/status/1913599312862515481/photo/1",
+          "media_key": "3_1913599308433362944",
+          "start": 14,
+          "url": "https://t.co/0bYims9VZH"
+        },
+        {
+          "display_url": "pic.x.com/0bYims9VZH",
+          "end": 37,
+          "expanded_url": "https://x.com/KBDYD555/status/1913599312862515481/photo/1",
+          "media_key": "3_1913599309867786240",
+          "start": 14,
+          "url": "https://t.co/0bYims9VZH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913599312862515481",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "春卷！小糯！胖鼠鼠胖鼠鼠！ https://t.co/0bYims9VZH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1913599308433362944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go54bq2akAAyLot.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1913599309867786240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go54bwMaIAAyvAv.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913599308433362944",
+            "3_1913599309867786240"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "1913599312862515481",
+        "created_at": "2025-04-19T14:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T15:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913599312862515481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0bYims9VZH",
+              "end": 37,
+              "expanded_url": "https://x.com/KBDYD555/status/1913599312862515481/photo/1",
+              "media_key": "3_1913599308433362944",
+              "start": 14,
+              "url": "https://t.co/0bYims9VZH"
+            },
+            {
+              "display_url": "pic.x.com/0bYims9VZH",
+              "end": 37,
+              "expanded_url": "https://x.com/KBDYD555/status/1913599312862515481/photo/1",
+              "media_key": "3_1913599309867786240",
+              "start": 14,
+              "url": "https://t.co/0bYims9VZH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913599312862515481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "春卷！小糯！胖鼠鼠胖鼠鼠！ https://t.co/0bYims9VZH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "Rats！！！shtwt｜edtwt｜rat twt\n我是99转世啊啊寻找前世互关\nhere is my life with my rats hope u like my pet rats🐭🥰\n看我不顺眼就屏蔽别骂我也别举报谢谢\n想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭",
+        "name": "🐭老鼠国王（卖老鼠版）",
+        "pinned_tweet_id": "1908155806362808813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 157,
+          "like_count": 299,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 398
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

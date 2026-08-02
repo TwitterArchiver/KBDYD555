@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2072953414330593359",
+    "created_at": "2026-07-05T01:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T02:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073583169480327194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2065785222575398912",
+          "start": 0,
+          "username": "muhainai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073583169480327194",
+    "in_reply_to_user_id": "2065785222575398912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073559309531975685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@muhainai 唉我已没招"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2072953414330593359",
+        "created_at": "2026-07-05T01:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T02:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073583169480327194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2065785222575398912",
+              "start": 0,
+              "username": "muhainai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073583169480327194",
+        "in_reply_to_user_id": "2065785222575398912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073559309531975685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@muhainai 唉我已没招"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065785222575398912",
+        "conversation_id": "2072953414330593359",
+        "created_at": "2026-07-05T00:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T01:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073559309531975685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073559309531975685",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 277,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072953414330593359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 我己经见到不下五六个老外，带着你的帖子，说你这个烟的了，有骂你(甚至上升到了骂中国人)说把烟这种伤害身体的东西当礼物什么什么的😥，也有说想去中国旅游尝尝的😄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫：@kokocat_9 遭举报冻结...现世成分:🚬/ed/🩸/🐭/🐶/🐱...互关回来吧...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 🩵亲友@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 128,
+                "start": 119,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2072889837548712297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4361,
+          "following_count": 635,
+          "like_count": 5022,
+          "listed_count": 8,
+          "media_count": 1022,
+          "tweet_count": 3791
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-13T13:18:12.000Z",
+        "description": "",
+        "id": "2065785222575398912",
+        "name": "沐海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065967180009918464/ziwHWqNj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 22,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "muhainai",
+        "verified": false
+      }
+    ]
+  }
+}

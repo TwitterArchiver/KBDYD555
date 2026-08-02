@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1888842858591084867",
+    "created_at": "2025-02-11T01:35:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T02:35:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889126107892560322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1400921726104571914",
+          "start": 0,
+          "username": "gorgeousdeath06"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889126107892560322",
+    "in_reply_to_user_id": "1400921726104571914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888842858591084867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gorgeousdeath06 天啊好厉害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1888842858591084867",
+        "created_at": "2025-02-11T01:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T02:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889126107892560322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1400921726104571914",
+              "start": 0,
+              "username": "gorgeousdeath06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889126107892560322",
+        "in_reply_to_user_id": "1400921726104571914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888842858591084867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gorgeousdeath06 天啊好厉害"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1888842830296354816"
+          ]
+        },
+        "author_id": "1400921726104571914",
+        "conversation_id": "1888842858591084867",
+        "created_at": "2025-02-10T06:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T07:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888842858591084867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XnGj8A4fHZ",
+              "end": 42,
+              "expanded_url": "https://x.com/gorgeousdeath06/status/1888842858591084867/video/1",
+              "media_key": "7_1888842830296354816",
+              "start": 19,
+              "url": "https://t.co/XnGj8A4fHZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888842858591084867",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 13376,
+          "like_count": 1409,
+          "quote_count": 4,
+          "reply_count": 8,
+          "retweet_count": 126
+        },
+        "reply_settings": "everyone",
+        "text": "(ˊo̴̶̷̤  ̫ o̴̶̷̤ˋ) https://t.co/XnGj8A4fHZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "这个号是避难所，什么都会发\n看我不顺眼就屏蔽别骂我也别举报谢谢\n想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "地獄",
+        "name": "九九（避难版）",
+        "pinned_tweet_id": "1888816593129603314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662012310284820483/8dPzjtSE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 84,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 55
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-04T21:05:49.000Z",
+        "description": "我是生气的小红鸟〔5.0重生版〕之前账号被盗了，4.0被封号了 希望可以找回之前的大家\n这里是个发疯的小号／持续吐黑水 大量阴暗发言‖自残行为 负能注意⚠️",
+        "id": "1400921726104571914",
+        "name": "〔5.0重生版〕就这样华丽的在垃圾桶里死去吧",
+        "pinned_tweet_id": "1884538895171498054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884537515455180801/twFAKlI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 197,
+          "like_count": 250,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 51
+        },
+        "username": "gorgeousdeath06",
+        "verified": false
+      }
+    ]
+  }
+}

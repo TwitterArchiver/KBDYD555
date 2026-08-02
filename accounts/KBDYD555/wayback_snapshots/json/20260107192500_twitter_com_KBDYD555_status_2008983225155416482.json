@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2008861531187077591",
+    "created_at": "2026-01-07T19:25:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T20:25:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008983225155416482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1828473720555659264",
+          "start": 0,
+          "username": "Xux899"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008983225155416482",
+    "in_reply_to_user_id": "1828473720555659264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008979335735333104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xux899 特别对啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2008861531187077591",
+        "created_at": "2026-01-07T19:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T20:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008983225155416482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1828473720555659264",
+              "start": 0,
+              "username": "Xux899"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008983225155416482",
+        "in_reply_to_user_id": "1828473720555659264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008979335735333104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xux899 特别对啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828473720555659264",
+        "conversation_id": "2008861531187077591",
+        "created_at": "2026-01-07T19:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T20:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008979335735333104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008979335735333104",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008861531187077591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 想要结束的是痛苦而不是生命。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2006653674378924480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3309,
+          "following_count": 297,
+          "like_count": 2556,
+          "listed_count": 9,
+          "media_count": 726,
+          "tweet_count": 2576
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-27T16:44:57.000Z",
+        "description": "",
+        "id": "1828473720555659264",
+        "name": "♡",
+        "pinned_tweet_id": "2008208428385354154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008937677308268544/gmg4_J0t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 6,
+          "like_count": 985,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 287
+        },
+        "username": "Xux899",
+        "verified": false
+      }
+    ]
+  }
+}

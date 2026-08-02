@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2075560580828807677",
+    "created_at": "2026-07-10T12:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T13:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075560580828807677"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rrxbij484/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/rrxbij484/status/2075474382831616261",
+          "start": 12,
+          "url": "https://t.co/oF5v78ZOKO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075560580828807677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075474382831616261",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "帮这个惨惨的小宝宝转转 https://t.co/oF5v78ZOKO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2075560580828807677",
+        "created_at": "2026-07-10T12:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075560580828807677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rrxbij484/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/rrxbij484/status/2075474382831616261",
+              "start": 12,
+              "url": "https://t.co/oF5v78ZOKO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075560580828807677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075474382831616261",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帮这个惨惨的小宝宝转转 https://t.co/oF5v78ZOKO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074192528597786624",
+        "conversation_id": "2075474382831616261",
+        "created_at": "2026-07-10T06:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T07:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075474382831616261"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075474382831616261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要慢慢找回前世互关啊啊啊啊啊这次能不能让我活个两年"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫遭举报冻结...🚬/🩸/ed/🐭/🐶/🐱...互关欢迎会查成分...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 🩵亲友@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2072889837548712297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4538,
+          "following_count": 651,
+          "like_count": 5178,
+          "listed_count": 8,
+          "media_count": 1044,
+          "tweet_count": 3933
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-06T18:04:34.000Z",
+        "description": "我是诊疗室，转世重开5代目\n精神状态不稳定中\n自伤/药物过量/烟草重度依赖\n门槛收支付宝口令/wx赞赏码",
+        "id": "2074192528597786624",
+        "name": "诊疗室👾5.0",
+        "pinned_tweet_id": "2075471963049558441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075555268163952640/6M0d-5j9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 7,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "rrxbij484",
+        "verified": false
+      }
+    ]
+  }
+}

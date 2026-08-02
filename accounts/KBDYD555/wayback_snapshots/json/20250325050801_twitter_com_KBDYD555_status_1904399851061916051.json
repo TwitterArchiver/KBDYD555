@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1904399835824091136"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "conversation_id": "1904399851061916051",
+    "created_at": "2025-03-25T05:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T06:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1904399851061916051"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qjpDwSGpNA",
+          "end": 38,
+          "expanded_url": "https://x.com/KBDYD555/status/1904399851061916051/video/1",
+          "media_key": "7_1904399835824091136",
+          "start": 15,
+          "url": "https://t.co/qjpDwSGpNA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904399851061916051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "清相册发现一个意义不明的视频 https://t.co/qjpDwSGpNA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2729,
+        "height": 960,
+        "media_key": "7_1904399835824091136",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1904399835824091136/pu/img/h26ASfdiX4-k4If-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1904399835824091136/pu/vid/avc1/320x426/22Pt1-yIABCoochI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1904399835824091136/pu/vid/avc1/480x640/tDi9GJEAitRBbuij.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1904399835824091136/pu/vid/avc1/720x960/-o5GDjm38IWBkYnP.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1904399835824091136/pu/pl/uJ_GmNWbJ3tSav0f.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1904399835824091136"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "1904399851061916051",
+        "created_at": "2025-03-25T05:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T06:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904399851061916051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qjpDwSGpNA",
+              "end": 38,
+              "expanded_url": "https://x.com/KBDYD555/status/1904399851061916051/video/1",
+              "media_key": "7_1904399835824091136",
+              "start": 15,
+              "url": "https://t.co/qjpDwSGpNA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904399851061916051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "清相册发现一个意义不明的视频 https://t.co/qjpDwSGpNA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "shtwt｜edtwt｜rat twt\n我是99转世啊啊寻找前世互关\nhere is my life with my rats hope u like my pet rats🐭🥰\n看我不顺眼就屏蔽别骂我也别举报谢谢\n想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "地獄",
+        "name": "老鼠🐭rats bot（寻找前世互关版）",
+        "pinned_tweet_id": "1902382804052406487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 123,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 130
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1990133080171134976"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "conversation_id": "1990133113226228064",
+    "created_at": "2025-11-16T19:01:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T20:01:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990133113226228064"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PuZTmWgsDC",
+          "end": 25,
+          "expanded_url": "https://x.com/KBDYD555/status/1990133113226228064/video/1",
+          "media_key": "7_1990133080171134976",
+          "start": 2,
+          "url": "https://t.co/PuZTmWgsDC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990133113226228064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "窗 https://t.co/PuZTmWgsDC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15049,
+        "height": 720,
+        "media_key": "7_1990133080171134976",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1990133080171134976/pu/img/B-9rQTZQF7Vlkj0U.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1990133080171134976/pu/vid/avc1/480x270/bPtu15JJwOfLGtUo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1990133080171134976/pu/vid/avc1/640x360/yMGWUiO7_eDs06fu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1990133080171134976/pu/vid/avc1/1280x720/4GQPfUZV-hKXQrIZ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1990133080171134976/pu/pl/KY6ZAW4h6ccGOHuQ.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1990133080171134976"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "1990133113226228064",
+        "created_at": "2025-11-16T19:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T20:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990133113226228064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PuZTmWgsDC",
+              "end": 25,
+              "expanded_url": "https://x.com/KBDYD555/status/1990133113226228064/video/1",
+              "media_key": "7_1990133080171134976",
+              "start": 2,
+              "url": "https://t.co/PuZTmWgsDC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990133113226228064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "窗 https://t.co/PuZTmWgsDC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n喜欢我的话就给我钱吧不管多少都很感谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1974847135830163600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3325,
+          "following_count": 293,
+          "like_count": 2455,
+          "listed_count": 10,
+          "media_count": 717,
+          "tweet_count": 2521
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

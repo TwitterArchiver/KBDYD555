@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1904181201906311168"
+      ],
+      "media_source_tweet_id": [
+        "1904181216036983293"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "conversation_id": "1904187096686059690",
+    "created_at": "2025-03-24T15:02:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T16:02:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904187096686059690"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 78,
+          "start": 75,
+          "tag": "萝莉"
+        },
+        {
+          "end": 82,
+          "start": 79,
+          "tag": "粉嫩"
+        },
+        {
+          "end": 89,
+          "start": 84,
+          "tag": "小狗日记"
+        },
+        {
+          "end": 93,
+          "start": 90,
+          "tag": "文爱"
+        },
+        {
+          "end": 98,
+          "start": 94,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 102,
+          "start": 99,
+          "tag": "女儿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1882503926228090880",
+          "start": 3,
+          "username": "puppy_xzl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MYFvjGM5Ve",
+          "end": 126,
+          "expanded_url": "https://x.com/puppy_xzl/status/1904181216036983293/photo/1",
+          "media_key": "3_1904181201906311168",
+          "start": 103,
+          "url": "https://t.co/MYFvjGM5Ve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904187096686059690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904181216036983293",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @puppy_xzl: 过我最高的门我一辈子都和你聊天天天围着你转 你想要什么我都依你 照片视频给你拍视频语音通话随便打 我是你的专属小狗狗 🐶#萝莉 #粉嫩  #小狗日记 #文爱 #门槛妹 #女儿 https://t.co/MYFvjGM5Ve"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1904187096686059690].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1904187096686059690",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1904187096686059690"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1501,
+        "media_key": "3_1904181201906311168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm0Ctt-aIAA_u35.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904181201906311168"
+          ]
+        },
+        "author_id": "1882503926228090880",
+        "conversation_id": "1904181216036983293",
+        "created_at": "2025-03-24T14:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T15:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904181216036983293"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "萝莉"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "粉嫩"
+            },
+            {
+              "end": 74,
+              "start": 69,
+              "tag": "小狗日记"
+            },
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "文爱"
+            },
+            {
+              "end": 83,
+              "start": 79,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 87,
+              "start": 84,
+              "tag": "女儿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MYFvjGM5Ve",
+              "end": 111,
+              "expanded_url": "https://x.com/puppy_xzl/status/1904181216036983293/photo/1",
+              "media_key": "3_1904181201906311168",
+              "start": 88,
+              "url": "https://t.co/MYFvjGM5Ve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904181216036983293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "过我最高的门我一辈子都和你聊天天天围着你转 你想要什么我都依你 照片视频给你拍视频语音通话随便打 我是你的专属小狗狗 🐶#萝莉 #粉嫩  #小狗日记 #文爱 #门槛妹 #女儿 https://t.co/MYFvjGM5Ve"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "shtwt｜edtwt｜rat twt\n我是99转世啊啊寻找前世互关\nhere is my life with my rats hope u like my pet rats🐭🥰\n看我不顺眼就屏蔽别骂我也别举报谢谢\n想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "地獄",
+        "name": "老鼠🐭rats bot（寻找前世互关版）",
+        "pinned_tweet_id": "1902382804052406487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 123,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 130
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T19:02:04.000Z",
+        "description": "睡醒经常被风所以小真理的建议是过门享永久！06 乖brat 反差狗狗 ddlg 钱是我生命🐾",
+        "id": "1882503926228090880",
+        "location": "🚪99 189 289",
+        "name": "鼠鼠泪",
+        "pinned_tweet_id": "1888879545371201866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888793028862853120/RCAvbQka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 35,
+          "like_count": 1093,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 161
+        },
+        "username": "puppy_xzl",
+        "verified": false
+      }
+    ]
+  }
+}

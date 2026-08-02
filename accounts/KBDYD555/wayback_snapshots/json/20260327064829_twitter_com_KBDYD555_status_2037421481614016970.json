@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2037420405640634490",
+    "created_at": "2026-03-27T06:48:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T07:48:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037421481614016970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1984971479210229760",
+          "start": 0,
+          "username": "yotamadkilla"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037421481614016970",
+    "in_reply_to_user_id": "1984971479210229760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037420405640634490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yotamadkilla 是啊...选择自杀的人都是绝望才一死了之的吧这么难过的事为什么要扯美感...."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2037420405640634490",
+        "created_at": "2026-03-27T06:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037421481614016970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1984971479210229760",
+              "start": 0,
+              "username": "yotamadkilla"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037421481614016970",
+        "in_reply_to_user_id": "1984971479210229760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037420405640634490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yotamadkilla 是啊...选择自杀的人都是绝望才一死了之的吧这么难过的事为什么要扯美感...."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984971479210229760",
+        "conversation_id": "2037420405640634490",
+        "created_at": "2026-03-27T06:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037420405640634490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kbdyd555/statu…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/kbdyd555/status/2037419136889041324",
+              "start": 29,
+              "url": "https://t.co/r9cuPMPMsi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037420405640634490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037419136889041324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我一直都觉得自杀和美感沾边这事儿哪儿不太对 这很诡异 https://t.co/r9cuPMPMsi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫：@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/花枝鼠....互关回来吧...（Eng🆗）存图账号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 86,
+                "start": 78,
+                "username": "kyuukoQ"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2031302686671515896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3724,
+          "following_count": 448,
+          "like_count": 3963,
+          "listed_count": 9,
+          "media_count": 917,
+          "tweet_count": 3317
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-02T13:11:14.000Z",
+        "description": "じっぱひとからげの未来.com",
+        "id": "1984971479210229760",
+        "location": "Earth",
+        "name": "ァмē寔初喑鮇麳Оㄩ 哪吒仙饮推特总代理",
+        "pinned_tweet_id": "2036975040575468010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031567392875139072/ER4iba2U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 462,
+          "like_count": 34831,
+          "listed_count": 0,
+          "media_count": 425,
+          "tweet_count": 11058
+        },
+        "username": "yotamadkilla",
+        "verified": false
+      }
+    ]
+  }
+}

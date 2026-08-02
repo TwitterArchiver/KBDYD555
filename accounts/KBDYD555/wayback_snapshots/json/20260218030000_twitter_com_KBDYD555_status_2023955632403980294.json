@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2023784772754161834",
+    "created_at": "2026-02-18T03:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T04:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023955632403980294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1743330426985594881",
+          "start": 0,
+          "username": "jianggejiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023955632403980294",
+    "in_reply_to_user_id": "1743330426985594881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023784772754161834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianggejiang 妈呀居然是无糖吗我要买来吃了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023784768945668097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBXthl7aQAEjfS5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2023784772754161834",
+        "created_at": "2026-02-18T03:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T04:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023955632403980294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1743330426985594881",
+              "start": 0,
+              "username": "jianggejiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023955632403980294",
+        "in_reply_to_user_id": "1743330426985594881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023784772754161834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianggejiang 妈呀居然是无糖吗我要买来吃了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023784768945668097"
+          ]
+        },
+        "author_id": "1743330426985594881",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2023784772754161834",
+        "created_at": "2026-02-17T15:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T16:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023784772754161834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7NtpzukGFN",
+              "end": 81,
+              "expanded_url": "https://x.com/jianggejiang/status/2023784772754161834/photo/1",
+              "media_key": "3_2023784768945668097",
+              "start": 58,
+              "url": "https://t.co/7NtpzukGFN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023784772754161834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去这个好吃的要死 我之前拿的但是一直没拆开过 一打开焦糖奶油的味道超级浓 吃上去也是咸焦糖奶油的味道加一点点薄荷 https://t.co/7NtpzukGFN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/花枝鼠....互关回来吧...（Eng🆗）存图账号：@kyuukoQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 79,
+                "start": 71,
+                "username": "kyuukoQ"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2014999363500822659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3478,
+          "following_count": 410,
+          "like_count": 3489,
+          "listed_count": 9,
+          "media_count": 871,
+          "tweet_count": 3108
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-05T17:55:57.000Z",
+        "description": "烟代找我 外烟电子烟💚\n-叫我姜鴿江/阿团/Juno/J \nCN/ENG🤏\n从你妈逼良\n英文号:@jiangziqiqqq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "jiangziqiqqq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianggejiang35…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianggejiang35588",
+                "start": 0,
+                "url": "https://t.co/N7YdqNMa1I"
+              }
+            ]
+          }
+        },
+        "id": "1743330426985594881",
+        "location": "Ion Jupiter",
+        "name": "姜鸽江",
+        "pinned_tweet_id": "2006394995960578049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009286095666909184/pgYHbdAK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 745,
+          "like_count": 2239,
+          "listed_count": 1,
+          "media_count": 369,
+          "tweet_count": 2231
+        },
+        "url": "https://t.co/N7YdqNMa1I",
+        "username": "jianggejiang",
+        "verified": false
+      }
+    ]
+  }
+}

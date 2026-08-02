@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2075154940247539995",
+    "created_at": "2026-07-09T11:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T12:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075183715232399514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1795439727770042368",
+          "start": 0,
+          "username": "Northstar_ZL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075183715232399514",
+    "in_reply_to_user_id": "1795439727770042368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075164618008469890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Northstar_ZL 让我抽一根🙀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2075164608764243968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMx3N4va8AA469h.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2075154940247539995",
+        "created_at": "2026-07-09T11:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075183715232399514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1795439727770042368",
+              "start": 0,
+              "username": "Northstar_ZL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075183715232399514",
+        "in_reply_to_user_id": "1795439727770042368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075164618008469890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Northstar_ZL 让我抽一根🙀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075164608764243968"
+          ]
+        },
+        "author_id": "1795439727770042368",
+        "conversation_id": "2075154940247539995",
+        "created_at": "2026-07-09T10:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075164618008469890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xzn8ZNGC2c",
+              "end": 49,
+              "expanded_url": "https://x.com/Northstar_ZL/status/2075164618008469890/photo/1",
+              "media_key": "3_2075164608764243968",
+              "start": 26,
+              "url": "https://t.co/Xzn8ZNGC2c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075164618008469890",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075154940247539995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 阿里山青柠可乐，颜值口味都在线 https://t.co/Xzn8ZNGC2c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫遭举报冻结...🚬/🩸/ed/🐭/🐶/🐱...互关欢迎会查成分...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 🩵亲友@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2072889837548712297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4520,
+          "following_count": 644,
+          "like_count": 5147,
+          "listed_count": 8,
+          "media_count": 1039,
+          "tweet_count": 3899
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T12:59:39.000Z",
+        "description": "最愛成田大進",
+        "id": "1795439727770042368",
+        "name": "Northstar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849126665785606144/Kfx0r7JO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 383,
+          "like_count": 746,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "Northstar_ZL",
+        "verified": false
+      }
+    ]
+  }
+}

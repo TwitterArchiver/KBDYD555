@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1983168907612697011",
+    "created_at": "2025-10-28T18:33:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T19:33:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983240676793036832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1970862541959319552",
+          "start": 0,
+          "username": "jiu186420810979"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983240676793036832",
+    "in_reply_to_user_id": "1970862541959319552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983216151883546936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiu186420810979 用11号手术刀的尖尖一点点刻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1983168907612697011",
+        "created_at": "2025-10-28T18:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T19:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983240676793036832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970862541959319552",
+              "start": 0,
+              "username": "jiu186420810979"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983240676793036832",
+        "in_reply_to_user_id": "1970862541959319552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983216151883546936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu186420810979 用11号手术刀的尖尖一点点刻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970862541959319552",
+        "conversation_id": "1983168907612697011",
+        "created_at": "2025-10-28T16:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T17:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983216151883546936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983216151883546936",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983168907612697011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 好可爱好可爱 问问像这样的图案是怎么割的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n喜欢我的话就给我钱吧不管多少都很感谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1974847135830163600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2671,
+          "following_count": 299,
+          "like_count": 2337,
+          "listed_count": 8,
+          "media_count": 717,
+          "tweet_count": 2500
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:47:14.000Z",
+        "description": "这里是欣欣请过我🚪喵\n可以语音验证视频验证 可以陪你聊天但是不能视频（我感觉自己丑丑的）\n 接非绿（钞能力）\n🚪88 欢迎女孩子和我互转",
+        "id": "1970862541959319552",
+        "location": "🚪88纯绿",
+        "name": "唉 欣欣",
+        "pinned_tweet_id": "1978473254500335624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974704398845829120/vbmCZH4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 15,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 77
+        },
+        "username": "jiu186420810979",
+        "verified": false
+      }
+    ]
+  }
+}

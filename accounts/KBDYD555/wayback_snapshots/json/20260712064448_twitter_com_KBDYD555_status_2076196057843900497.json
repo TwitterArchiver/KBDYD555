@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2076153662217535739",
+    "created_at": "2026-07-12T06:44:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T07:44:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076196057843900497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1277261255523303424",
+          "start": 0,
+          "username": "MMPIvMW3bF5Iqng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076196057843900497",
+    "in_reply_to_user_id": "1277261255523303424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076184426132717654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MMPIvMW3bF5Iqng 很痛啊动不了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2076153662217535739",
+        "created_at": "2026-07-12T06:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076196057843900497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1277261255523303424",
+              "start": 0,
+              "username": "MMPIvMW3bF5Iqng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076196057843900497",
+        "in_reply_to_user_id": "1277261255523303424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076184426132717654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MMPIvMW3bF5Iqng 很痛啊动不了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1277261255523303424",
+        "conversation_id": "2076153662217535739",
+        "created_at": "2026-07-12T05:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T06:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076184426132717654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076184426132717654",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076153662217535739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 ？不影响吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫遭举报冻结...🚬/🩸/ed/🐭/🐶/🐱...互关欢迎会查成分...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 聊天先过门吧我没什么多余精力了🩵亲友@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2072889837548712297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4552,
+          "following_count": 652,
+          "like_count": 5215,
+          "listed_count": 8,
+          "media_count": 1044,
+          "tweet_count": 3962
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-28T15:23:23.000Z",
+        "description": "no kiss ,no kiss,no kiss",
+        "id": "1277261255523303424",
+        "name": "怡口糖三包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793602689252904960/Jq3_SKlc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 456,
+          "like_count": 8440,
+          "listed_count": 8,
+          "media_count": 393,
+          "tweet_count": 31288
+        },
+        "url": "",
+        "username": "MMPIvMW3bF5Iqng",
+        "verified": false
+      }
+    ]
+  }
+}

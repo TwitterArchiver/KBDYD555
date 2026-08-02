@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1961237066014191908",
+    "created_at": "2025-08-29T12:50:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T13:50:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961411193312080004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2725637629",
+          "start": 0,
+          "username": "1553741523"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961411193312080004",
+    "in_reply_to_user_id": "2725637629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961270704944590979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1553741523 有美颜啦...🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1961237066014191908",
+        "created_at": "2025-08-29T12:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T13:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961411193312080004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2725637629",
+              "start": 0,
+              "username": "1553741523"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961411193312080004",
+        "in_reply_to_user_id": "2725637629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961270704944590979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1553741523 有美颜啦...🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2725637629",
+        "conversation_id": "1961237066014191908",
+        "created_at": "2025-08-29T03:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T04:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961270704944590979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961270704944590979",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961237066014191908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 老师你皮肤好好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n喜欢我想的话就给我一点钱吧不管多少都很感谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1945367514307059835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 264,
+          "like_count": 1559,
+          "listed_count": 5,
+          "media_count": 583,
+          "tweet_count": 1852
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-12T07:06:24.000Z",
+        "description": "",
+        "id": "2725637629",
+        "location": "Saitama-shi Minuma-ku, Saitama",
+        "name": "🎉🎉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1473872103048761345/VRv3BTUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 549,
+          "like_count": 2580,
+          "listed_count": 10,
+          "media_count": 19,
+          "tweet_count": 1002
+        },
+        "username": "1553741523",
+        "verified": false
+      }
+    ]
+  }
+}

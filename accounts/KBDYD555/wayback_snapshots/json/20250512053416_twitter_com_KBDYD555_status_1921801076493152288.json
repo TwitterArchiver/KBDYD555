@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1921800936286310400"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "conversation_id": "1921801076493152288",
+    "created_at": "2025-05-12T05:34:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T06:34:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1921801076493152288"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kjk6P9qzUN",
+          "end": 29,
+          "expanded_url": "https://x.com/KBDYD555/status/1921801076493152288/video/1",
+          "media_key": "7_1921800936286310400",
+          "start": 6,
+          "url": "https://t.co/Kjk6P9qzUN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921801076493152288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "油腻男陪睡 https://t.co/Kjk6P9qzUN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 58773,
+        "height": 1280,
+        "media_key": "7_1921800936286310400",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1921800936286310400/pu/img/MwOQsVGe1OYEGFqx.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1921800936286310400/pu/vid/avc1/320x568/74Pvr-3E0ZNLfNOD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1921800936286310400/pu/vid/avc1/480x852/nOzq5egEDqMKgQZf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1921800936286310400/pu/vid/avc1/720x1280/nXisouzaGKcVFQ_9.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1921800936286310400/pu/pl/6XkS3Czp5OnmbMBW.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1921800936286310400"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "1921801076493152288",
+        "created_at": "2025-05-12T05:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T06:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921801076493152288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kjk6P9qzUN",
+              "end": 29,
+              "expanded_url": "https://x.com/KBDYD555/status/1921801076493152288/video/1",
+              "media_key": "7_1921800936286310400",
+              "start": 6,
+              "url": "https://t.co/Kjk6P9qzUN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921801076493152288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "油腻男陪睡 https://t.co/Kjk6P9qzUN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99转世 现世是碎碎念推/老鼠推\n喜欢老鼠请关注我....\nhere is my life with my rats🐭🥰\n我的老鼠有：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n看我不顺眼就屏蔽别骂我也别举报，想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭🚪52r",
+        "name": "🐭老鼠国王(Rats!",
+        "pinned_tweet_id": "1915758775098826913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 175,
+          "like_count": 485,
+          "listed_count": 3,
+          "media_count": 232,
+          "tweet_count": 715
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

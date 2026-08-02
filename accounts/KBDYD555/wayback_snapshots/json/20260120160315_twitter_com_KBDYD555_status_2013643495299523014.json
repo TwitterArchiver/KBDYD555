@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2013513677190897867",
+    "created_at": "2026-01-20T16:03:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T17:03:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013643495299523014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1964111090540802049",
+          "start": 0,
+          "username": "ni342485"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013643495299523014",
+    "in_reply_to_user_id": "1964111090540802049",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013621563602387410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ni342485 trur😢painful！🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2013513677190897867",
+        "created_at": "2026-01-20T16:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T17:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013643495299523014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1964111090540802049",
+              "start": 0,
+              "username": "ni342485"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013643495299523014",
+        "in_reply_to_user_id": "1964111090540802049",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013621563602387410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ni342485 trur😢painful！🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964111090540802049",
+        "conversation_id": "2013513677190897867",
+        "created_at": "2026-01-20T14:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T15:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013621563602387410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013621563602387410",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013513677190897867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 I hope you feel better soon 🫶🏽 I remember crying during the healing process after getting my wisdom teeth removed. It was truly unbearable."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...现世成分:碎碎念/花枝鼠/sh/ed/od/高p/负能量/杂乱日常/偶尔画画....互关回来吧...",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2006653674378924480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3328,
+          "following_count": 330,
+          "like_count": 2816,
+          "listed_count": 9,
+          "media_count": 760,
+          "tweet_count": 2711
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T23:39:27.000Z",
+        "description": "Mini diary! ✟ shedtwt ✟ Bipolar 2 ✟ deranged ✟ Non shedtwt dni ✟ Certified dumbass ✟ 24（๑⃙⃘´༥`๑⃙⃘) Binge free: 29 days",
+        "id": "1964111090540802049",
+        "name": "꒰ঌ Kora is Afraid ໒꒱",
+        "pinned_tweet_id": "2012918087297691925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012664080692084736/hefG0g6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 79,
+          "like_count": 5613,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 883
+        },
+        "username": "ni342485",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1926982325310574786",
+    "created_at": "2025-05-26T13:21:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T14:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926992178821099532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878356855975723008",
+          "start": 0,
+          "username": "ugglasquest"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926992178821099532",
+    "in_reply_to_user_id": "1878356855975723008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926991726008225859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ugglasquest 哼哼哼我当时特别喜欢这个，现在都消了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1926982325310574786",
+        "created_at": "2025-05-26T13:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T14:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926992178821099532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878356855975723008",
+              "start": 0,
+              "username": "ugglasquest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926992178821099532",
+        "in_reply_to_user_id": "1878356855975723008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926991726008225859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ugglasquest 哼哼哼我当时特别喜欢这个，现在都消了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878356855975723008",
+        "conversation_id": "1926982325310574786",
+        "created_at": "2025-05-26T13:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T14:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926991726008225859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926991726008225859",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926982325310574786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 😍😍好萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99转世 现世是碎碎念推/老鼠推/小狗推\n喜欢老鼠请关注我....\nhere is my life with my rats🐭🥰\n我的老鼠有：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆｜小狗🐶叫小乖\n想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭🚪52r",
+        "name": "🐭老鼠国王(Rats!",
+        "pinned_tweet_id": "1915758775098826913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 184,
+          "like_count": 639,
+          "listed_count": 3,
+          "media_count": 317,
+          "tweet_count": 940
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T08:22:54.000Z",
+        "description": "shtwt/edtwt  lesbian  流血推预警 ‼️正在学习如何当一个人类  偶尔会发一些自己的绘画作品   抑郁/强迫/焦虑障碍/人际交往障碍/适应障碍/边缘型人格障碍/依赖型人格障碍  ₍˄·͈༝·͈˄*₎◞ ̑̑悲哀的女同性恋",
+        "id": "1878356855975723008",
+        "location": "里世界 南望町",
+        "name": "Ugras ^q^",
+        "pinned_tweet_id": "1895427696458629354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906541696726470656/FGjk3Zfo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 58,
+          "like_count": 8479,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 1251
+        },
+        "username": "ugglasquest",
+        "verified": false
+      }
+    ]
+  }
+}

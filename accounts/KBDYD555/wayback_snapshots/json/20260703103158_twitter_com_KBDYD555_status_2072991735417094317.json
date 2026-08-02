@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2072835487975506214",
+    "created_at": "2026-07-03T10:31:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T11:31:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072991735417094317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1896812508289404928",
+          "start": 0,
+          "username": "erciyuanha87431"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072991735417094317",
+    "in_reply_to_user_id": "1896812508289404928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072975014341820498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@erciyuanha87431 好呀好呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2072835487975506214",
+        "created_at": "2026-07-03T10:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072991735417094317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1896812508289404928",
+              "start": 0,
+              "username": "erciyuanha87431"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072991735417094317",
+        "in_reply_to_user_id": "1896812508289404928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072975014341820498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@erciyuanha87431 好呀好呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896812508289404928",
+        "conversation_id": "2072835487975506214",
+        "created_at": "2026-07-03T09:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072975014341820498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072975014341820498",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072835487975506214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 我我我，我也是小老鼠\n我很喜欢小老鼠🥺\n我也喜欢你呀，我的朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫：@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/鼠/狗/猫twt....互关回来吧...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 🩵亲友@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2072889837548712297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3937,
+          "following_count": 636,
+          "like_count": 4948,
+          "listed_count": 6,
+          "media_count": 1017,
+          "tweet_count": 3741
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T06:38:52.000Z",
+        "description": "有ASD阿斯伯格综合症小老鼠一只🐀🤗～超级喜欢交朋友（包容万物支持平权主义🇨🇳推止于推）\n关爱🍥小药娘🏳️‍⚧️🏳️‍🌈🇨🇳（求互Of）\n重点：并未吃糖🍥\n我还牵挂着的：@siangel0911\n逃生舱：@zhoyhng276158\n干女儿：@gdioiui\n（我是泛性恋Pan，我感到骄傲和自豪）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "siangel0911"
+              },
+              {
+                "end": 116,
+                "start": 102,
+                "username": "zhoyhng276158"
+              },
+              {
+                "end": 129,
+                "start": 121,
+                "username": "gdioiui"
+              }
+            ]
+          }
+        },
+        "id": "1896812508289404928",
+        "location": "类固醇星球",
+        "name": "🐹宇航🐹（关爱药娘版🏳️‍⚧️🏳️‍🌈互Of）我❤️福瑞🌈）药圈教父🍥）人脉王🍥）",
+        "pinned_tweet_id": "2071620600670613854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024699703582224384/Oqfhnfhj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1252,
+          "following_count": 2282,
+          "like_count": 2568,
+          "listed_count": 3,
+          "media_count": 519,
+          "tweet_count": 4912
+        },
+        "url": "",
+        "username": "erciyuanha87431",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2016263065378160729",
+    "created_at": "2026-01-28T12:43:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T13:43:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016492363569602630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1528005407469346818",
+          "start": 0,
+          "username": "K1raK1ra818"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016492363569602630",
+    "in_reply_to_user_id": "1528005407469346818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016477767253291492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K1raK1ra818 含量高的我用过很难受😰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2016263065378160729",
+        "created_at": "2026-01-28T12:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T13:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016492363569602630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1528005407469346818",
+              "start": 0,
+              "username": "K1raK1ra818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016492363569602630",
+        "in_reply_to_user_id": "1528005407469346818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016477767253291492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K1raK1ra818 含量高的我用过很难受😰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528005407469346818",
+        "conversation_id": "2016263065378160729",
+        "created_at": "2026-01-28T11:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T12:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016477767253291492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016477767253291492",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016263065378160729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 這玩意還是建議買含量高點的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念/ED/sh/花枝鼠....互关回来吧...（Eng🆗）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2014999363500822659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3382,
+          "following_count": 356,
+          "like_count": 3051,
+          "listed_count": 9,
+          "media_count": 801,
+          "tweet_count": 2853
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-21T13:31:04.000Z",
+        "description": "病み垢。同類會回fo。來自火星。 無條件嘴臭。寵物：@anacciluno_ch  信徒：@Jaime_Rimi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "anacciluno_ch"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Jaime_Rimi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/K1raK1ra818",
+                "end": 23,
+                "expanded_url": "https://t.me/K1raK1ra818",
+                "start": 0,
+                "url": "https://t.co/dMCtcSHchg"
+              }
+            ]
+          }
+        },
+        "id": "1528005407469346818",
+        "name": "愛",
+        "pinned_tweet_id": "2016113417472335975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000211132230127616/XRMLJy6__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 590,
+          "like_count": 9204,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1923
+        },
+        "url": "https://t.co/dMCtcSHchg",
+        "username": "K1raK1ra818",
+        "verified": false
+      }
+    ]
+  }
+}

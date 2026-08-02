@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1921869628621389914",
+    "created_at": "2025-05-12T15:15:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T16:15:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921947230845456798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1609914394066001920",
+          "start": 0,
+          "username": "sdcx17569082"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921947230845456798",
+    "in_reply_to_user_id": "1609914394066001920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921947066915254599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sdcx17569082 对...🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1921869628621389914",
+        "created_at": "2025-05-12T15:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T16:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921947230845456798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1609914394066001920",
+              "start": 0,
+              "username": "sdcx17569082"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921947230845456798",
+        "in_reply_to_user_id": "1609914394066001920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921947066915254599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sdcx17569082 对...🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609914394066001920",
+        "conversation_id": "1921869628621389914",
+        "created_at": "2025-05-12T15:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T16:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921947066915254599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921947066915254599",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921946843056853078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 感觉就只有心理安慰的作用（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99转世 现世是碎碎念推/老鼠推\n喜欢老鼠请关注我....\nhere is my life with my rats🐭🥰\n我的老鼠有：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n看我不顺眼就屏蔽别骂我也别举报，想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭🚪52r",
+        "name": "🐭老鼠国王(Rats!",
+        "pinned_tweet_id": "1915758775098826913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 175,
+          "like_count": 512,
+          "listed_count": 3,
+          "media_count": 241,
+          "tweet_count": 742
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T14:08:21.000Z",
+        "description": "真的有比自由更重要的事情吗",
+        "id": "1609914394066001920",
+        "name": "Hinata",
+        "pinned_tweet_id": "1880356675624005690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863607663051018240/pKnaU6ho_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 25,
+          "like_count": 608,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 361
+        },
+        "username": "sdcx17569082",
+        "verified": false
+      }
+    ]
+  }
+}

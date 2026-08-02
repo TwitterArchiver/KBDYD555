@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2073238666231889978",
+    "created_at": "2026-07-04T05:23:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T06:23:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073276489026744731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2064902403619745793",
+          "start": 0,
+          "username": "Xingzai191240"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073276489026744731",
+    "in_reply_to_user_id": "2064902403619745793",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073275822194979067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xingzai191240 0元"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2073238666231889978",
+        "created_at": "2026-07-04T05:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073276489026744731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2064902403619745793",
+              "start": 0,
+              "username": "Xingzai191240"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073276489026744731",
+        "in_reply_to_user_id": "2064902403619745793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073275822194979067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xingzai191240 0元"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064902403619745793",
+        "conversation_id": "2073238666231889978",
+        "created_at": "2026-07-04T05:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073275822194979067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073275822194979067",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073238666231889978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 一百多万播放量，能拿多少钱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫：@kokocat_9 遭举报冻结...现世成分:🚬/ed/🩸/🐭/🐶/🐱...互关回来吧...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 🩵亲友@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 128,
+                "start": 119,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2072889837548712297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4043,
+          "following_count": 637,
+          "like_count": 5005,
+          "listed_count": 7,
+          "media_count": 1020,
+          "tweet_count": 3779
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-11T02:49:17.000Z",
+        "description": "",
+        "id": "2064902403619745793",
+        "name": "Gao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064903008610308096/4T5N1zu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 9,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "Xingzai191240",
+        "verified": false
+      }
+    ]
+  }
+}

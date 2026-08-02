@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1970293314588156341",
+    "created_at": "2025-09-23T01:28:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T02:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970299110868820226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1277261255523303424",
+          "start": 0,
+          "username": "MMPIvMW3bF5Iqng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970299110868820226",
+    "in_reply_to_user_id": "1277261255523303424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970296549575164245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MMPIvMW3bF5Iqng 加班费年底才发..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1970293314588156341",
+        "created_at": "2025-09-23T01:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T02:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970299110868820226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1277261255523303424",
+              "start": 0,
+              "username": "MMPIvMW3bF5Iqng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970299110868820226",
+        "in_reply_to_user_id": "1277261255523303424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970296549575164245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MMPIvMW3bF5Iqng 加班费年底才发..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1277261255523303424",
+        "conversation_id": "1970293314588156341",
+        "created_at": "2025-09-23T01:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T02:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970296549575164245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970296549575164245",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970293314588156341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 加班费赚到手软"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n喜欢我想的话就给我一点钱吧不管多少都很感谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1945367514307059835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1731,
+          "following_count": 269,
+          "like_count": 1772,
+          "listed_count": 5,
+          "media_count": 632,
+          "tweet_count": 2174
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-28T15:23:23.000Z",
+        "description": "no kiss ,no kiss,no kiss",
+        "id": "1277261255523303424",
+        "name": "怡口糖三包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793602689252904960/Jq3_SKlc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 434,
+          "like_count": 7017,
+          "listed_count": 7,
+          "media_count": 346,
+          "tweet_count": 26810
+        },
+        "username": "MMPIvMW3bF5Iqng",
+        "verified": false
+      }
+    ]
+  }
+}

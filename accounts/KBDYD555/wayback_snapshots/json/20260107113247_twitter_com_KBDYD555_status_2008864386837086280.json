@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2008864386837086280",
+    "created_at": "2026-01-07T11:32:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T12:32:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008864386837086280"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008864386837086280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "相册全部都是老鼠的照片。我不知道该怎么发出来了。太多了。我的生活好像就只剩下我的小老鼠们了。每天醒来就是检查它们的健康精神情况，检查长囊肿的孩子们的恢复情况。然后10只全部抱一遍亲一遍然后清理笼子。虽然小老鼠不会说话但是我还是会跟它们聊天。不管吃什么都会留一半给它们。我永远爱花枝鼠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2008864386837086280",
+        "created_at": "2026-01-07T11:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T12:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008864386837086280"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008864386837086280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "相册全部都是老鼠的照片。我不知道该怎么发出来了。太多了。我的生活好像就只剩下我的小老鼠们了。每天醒来就是检查它们的健康精神情况，检查长囊肿的孩子们的恢复情况。然后10只全部抱一遍亲一遍然后清理笼子。虽然小老鼠不会说话但是我还是会跟它们聊天。不管吃什么都会留一半给它们。我永远爱花枝鼠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2006653674378924480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3299,
+          "following_count": 294,
+          "like_count": 2532,
+          "listed_count": 9,
+          "media_count": 724,
+          "tweet_count": 2571
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

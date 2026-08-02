@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2023681613813755904",
+        "3_2023681615734693888"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2023681671900582201",
+    "created_at": "2026-02-17T08:51:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T09:51:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023681671900582201"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hTd1F9yotE",
+          "end": 105,
+          "expanded_url": "https://x.com/KBDYD555/status/2023681671900582201/video/1",
+          "media_key": "7_2023681613813755904",
+          "start": 82,
+          "url": "https://t.co/hTd1F9yotE"
+        },
+        {
+          "display_url": "pic.x.com/hTd1F9yotE",
+          "end": 105,
+          "expanded_url": "https://x.com/KBDYD555/status/2023681671900582201/video/1",
+          "media_key": "3_2023681615734693888",
+          "start": 82,
+          "url": "https://t.co/hTd1F9yotE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023681671900582201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小豆状态突然恶化，出现缺氧发紫的情况了，我给它吸氧他也不配合，为他吃药和糊糊也不吃我又怕硬来他呛到.....右边是它健康的样子。大过年的宠物医院都关门了我好绝望。 https://t.co/hTd1F9yotE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7358,
+        "height": 1280,
+        "media_key": "7_2023681613813755904",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2023681613813755904/pu/img/ODtwV3sa31i3IOgX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023681613813755904/pu/vid/avc1/320x568/6ltcUa5hZYuf_P3X.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023681613813755904/pu/vid/avc1/480x852/Obfa2QwkwP9fSJM5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023681613813755904/pu/vid/avc1/720x1280/BigKncuz9KVEW4AL.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2023681613813755904/pu/pl/bPh7Pj1wg1HzSaZa.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023681615734693888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBWPtSRa4AAjs7u.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2023681613813755904",
+            "3_2023681615734693888"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2023681671900582201",
+        "created_at": "2026-02-17T08:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T09:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023681671900582201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hTd1F9yotE",
+              "end": 105,
+              "expanded_url": "https://x.com/KBDYD555/status/2023681671900582201/video/1",
+              "media_key": "7_2023681613813755904",
+              "start": 82,
+              "url": "https://t.co/hTd1F9yotE"
+            },
+            {
+              "display_url": "pic.x.com/hTd1F9yotE",
+              "end": 105,
+              "expanded_url": "https://x.com/KBDYD555/status/2023681671900582201/video/1",
+              "media_key": "3_2023681615734693888",
+              "start": 82,
+              "url": "https://t.co/hTd1F9yotE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023681671900582201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小豆状态突然恶化，出现缺氧发紫的情况了，我给它吸氧他也不配合，为他吃药和糊糊也不吃我又怕硬来他呛到.....右边是它健康的样子。大过年的宠物医院都关门了我好绝望。 https://t.co/hTd1F9yotE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/花枝鼠....互关回来吧...（Eng🆗）存图账号：@kyuukoQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 79,
+                "start": 71,
+                "username": "kyuukoQ"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2014999363500822659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3473,
+          "following_count": 410,
+          "like_count": 3467,
+          "listed_count": 9,
+          "media_count": 868,
+          "tweet_count": 3094
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

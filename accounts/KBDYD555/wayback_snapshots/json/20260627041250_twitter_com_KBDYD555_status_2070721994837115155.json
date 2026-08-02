@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2070465218833248283",
+    "created_at": "2026-06-27T04:12:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T05:12:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070721994837115155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1399329643673518082",
+          "start": 0,
+          "username": "shotcup1d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070721994837115155",
+    "in_reply_to_user_id": "1399329643673518082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070519906538492376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shotcup1d 没什么我在玩抽象！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2070465218833248283",
+        "created_at": "2026-06-27T04:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T05:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070721994837115155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1399329643673518082",
+              "start": 0,
+              "username": "shotcup1d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070721994837115155",
+        "in_reply_to_user_id": "1399329643673518082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070519906538492376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shotcup1d 没什么我在玩抽象！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1399329643673518082",
+        "conversation_id": "2070465218833248283",
+        "created_at": "2026-06-26T14:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T15:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070519906538492376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070519906538492376",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070465218833248283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 老师突然这是怎么了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫：@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/鼠/狗/猫twt....互关回来吧...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 🩵@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 135,
+                "start": 126,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2069433003848409098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3884,
+          "following_count": 600,
+          "like_count": 4787,
+          "listed_count": 6,
+          "media_count": 1004,
+          "tweet_count": 3653
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-31T11:39:29.000Z",
+        "description": "-绿笑西畔\n-🍠有/臭画画的/精神有点问题者/为了画画而生无法画画会死/我也想生得美丽/永不转世的一等星\n-多国语言努力学习中/中国人/Eng.日本語",
+        "id": "1399329643673518082",
+        "name": "永不转世的一等星🌟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032210035816931328/uUPuz2Fm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 91,
+          "like_count": 289,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 88
+        },
+        "url": "",
+        "username": "shotcup1d",
+        "verified": false
+      }
+    ]
+  }
+}

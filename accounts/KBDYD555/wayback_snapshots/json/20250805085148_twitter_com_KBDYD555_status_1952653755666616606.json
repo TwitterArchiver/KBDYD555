@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1952613425143861513",
+    "created_at": "2025-08-05T08:51:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T09:51:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952653755666616606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1838030304227028992",
+          "start": 0,
+          "username": "1967SavingUs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952653755666616606",
+    "in_reply_to_user_id": "1838030304227028992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952629248424087569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1967SavingUs 还能比这个更浓嘛天啊这个已经够难喝了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1952613425143861513",
+        "created_at": "2025-08-05T08:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T09:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952653755666616606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1838030304227028992",
+              "start": 0,
+              "username": "1967SavingUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952653755666616606",
+        "in_reply_to_user_id": "1838030304227028992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952629248424087569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1967SavingUs 还能比这个更浓嘛天啊这个已经够难喝了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838030304227028992",
+        "conversation_id": "1952613425143861513",
+        "created_at": "2025-08-05T07:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T08:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952629248424087569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952629248424087569",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952613425143861513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 其实还好啦，如果是那种熬的浓浓的话会更苦的。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世是碎碎念推/老鼠推/小狗推\n互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆｜小狗:小乖/小眉\n想让我生活好一点的话就给我一点钱吧谢谢你",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1945367514307059835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1504,
+          "following_count": 227,
+          "like_count": 1245,
+          "listed_count": 4,
+          "media_count": 478,
+          "tweet_count": 1446
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-23T01:39:26.000Z",
+        "description": "我是玉，很高兴认识你哦。",
+        "id": "1838030304227028992",
+        "location": "玉的小屋",
+        "name": "澄玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928553363572142082/AMIjNu3f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 286,
+          "like_count": 884,
+          "listed_count": 0,
+          "media_count": 217,
+          "tweet_count": 787
+        },
+        "username": "1967SavingUs",
+        "verified": false
+      }
+    ]
+  }
+}

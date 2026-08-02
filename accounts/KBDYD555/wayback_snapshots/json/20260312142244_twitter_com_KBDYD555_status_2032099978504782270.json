@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2021944294387695616"
+      ],
+      "media_source_tweet_id": [
+        "2021944326759280708"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2032099978504782270",
+    "created_at": "2026-03-12T14:22:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T15:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032099978504782270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1557450235621695488",
+          "start": 3,
+          "username": "KBDYD555"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nYipnJXctx",
+          "end": 37,
+          "expanded_url": "https://x.com/KBDYD555/status/2021944326759280708/video/1",
+          "media_key": "7_2021944294387695616",
+          "start": 14,
+          "url": "https://t.co/nYipnJXctx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032099978504782270",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021944326759280708",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KBDYD555: https://t.co/nYipnJXctx"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2032099978504782270].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2032099978504782270",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2032099978504782270"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4350,
+        "height": 1280,
+        "media_key": "7_2021944294387695616",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2021944294387695616/pu/img/sqL4E82CKOiUIoRo.jpg",
+        "public_metrics": {
+          "view_count": 224
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021944294387695616/pu/vid/avc1/320x568/fq0HDJHCcOvTrWvW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021944294387695616/pu/vid/avc1/480x852/sockY7CtLgoYrKlO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021944294387695616/pu/vid/avc1/720x1280/_SSOrUtD3lLSdeyx.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2021944294387695616/pu/pl/RW_exU3-U01QSZBg.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2021944294387695616"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "2021944326759280708",
+        "created_at": "2026-02-12T13:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T14:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021944326759280708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nYipnJXctx",
+              "end": 23,
+              "expanded_url": "https://x.com/KBDYD555/status/2021944326759280708/video/1",
+              "media_key": "7_2021944294387695616",
+              "start": 0,
+              "url": "https://t.co/nYipnJXctx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021944326759280708",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 1316,
+          "like_count": 121,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nYipnJXctx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/花枝鼠....互关回来吧...（Eng🆗）存图账号：@kyuukoQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 79,
+                "start": 71,
+                "username": "kyuukoQ"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2031302686671515896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3566,
+          "following_count": 419,
+          "like_count": 3660,
+          "listed_count": 9,
+          "media_count": 900,
+          "tweet_count": 3244
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

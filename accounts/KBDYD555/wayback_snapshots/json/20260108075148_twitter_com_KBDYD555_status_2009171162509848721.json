@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2009171129764859906",
+        "3_2009171132679901187"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "conversation_id": "2009171162509848721",
+    "created_at": "2026-01-08T07:51:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T08:51:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009171162509848721"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NKK3xX8iLX",
+          "end": 26,
+          "expanded_url": "https://x.com/KBDYD555/status/2009171162509848721/video/1",
+          "media_key": "7_2009171129764859906",
+          "start": 3,
+          "url": "https://t.co/NKK3xX8iLX"
+        },
+        {
+          "display_url": "pic.x.com/NKK3xX8iLX",
+          "end": 26,
+          "expanded_url": "https://x.com/KBDYD555/status/2009171162509848721/video/1",
+          "media_key": "3_2009171132679901187",
+          "start": 3,
+          "url": "https://t.co/NKK3xX8iLX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009171162509848721",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "春卷 https://t.co/NKK3xX8iLX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3894,
+        "height": 1280,
+        "media_key": "7_2009171129764859906",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2009171129764859906/pu/img/zq6LtOek1xeJztaG.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009171129764859906/pu/vid/avc1/320x568/-fiQamrVtdwrNXuQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009171129764859906/pu/vid/avc1/480x852/pNsllZVsGA9VsuZQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009171129764859906/pu/vid/avc1/720x1280/MFb9q2HYCbq9WIzY.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2009171129764859906/pu/pl/ZiaQWyEG7aYxXsvb.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2009171132679901187",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-ICgAha0AMUpEX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2009171129764859906",
+            "3_2009171132679901187"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "2009171162509848721",
+        "created_at": "2026-01-08T07:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T08:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009171162509848721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NKK3xX8iLX",
+              "end": 26,
+              "expanded_url": "https://x.com/KBDYD555/status/2009171162509848721/video/1",
+              "media_key": "7_2009171129764859906",
+              "start": 3,
+              "url": "https://t.co/NKK3xX8iLX"
+            },
+            {
+              "display_url": "pic.x.com/NKK3xX8iLX",
+              "end": 26,
+              "expanded_url": "https://x.com/KBDYD555/status/2009171162509848721/video/1",
+              "media_key": "3_2009171132679901187",
+              "start": 3,
+              "url": "https://t.co/NKK3xX8iLX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009171162509848721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "春卷 https://t.co/NKK3xX8iLX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2006653674378924480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3312,
+          "following_count": 306,
+          "like_count": 2596,
+          "listed_count": 9,
+          "media_count": 736,
+          "tweet_count": 2591
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

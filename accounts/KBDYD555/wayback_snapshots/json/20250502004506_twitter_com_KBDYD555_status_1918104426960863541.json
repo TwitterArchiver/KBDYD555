@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1918098050020720842",
+    "created_at": "2025-05-02T00:45:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T01:45:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918104426960863541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1408741694267301889",
+          "start": 0,
+          "username": "YUSU_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918104426960863541",
+    "in_reply_to_user_id": "1408741694267301889",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918103883492278510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YUSU_01 😳🫰🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1918098050020720842",
+        "created_at": "2025-05-02T00:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T01:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918104426960863541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1408741694267301889",
+              "start": 0,
+              "username": "YUSU_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918104426960863541",
+        "in_reply_to_user_id": "1408741694267301889",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918103883492278510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YUSU_01 😳🫰🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1408741694267301889",
+        "conversation_id": "1918098050020720842",
+        "created_at": "2025-05-02T00:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T01:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918103883492278510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918103883492278510",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918098050020720842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 美死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99转世 喜欢老鼠请关注我\nhere is my life with my rats hope u like my pet rats🐭🥰\n我的老鼠有：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino\n看我不顺眼就屏蔽别骂我也别举报谢谢\n想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭🚪52r",
+        "name": "🐭老鼠国王(Rats!",
+        "pinned_tweet_id": "1915758775098826913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 165,
+          "like_count": 370,
+          "listed_count": 3,
+          "media_count": 188,
+          "tweet_count": 575
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T10:59:36.000Z",
+        "description": "不賣任何藥物和違禁品｜守护@OmaRisa504504｜ @AKIAKI_019",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "OmaRisa504504"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "AKIAKI_019"
+              }
+            ]
+          }
+        },
+        "id": "1408741694267301889",
+        "name": "YUSU",
+        "pinned_tweet_id": "1902293657656660254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916446496532373504/f5Wggw6I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7115,
+          "following_count": 41,
+          "like_count": 10588,
+          "listed_count": 3,
+          "media_count": 1176,
+          "tweet_count": 15007
+        },
+        "username": "YUSU_01",
+        "verified": true
+      }
+    ]
+  }
+}

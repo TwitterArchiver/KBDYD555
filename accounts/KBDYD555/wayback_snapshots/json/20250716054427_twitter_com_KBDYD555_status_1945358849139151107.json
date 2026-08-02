@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945358844835577856",
+        "3_1945358844479057920",
+        "3_1945358845666021377",
+        "3_1945358845955489792"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "conversation_id": "1945358849139151107",
+    "created_at": "2025-07-16T05:44:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T06:44:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945358849139151107"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zBCZ9e2nU2",
+          "end": 164,
+          "expanded_url": "https://x.com/KBDYD555/status/1945358849139151107/photo/1",
+          "media_key": "3_1945358844835577856",
+          "start": 141,
+          "url": "https://t.co/zBCZ9e2nU2"
+        },
+        {
+          "display_url": "pic.x.com/zBCZ9e2nU2",
+          "end": 164,
+          "expanded_url": "https://x.com/KBDYD555/status/1945358849139151107/photo/1",
+          "media_key": "3_1945358844479057920",
+          "start": 141,
+          "url": "https://t.co/zBCZ9e2nU2"
+        },
+        {
+          "display_url": "pic.x.com/zBCZ9e2nU2",
+          "end": 164,
+          "expanded_url": "https://x.com/KBDYD555/status/1945358849139151107/photo/1",
+          "media_key": "3_1945358845666021377",
+          "start": 141,
+          "url": "https://t.co/zBCZ9e2nU2"
+        },
+        {
+          "display_url": "pic.x.com/zBCZ9e2nU2",
+          "end": 164,
+          "expanded_url": "https://x.com/KBDYD555/status/1945358849139151107/photo/1",
+          "media_key": "3_1945358845955489792",
+          "start": 141,
+          "url": "https://t.co/zBCZ9e2nU2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945358849139151107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是那天录音的一部分转文字...我真的好绝望。他们不给我钱，不允许我亲爸给我钱，不允许我妹妹给我钱，不允许我一个人出这个家门。禁止一切伤害自己的行为，如果我违反就把我关精神病院，关到我不会再自残自杀为止，哪怕关一辈子。我好绝望。我好绝望。我真的一分钱也没有了。我好想死啊。我好痛苦 https://t.co/zBCZ9e2nU2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1945358844835577856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv9Nj_sWwAAw7yc.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1945358844479057920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv9Nj-XWsAA-kom.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1945358845666021377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv9NkCyWUAEAt-L.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1945358845955489792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv9NkD3XQAA9org.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945358844835577856",
+            "3_1945358844479057920",
+            "3_1945358845666021377",
+            "3_1945358845955489792"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "1945358849139151107",
+        "created_at": "2025-07-16T05:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T06:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945358849139151107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zBCZ9e2nU2",
+              "end": 164,
+              "expanded_url": "https://x.com/KBDYD555/status/1945358849139151107/photo/1",
+              "media_key": "3_1945358844835577856",
+              "start": 141,
+              "url": "https://t.co/zBCZ9e2nU2"
+            },
+            {
+              "display_url": "pic.x.com/zBCZ9e2nU2",
+              "end": 164,
+              "expanded_url": "https://x.com/KBDYD555/status/1945358849139151107/photo/1",
+              "media_key": "3_1945358844479057920",
+              "start": 141,
+              "url": "https://t.co/zBCZ9e2nU2"
+            },
+            {
+              "display_url": "pic.x.com/zBCZ9e2nU2",
+              "end": 164,
+              "expanded_url": "https://x.com/KBDYD555/status/1945358849139151107/photo/1",
+              "media_key": "3_1945358845666021377",
+              "start": 141,
+              "url": "https://t.co/zBCZ9e2nU2"
+            },
+            {
+              "display_url": "pic.x.com/zBCZ9e2nU2",
+              "end": 164,
+              "expanded_url": "https://x.com/KBDYD555/status/1945358849139151107/photo/1",
+              "media_key": "3_1945358845955489792",
+              "start": 141,
+              "url": "https://t.co/zBCZ9e2nU2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945358849139151107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是那天录音的一部分转文字...我真的好绝望。他们不给我钱，不允许我亲爸给我钱，不允许我妹妹给我钱，不允许我一个人出这个家门。禁止一切伤害自己的行为，如果我违反就把我关精神病院，关到我不会再自残自杀为止，哪怕关一辈子。我好绝望。我好绝望。我真的一分钱也没有了。我好想死啊。我好痛苦 https://t.co/zBCZ9e2nU2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世是碎碎念推/老鼠推/小狗推\n互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆｜小狗:小乖/小眉\n想让我生活好一点的话就给我一点钱吧谢谢你",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1937879363636400639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 220,
+          "like_count": 1131,
+          "listed_count": 3,
+          "media_count": 437,
+          "tweet_count": 1291
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

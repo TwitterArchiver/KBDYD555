@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1907034125615464472",
+    "created_at": "2025-04-03T02:47:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T03:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907625952793997690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1790714186961739776",
+          "start": 0,
+          "username": "darkcorpse_Emo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907625952793997690",
+    "in_reply_to_user_id": "1790714186961739776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907596828201369974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@darkcorpse_Emo 被一些个精神小妹小伙搞得乌烟瘴气"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1907034125615464472",
+        "created_at": "2025-04-03T02:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T03:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907625952793997690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1790714186961739776",
+              "start": 0,
+              "username": "darkcorpse_Emo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907625952793997690",
+        "in_reply_to_user_id": "1790714186961739776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907596828201369974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@darkcorpse_Emo 被一些个精神小妹小伙搞得乌烟瘴气"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790714186961739776",
+        "conversation_id": "1907034125615464472",
+        "created_at": "2025-04-03T00:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T01:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907596828201369974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907596828201369974",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907034125615464472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 就問中推為啥這麼亂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "Rats！！！shtwt｜edtwt｜rat twt\n我是99转世啊啊寻找前世互关\nhere is my life with my rats hope u like my pet rats🐭🥰\n看我不顺眼就屏蔽别骂我也别举报谢谢\n想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭",
+        "name": "🐭老鼠国王（卖老鼠版）",
+        "pinned_tweet_id": "1902382804052406487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 139,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 252
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-15T12:02:15.000Z",
+        "description": "叫我漿死 ｜未成年 ｜od ｜不會接任何線下 @有種古早味 ₊⁺꒰ঌ (̳^_ ̫ _ ^ ̳)໒꒱₊⁺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yu.1en666?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/yu.1en666?igsh=d2F1cHdqZHRnaDYx&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/QwwUhmNZh6"
+              }
+            ]
+          }
+        },
+        "id": "1790714186961739776",
+        "name": "死去的陰暗宅簡稱死宅",
+        "pinned_tweet_id": "1903866592175468861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903867576490528768/eUEEpWmB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 360,
+          "like_count": 1987,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 1639
+        },
+        "url": "https://t.co/QwwUhmNZh6",
+        "username": "darkcorpse_Emo",
+        "verified": false
+      }
+    ]
+  }
+}

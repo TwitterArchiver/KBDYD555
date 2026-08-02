@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1950449867895296504",
+    "created_at": "2025-07-31T09:28:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T10:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950851170270150672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1851233051302645760",
+          "start": 0,
+          "username": "EvanescenceWhy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950851170270150672",
+    "in_reply_to_user_id": "1851233051302645760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950842665475735557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EvanescenceWhy 我也不知道为什么。可能是我对所有事情都没有兴趣所以我觉得这个世界好无聊，又很累，不知道为什么还要活下去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1950449867895296504",
+        "created_at": "2025-07-31T09:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T10:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950851170270150672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1851233051302645760",
+              "start": 0,
+              "username": "EvanescenceWhy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950851170270150672",
+        "in_reply_to_user_id": "1851233051302645760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950842665475735557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EvanescenceWhy 我也不知道为什么。可能是我对所有事情都没有兴趣所以我觉得这个世界好无聊，又很累，不知道为什么还要活下去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851233051302645760",
+        "conversation_id": "1950449867895296504",
+        "created_at": "2025-07-31T08:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T09:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950842665475735557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950842665475735557",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950449867895296504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 找到想死的原因然后把源头解决掉…？🤔不然还是会反复的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世是碎碎念推/老鼠推/小狗推\n互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆｜小狗:小乖/小眉\n想让我生活好一点的话就给我一点钱吧谢谢你",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1945367514307059835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 226,
+          "like_count": 1216,
+          "listed_count": 0,
+          "media_count": 471,
+          "tweet_count": 1422
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T12:02:21.000Z",
+        "description": "不是男的。在美丽新世界，我凝望着下沉的巨大的夕阳，等待着终焉与新生。",
+        "id": "1851233051302645760",
+        "location": "新世界",
+        "name": "新世界不来方",
+        "pinned_tweet_id": "1908042466596671702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897278576426381312/LxYepSje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 256,
+          "like_count": 10524,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 1891
+        },
+        "username": "EvanescenceWhy",
+        "verified": false
+      }
+    ]
+  }
+}

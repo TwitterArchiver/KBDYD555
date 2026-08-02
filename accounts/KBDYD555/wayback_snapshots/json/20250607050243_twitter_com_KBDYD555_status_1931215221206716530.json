@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1931009746599022627",
+    "created_at": "2025-06-07T05:02:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T06:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931215221206716530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1893688350076542976",
+          "start": 0,
+          "username": "drug_artist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931215221206716530",
+    "in_reply_to_user_id": "1893688350076542976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931009746599022627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@drug_artist 在美团买愈美和普瑞被晶哥叫去谈话过，也做了尿检右美沙芬程阳性，我是说一直都咳嗽然后因为躯体化神经痛所以才买这两种药。买多是想用来紫砂。正经市面上能买到的药应该都没啥事。但要是别的违禁药或提取合成药物我不好说。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1931009746599022627",
+        "created_at": "2025-06-07T05:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T06:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931215221206716530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1893688350076542976",
+              "start": 0,
+              "username": "drug_artist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931215221206716530",
+        "in_reply_to_user_id": "1893688350076542976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931009746599022627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artist 在美团买愈美和普瑞被晶哥叫去谈话过，也做了尿检右美沙芬程阳性，我是说一直都咳嗽然后因为躯体化神经痛所以才买这两种药。买多是想用来紫砂。正经市面上能买到的药应该都没啥事。但要是别的违禁药或提取合成药物我不好说。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893688350076542976",
+        "conversation_id": "1931009746599022627",
+        "created_at": "2025-06-06T15:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T16:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931009746599022627"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931009746599022627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1656,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "准备研究一下oder脱罪这一块\n有吸毒史/案底的dd我\n有进局子经历的dd我\n有脱罪经历的也dd我\n总结一下经验"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世是碎碎念推/老鼠推/小狗推\n互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆｜小狗:小乖/小眉\n想让我生活好一点的话就给我一点钱吧谢谢你",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1930939924402045146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 187,
+          "like_count": 740,
+          "listed_count": 3,
+          "media_count": 345,
+          "tweet_count": 1031
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T15:44:29.000Z",
+        "description": "化学极乐百科wiki主\n投稿请私信我\n愿每一位药物滥用者都能脱离深渊\n提供药物咨询\nim crazy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/hLxQwrcSWN"
+              }
+            ]
+          }
+        },
+        "id": "1893688350076542976",
+        "name": "新中国第一毒虫沐雨",
+        "pinned_tweet_id": "1929792505656365248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923304720611024896/ImSJUBEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 135,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 373
+        },
+        "url": "https://t.co/hLxQwrcSWN",
+        "username": "drug_artist",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2035709636322771148",
+    "created_at": "2026-03-24T11:49:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T12:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036410066476413175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1985825156108075010",
+          "start": 0,
+          "username": "Azisaaaaaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036410066476413175",
+    "in_reply_to_user_id": "1985825156108075010",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036382478231847274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Azisaaaaaaa nvm its ok"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2035709636322771148",
+        "created_at": "2026-03-24T11:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T12:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036410066476413175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1985825156108075010",
+              "start": 0,
+              "username": "Azisaaaaaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036410066476413175",
+        "in_reply_to_user_id": "1985825156108075010",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036382478231847274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Azisaaaaaaa nvm its ok"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985825156108075010",
+        "conversation_id": "2035709636322771148",
+        "created_at": "2026-03-24T09:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T10:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036382478231847274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036382478231847274",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036346390864159087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 It jus looks like ai im sorry"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫：@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/花枝鼠....互关回来吧...（Eng🆗）存图账号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 86,
+                "start": 78,
+                "username": "kyuukoQ"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2031302686671515896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3695,
+          "following_count": 441,
+          "like_count": 3894,
+          "listed_count": 9,
+          "media_count": 913,
+          "tweet_count": 3301
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-04T21:43:22.000Z",
+        "description": "no",
+        "id": "1985825156108075010",
+        "name": "🤍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035884521330249728/qQDBs0dr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 4,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 102
+        },
+        "username": "Azisaaaaaaa",
+        "verified": false
+      }
+    ]
+  }
+}

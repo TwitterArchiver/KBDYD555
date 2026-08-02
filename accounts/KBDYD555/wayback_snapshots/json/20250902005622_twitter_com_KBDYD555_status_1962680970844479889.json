@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1962381543013576779",
+    "created_at": "2025-09-02T00:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T01:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962680970844479889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499709348616241155",
+          "start": 0,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962680970844479889",
+    "in_reply_to_user_id": "1499709348616241155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962381543013576779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiweimaomao 我只有掉色掉成绿色，染还真的没想过要染绿色，感觉喜欢绿色的人好少"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1962381543013576779",
+        "created_at": "2025-09-02T00:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T01:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962680970844479889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499709348616241155",
+              "start": 0,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962680970844479889",
+        "in_reply_to_user_id": "1499709348616241155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962381543013576779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiweimaomao 我只有掉色掉成绿色，染还真的没想过要染绿色，感觉喜欢绿色的人好少"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499709348616241155",
+        "conversation_id": "1962381543013576779",
+        "created_at": "2025-09-01T05:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T06:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962381543013576779"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962381543013576779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1305,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是，不是，等一下，\n我真的这几年\n从来没有遇见过绿色头发的人，\n看见最多的是红发\n难道🥹\n绿色头发真的那么不好看吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n喜欢我想的话就给我一点钱吧不管多少都很感谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1945367514307059835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1649,
+          "following_count": 267,
+          "like_count": 1652,
+          "listed_count": 5,
+          "media_count": 596,
+          "tweet_count": 1947
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "是碎碎念推和猫猫推丨游戏目前ff14猫区/碧蓝航线丨嘤鹉：@SENDOH214丨梯子https://t.co/ual3P7s30o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 29,
+                "username": "SENDOH214"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "dash.lineasia.top/#/register?cod…",
+                "end": 65,
+                "expanded_url": "https://dash.lineasia.top/#/register?code=U8x8snvo",
+                "start": 42,
+                "url": "https://t.co/ual3P7s30o"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "天空",
+        "name": "爱礼",
+        "pinned_tweet_id": "1962367776431165729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40887,
+          "following_count": 1081,
+          "like_count": 23689,
+          "listed_count": 49,
+          "media_count": 2618,
+          "tweet_count": 30002
+        },
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

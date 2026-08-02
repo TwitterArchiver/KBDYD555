@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2072835487975506214",
+    "created_at": "2026-07-03T05:02:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T06:02:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072908755394805828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1426576940450914311",
+          "start": 0,
+          "username": "jitiantiantian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072908755394805828",
+    "in_reply_to_user_id": "1426576940450914311",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072892730792096221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jitiantiantian 宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2072835487975506214",
+        "created_at": "2026-07-03T05:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T06:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072908755394805828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1426576940450914311",
+              "start": 0,
+              "username": "jitiantiantian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072908755394805828",
+        "in_reply_to_user_id": "1426576940450914311",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072892730792096221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jitiantiantian 宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426576940450914311",
+        "conversation_id": "2072835487975506214",
+        "created_at": "2026-07-03T03:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T04:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072892730792096221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072892730792096221",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072835487975506214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 宝宝我想"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫：@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/鼠/狗/猫twt....互关回来吧...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 🩵亲友@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2072889837548712297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3934,
+          "following_count": 631,
+          "like_count": 4945,
+          "listed_count": 6,
+          "media_count": 1016,
+          "tweet_count": 3735
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-14T16:15:25.000Z",
+        "description": "日记本｜自伤｜",
+        "id": "1426576940450914311",
+        "name": "ちてんすず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071786151426600960/HZ2zRhpQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 145,
+          "like_count": 1163,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 343
+        },
+        "url": "",
+        "username": "jitiantiantian",
+        "verified": false
+      }
+    ]
+  }
+}

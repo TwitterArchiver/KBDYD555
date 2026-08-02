@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2072953414330593359",
+    "created_at": "2026-07-05T02:37:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T03:37:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073597018719871475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "248960594",
+          "start": 0,
+          "username": "nachoobastias"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073597018719871475",
+    "in_reply_to_user_id": "248960594",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073555362926501901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nachoobastias if u ever try taro milk or milk tea thats the flavor"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072953414330593359",
+        "created_at": "2026-07-05T02:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073597018719871475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "248960594",
+              "start": 0,
+              "username": "nachoobastias"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073597018719871475",
+        "in_reply_to_user_id": "248960594",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073555362926501901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nachoobastias if u ever try taro milk or milk tea thats the flavor"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "248960594",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          }
+        ],
+        "conversation_id": "2072953414330593359",
+        "created_at": "2026-07-04T23:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T00:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073555362926501901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073555362926501901",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072953414330593359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 Que es el helado de Taro? A que sabe? Soy de Chile y nunca lo había escuchado, viendo la caja igual hubiera pensado que era lavanda…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫：@kokocat_9 遭举报冻结...现世成分:🚬/ed/🩸/🐭/🐶/🐱...互关回来吧...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 🩵亲友@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 128,
+                "start": 119,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2072889837548712297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4368,
+          "following_count": 635,
+          "like_count": 5047,
+          "listed_count": 9,
+          "media_count": 1022,
+          "tweet_count": 3799
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-08T02:18:21.000Z",
+        "description": "director audiovisual & multimedia • músico • ops • vibe kodi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/intl-es/artist…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/intl-es/artist/6gGtEXY6tO1XmTgJ3jl05n?si=MthrQkOjQQWh-VM2gD70oQ",
+                "start": 0,
+                "url": "https://t.co/zGTz1mfoPN"
+              }
+            ]
+          }
+        },
+        "id": "248960594",
+        "location": "Concepción, Chile",
+        "name": "nacho",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598350390138998793/nErvsaWo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1124,
+          "following_count": 1232,
+          "like_count": 12587,
+          "listed_count": 3,
+          "media_count": 535,
+          "tweet_count": 28123
+        },
+        "url": "https://t.co/zGTz1mfoPN",
+        "username": "nachoobastias",
+        "verified": false
+      }
+    ]
+  }
+}

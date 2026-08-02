@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1906540107420844332",
+    "created_at": "2025-04-01T02:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T03:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906901519133503539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1849041820397027328",
+          "start": 0,
+          "username": "iriyanoinu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906901519133503539",
+    "in_reply_to_user_id": "1849041820397027328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906598621350604920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iriyanoinu 鼠好！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1906540107420844332",
+        "created_at": "2025-04-01T02:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T03:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906901519133503539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1849041820397027328",
+              "start": 0,
+              "username": "iriyanoinu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906901519133503539",
+        "in_reply_to_user_id": "1849041820397027328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906598621350604920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iriyanoinu 鼠好！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849041820397027328",
+        "conversation_id": "1906540107420844332",
+        "created_at": "2025-03-31T06:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T07:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906598621350604920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906598621350604920",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906540107420844332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 鼠鼠尿床，\n鼠鼠坏！\n鼠鼠可爱，\n鼠鼠好！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "Rats！！！shtwt｜edtwt｜rat twt\n我是99转世啊啊寻找前世互关\nhere is my life with my rats hope u like my pet rats🐭🥰\n看我不顺眼就屏蔽别骂我也别举报谢谢\n想让我生活好一点的话就给我钱吧谢谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭",
+        "name": "🐭老鼠国王（卖老鼠版）",
+        "pinned_tweet_id": "1902382804052406487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 139,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 237
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-23T10:55:17.000Z",
+        "description": "ダサいたま県民！",
+        "id": "1849041820397027328",
+        "location": "埼玉 さいたま市",
+        "name": "天職である講師",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043784732225536/3Swgk5vR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 58,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 68
+        },
+        "username": "iriyanoinu",
+        "verified": false
+      }
+    ]
+  }
+}

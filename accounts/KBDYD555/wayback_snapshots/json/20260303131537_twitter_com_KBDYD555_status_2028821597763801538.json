@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2028820003592790203",
+    "created_at": "2026-03-03T13:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T14:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028821597763801538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1811812787058016257",
+          "start": 0,
+          "username": "kanakosama0223f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028821597763801538",
+    "in_reply_to_user_id": "1811812787058016257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028820003592790203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanakosama0223f 哇塞这个好好看天啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028819971724435456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCfRA9_aYAASTcC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2028820003592790203",
+        "created_at": "2026-03-03T13:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T14:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028821597763801538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1811812787058016257",
+              "start": 0,
+              "username": "kanakosama0223f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028821597763801538",
+        "in_reply_to_user_id": "1811812787058016257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028820003592790203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanakosama0223f 哇塞这个好好看天啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028819971724435456"
+          ]
+        },
+        "author_id": "1811812787058016257",
+        "conversation_id": "2028820003592790203",
+        "created_at": "2026-03-03T13:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T14:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028820003592790203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RQeix6a2To",
+              "end": 27,
+              "expanded_url": "https://x.com/kanakosama0223f/status/2028820003592790203/photo/1",
+              "media_key": "3_2028819971724435456",
+              "start": 4,
+              "url": "https://t.co/RQeix6a2To"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028820003592790203",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新指甲 https://t.co/RQeix6a2To"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/花枝鼠....互关回来吧...（Eng🆗）存图账号：@kyuukoQ 我需要钱如果想我好一点就给我钱吧谢谢你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 79,
+                "start": 71,
+                "username": "kyuukoQ"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2027982822368288841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3559,
+          "following_count": 417,
+          "like_count": 3578,
+          "listed_count": 9,
+          "media_count": 891,
+          "tweet_count": 3194
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T17:20:27.000Z",
+        "description": "INTP 🐾07 🫧IG：kanako_0223ff TikTok：kanako0223ff 抖音：kanakosama0223 推特只有两个小号➡️@kanakoshine0223 @kanako0223ff 看到用我头像和名字的账号请不要相信 都是假冒的 门槛288 我推：@Uni_btt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 75,
+                "username": "kanakoshine0223"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "kanako0223ff"
+              },
+              {
+                "end": 147,
+                "start": 139,
+                "username": "Uni_btt"
+              }
+            ]
+          }
+        },
+        "id": "1811812787058016257",
+        "location": "地狱🪦",
+        "name": "草莓水烟枪🍓",
+        "pinned_tweet_id": "2026690966376390986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008265402099654656/E9mXaAvQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16664,
+          "following_count": 104,
+          "like_count": 7361,
+          "listed_count": 22,
+          "media_count": 948,
+          "tweet_count": 5057
+        },
+        "username": "kanakosama0223f",
+        "verified": false
+      }
+    ]
+  }
+}

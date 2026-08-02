@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "1957026398813511894",
+    "created_at": "2025-08-17T12:57:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T13:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957064214989672884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1845343860047872001",
+          "start": 0,
+          "username": "superambulances"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957064214989672884",
+    "in_reply_to_user_id": "1845343860047872001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957049103826694419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@superambulances 因为是在我不注意的时候配上的，所以我不清楚😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "1957026398813511894",
+        "created_at": "2025-08-17T12:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T13:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957064214989672884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1845343860047872001",
+              "start": 0,
+              "username": "superambulances"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957064214989672884",
+        "in_reply_to_user_id": "1845343860047872001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957049103826694419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@superambulances 因为是在我不注意的时候配上的，所以我不清楚😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845343860047872001",
+        "conversation_id": "1957026398813511894",
+        "created_at": "2025-08-17T11:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T12:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957049103826694419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957049103826694419",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957026398813511894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 为什么有一只父母不明w不行了、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n喜欢我想的话就给我一点钱吧不管多少都很感谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1945367514307059835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 246,
+          "like_count": 1451,
+          "listed_count": 4,
+          "media_count": 542,
+          "tweet_count": 1697
+        },
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T06:00:41.000Z",
+        "description": "梦想是和朋友一起旅行",
+        "id": "1845343860047872001",
+        "location": "China",
+        "name": "qiantong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927194853990891520/dCrY45yb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 53,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 6
+        },
+        "username": "superambulances",
+        "verified": false
+      }
+    ]
+  }
+}

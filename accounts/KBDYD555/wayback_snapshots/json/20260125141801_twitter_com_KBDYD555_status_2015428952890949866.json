@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2015428911597805568",
+        "3_2015428914055700481",
+        "3_2015428914256945153"
+      ]
+    },
+    "author_id": "1557450235621695488",
+    "conversation_id": "2015428952890949866",
+    "created_at": "2026-01-25T14:18:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T15:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015428952890949866"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rRXeqmRAKO",
+          "end": 36,
+          "expanded_url": "https://x.com/KBDYD555/status/2015428952890949866/video/1",
+          "media_key": "7_2015428911597805568",
+          "start": 13,
+          "url": "https://t.co/rRXeqmRAKO"
+        },
+        {
+          "display_url": "pic.x.com/rRXeqmRAKO",
+          "end": 36,
+          "expanded_url": "https://x.com/KBDYD555/status/2015428952890949866/video/1",
+          "media_key": "3_2015428914055700481",
+          "start": 13,
+          "url": "https://t.co/rRXeqmRAKO"
+        },
+        {
+          "display_url": "pic.x.com/rRXeqmRAKO",
+          "end": 36,
+          "expanded_url": "https://x.com/KBDYD555/status/2015428952890949866/video/1",
+          "media_key": "3_2015428914256945153",
+          "start": 13,
+          "url": "https://t.co/rRXeqmRAKO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015428952890949866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "6秒钟像变了个人种啥意思 https://t.co/rRXeqmRAKO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5694,
+        "height": 1280,
+        "media_key": "7_2015428911597805568",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2015428911597805568/pu/img/UkYr2IWdNAGx5CJd.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015428911597805568/pu/vid/avc1/320x568/MY4awtqPs142uXXG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015428911597805568/pu/vid/avc1/480x852/TKdsfleIGwKjZqHo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015428911597805568/pu/vid/avc1/720x1280/UNA1oviy-XmYq3pa.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2015428911597805568/pu/pl/VOYa8rqegLzFbITE.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2015428914055700481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_g960xXYAEsxoF.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2015428914256945153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_g961hWIAEwygc.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2015428911597805568",
+            "3_2015428914055700481",
+            "3_2015428914256945153"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "2015428952890949866",
+        "created_at": "2026-01-25T14:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T15:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015428952890949866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rRXeqmRAKO",
+              "end": 36,
+              "expanded_url": "https://x.com/KBDYD555/status/2015428952890949866/video/1",
+              "media_key": "7_2015428911597805568",
+              "start": 13,
+              "url": "https://t.co/rRXeqmRAKO"
+            },
+            {
+              "display_url": "pic.x.com/rRXeqmRAKO",
+              "end": 36,
+              "expanded_url": "https://x.com/KBDYD555/status/2015428952890949866/video/1",
+              "media_key": "3_2015428914055700481",
+              "start": 13,
+              "url": "https://t.co/rRXeqmRAKO"
+            },
+            {
+              "display_url": "pic.x.com/rRXeqmRAKO",
+              "end": 36,
+              "expanded_url": "https://x.com/KBDYD555/status/2015428952890949866/video/1",
+              "media_key": "3_2015428914256945153",
+              "start": 13,
+              "url": "https://t.co/rRXeqmRAKO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015428952890949866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "6秒钟像变了个人种啥意思 https://t.co/rRXeqmRAKO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念/ED/sh/花枝鼠....互关回来吧...（Eng🆗）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2014999363500822659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3370,
+          "following_count": 350,
+          "like_count": 2989,
+          "listed_count": 9,
+          "media_count": 786,
+          "tweet_count": 2801
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}
