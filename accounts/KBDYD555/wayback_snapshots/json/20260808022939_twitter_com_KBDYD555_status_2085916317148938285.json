@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2085631660515905757",
+    "created_at": "2026-08-08T02:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T03:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085916317148938285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1620684748090904576",
+          "start": 0,
+          "username": "ldunyng1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085916317148938285",
+    "in_reply_to_user_id": "1620684748090904576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085748968529743975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ldunyng1 好可爱的小鸡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1919,
+        "media_key": "3_2085748964314542081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIRodybcAEZvLd.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2085748964289302528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIRodsaUAADSUF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2085631660515905757",
+        "created_at": "2026-08-08T02:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T03:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085916317148938285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1620684748090904576",
+              "start": 0,
+              "username": "ldunyng1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085916317148938285",
+        "in_reply_to_user_id": "1620684748090904576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085748968529743975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ldunyng1 好可爱的小鸡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085748964314542081",
+            "3_2085748964289302528"
+          ]
+        },
+        "author_id": "1620684748090904576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2085631660515905757",
+        "created_at": "2026-08-07T15:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085748968529743975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gLPzAHQYhP",
+              "end": 83,
+              "expanded_url": "https://x.com/ldunyng1/status/2085748968529743975/photo/1",
+              "media_key": "3_2085748964314542081",
+              "start": 60,
+              "url": "https://t.co/gLPzAHQYhP"
+            },
+            {
+              "display_url": "pic.x.com/gLPzAHQYhP",
+              "end": 83,
+              "expanded_url": "https://x.com/ldunyng1/status/2085748968529743975/photo/1",
+              "media_key": "3_2085748964289302528",
+              "start": 60,
+              "url": "https://t.co/gLPzAHQYhP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085748968529743975",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085631660515905757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 抱抱你，顺便给你看看我的小黑和小白，要是有一天他们走了，我可能会把他们做成标本，就像之前的楸甲一样 https://t.co/gLPzAHQYhP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫遭举报冻结...🚬/🩸/ed/🐭/🐶/🐱...互关欢迎会查成分...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 聊天先过门吧我没什么多余精力了🩵亲友@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2072889837548712297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4631,
+          "following_count": 710,
+          "like_count": 5739,
+          "listed_count": 9,
+          "media_count": 1111,
+          "tweet_count": 4304
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-01T07:25:38.000Z",
+        "description": "不要看350234😭",
+        "id": "1620684748090904576",
+        "location": "还有350235😭",
+        "name": "AAA泰拉本子大王😋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620739715849916418/x_rT86Tr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 167,
+          "like_count": 1360,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 871
+        },
+        "url": "",
+        "username": "ldunyng1",
+        "verified": false
+      }
+    ]
+  }
+}
