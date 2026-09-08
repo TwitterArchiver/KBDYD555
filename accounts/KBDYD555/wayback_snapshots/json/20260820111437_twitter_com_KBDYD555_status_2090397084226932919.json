@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557450235621695488",
+    "conversation_id": "2090358516204908893",
+    "created_at": "2026-08-20T11:14:37.000Z",
+    "display_text_range": [
+      12,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T12:14:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090397084226932919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1809450762046738432",
+          "start": 0,
+          "username": "huacai2233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090397084226932919",
+    "in_reply_to_user_id": "1809450762046738432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090395324053688779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huacai2233 我妈也是说要送我进医院骂我骂的特别难听唉抱抱你呀宝宝🫂🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2090358516204908893",
+        "created_at": "2026-08-20T11:14:37.000Z",
+        "display_text_range": [
+          12,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T12:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090397084226932919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1809450762046738432",
+              "start": 0,
+              "username": "huacai2233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090397084226932919",
+        "in_reply_to_user_id": "1809450762046738432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090395324053688779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huacai2233 我妈也是说要送我进医院骂我骂的特别难听唉抱抱你呀宝宝🫂🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809450762046738432",
+        "conversation_id": "2090358516204908893",
+        "created_at": "2026-08-20T11:07:37.000Z",
+        "display_text_range": [
+          10,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T12:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090395324053688779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090395324053688779",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090358516204908893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 抱抱你 我妈也是 上次看见我割手一直在骂我 说我不听劝 她救不了我了 要报警把我送到精神病院 所以很痛苦吧抱抱🫂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫遭举报冻结...🚬/🩸/ed/🐭/🐶/🐱...互关欢迎会查成分...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 聊天先过门吧我没什么多余精力了🩵亲友@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "is_identity_verified": false,
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "most_recent_tweet_id": "2090397084226932919",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2072889837548712297",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557450235621695488/1768298893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4609,
+          "following_count": 706,
+          "like_count": 5791,
+          "listed_count": 8,
+          "media_count": 1113,
+          "tweet_count": 4329
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-06T04:54:36.000Z",
+        "description": "花菜\n08 想要和你们互fo扩列🥹",
+        "id": "1809450762046738432",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090395324053688779",
+        "name": "花菜",
+        "pinned_tweet_id": "2089752397606519091",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1809450762046738432/1782114546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809451374771597314/81b8jNcW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 39,
+          "like_count": 1010,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 529
+        },
+        "url": "",
+        "username": "huacai2233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
